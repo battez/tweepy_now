@@ -1,0 +1,36 @@
+2016-06-05 14:14:46,257 PARAMS: {}
+2016-06-05 14:14:46,272 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 14:14:46,935 PARAMS: {'create': b'True'}
+2016-06-05 14:16:18,315 PARAMS: {}
+2016-06-05 14:16:18,323 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 14:16:18,843 PARAMS: {'create': b'True'}
+2016-06-05 15:26:16,421 PARAMS: {}
+2016-06-05 15:26:16,458 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 15:26:17,074 PARAMS: {'create': b'True'}
+2016-06-05 15:26:25,686 PARAMS: {}
+2016-06-05 15:26:25,690 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 15:26:26,209 PARAMS: {'create': b'True'}
+2016-06-05 15:50:34,660 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 15:50:35,219 PARAMS: {}
+2016-06-05 15:50:35,221 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 15:51:22,166 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 15:51:22,623 PARAMS: {}
+2016-06-05 15:51:22,626 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 15:51:23,107 PARAMS: {'create': b'True'}
+2016-06-05 16:04:16,384 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:10:09,317 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:10:09,854 PARAMS: {'id': b'twitter'}
+2016-06-05 16:10:09,859 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:10:10,297 PARAMS: {'create': b'True'}
+2016-06-05 16:10:31,688 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:10:32,179 PARAMS: {'id': b'hughsmithie'}
+2016-06-05 16:10:32,181 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:10:32,396 PARAMS: {'create': b'True'}
+2016-06-05 16:21:04,218 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:21:04,649 PARAMS: {'id': b'hughsmithie'}
+2016-06-05 16:21:04,651 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:21:04,922 PARAMS: {'create': b'True'}
+2016-06-05 16:21:36,052 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:21:36,563 PARAMS: {'id': b'hughsmithie'}
+2016-06-05 16:21:36,566 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:21:36,770 PARAMS: {'create': b'True'}
