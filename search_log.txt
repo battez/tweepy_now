@@ -34,3 +34,61 @@
 2016-06-05 16:21:36,563 PARAMS: {'id': b'hughsmithie'}
 2016-06-05 16:21:36,566 Starting new HTTPS connection (1): api.twitter.com
 2016-06-05 16:21:36,770 PARAMS: {'create': b'True'}
+2016-06-05 16:41:27,898 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:41:28,439 PARAMS: {'id': b'hughsmithie'}
+2016-06-05 16:41:28,441 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:41:28,884 PARAMS: {'create': b'True'}
+2016-06-05 16:43:17,185 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:43:17,402 PARAMS: {'id': b'vnf_officiel'}
+2016-06-05 16:43:17,403 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:43:17,835 PARAMS: {'create': b'True'}
+2016-06-05 16:45:13,565 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:45:14,094 PARAMS: {'id': b'vnf_officiel'}
+2016-06-05 16:45:14,095 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:45:14,499 PARAMS: {'create': b'True'}
+2016-06-05 16:46:49,566 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:46:50,045 PARAMS: {'id': b'vnf_officiel'}
+2016-06-05 16:46:50,047 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:46:50,452 PARAMS: {'create': b'True'}
+2016-06-05 16:49:19,072 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:49:19,550 PARAMS: {'id': b'vnf_officiel'}
+2016-06-05 16:49:19,552 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:49:19,983 PARAMS: {'create': b'True'}
+2016-06-05 16:52:46,577 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:52:47,020 PARAMS: {'id': b'vnf_officiel'}
+2016-06-05 16:52:47,023 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:52:47,444 PARAMS: {'create': b'True'}
+2016-06-05 16:55:37,930 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:55:38,431 PARAMS: {'id': b'vnf_officiel'}
+2016-06-05 16:55:38,440 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:55:38,845 PARAMS: {'create': b'True'}
+2016-06-05 16:57:13,459 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:57:13,873 PARAMS: {'id': b'vnf_officiel'}
+2016-06-05 16:57:13,878 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:57:14,289 PARAMS: {'create': b'True'}
+2016-06-05 16:58:40,887 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:58:41,419 PARAMS: {'id': b'vnf_officiel'}
+2016-06-05 16:58:41,420 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:58:41,826 PARAMS: {'create': b'True'}
+2016-06-05 16:59:21,677 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:59:22,045 PARAMS: {'id': b'vnf_officiel'}
+2016-06-05 16:59:22,047 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:59:22,444 PARAMS: {'create': b'True'}
+2016-06-05 16:59:46,062 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:59:46,550 PARAMS: {'id': b'vnf_officiel'}
+2016-06-05 16:59:46,551 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 16:59:47,003 PARAMS: {'create': b'True'}
+2016-06-05 17:13:26,485 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 17:13:27,088 PARAMS: {'id': b'vnf_officiel'}
+2016-06-05 17:13:27,094 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 17:13:27,483 PARAMS: {'create': b'True'}
+2016-06-05 17:13:29,824 PARAMS: {'id': b'vnf_officiel', 'max_id': b'709653486867247103'}
+2016-06-05 17:13:30,129 PARAMS: {'create': b'True'}
+2016-06-05 17:13:31,992 PARAMS: {'id': b'vnf_officiel', 'max_id': b'702049294589804543'}
+2016-06-05 17:13:32,427 PARAMS: {'create': b'True'}
+2016-06-05 17:13:34,292 PARAMS: {'id': b'vnf_officiel', 'max_id': b'697716450983718912'}
+2016-06-05 17:13:34,733 PARAMS: {'create': b'True'}
+2016-06-05 17:13:36,603 PARAMS: {'id': b'vnf_officiel', 'max_id': b'691921625483206655'}
+2016-06-05 17:13:37,289 PARAMS: {'create': b'True'}
+2016-06-05 17:15:29,944 Starting new HTTPS connection (1): api.twitter.com
+2016-06-05 17:15:30,478 id, vnf_officiel, 100

@@ -50,10 +50,12 @@ db_alt = client_alt.demo
 
 def process_or_store(tweet):
     '''do something with tweets we get from Twitter API'''
-    print(json.dumps(tweet))
+    collection = db_alt['tweets']
+    collection.insert(tweet)
 
 
-for status in tweepy.Cursor(api.user_timeline, id="hughsmithie").items(1):
+print('processing...')
+
+for status in tweepy.Cursor(api.user_timeline, id="vnf_officiel").items(100):
     # Process a single status
-    process_or_store(status._json) 
-
+    process_or_store(status._json) # convenience to get json from Status obj
