@@ -1,0 +1,1417 @@
+2016-06-21 19:42:24,000 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:42:24,668 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 19:42:39,683 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:42:39,686 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:42:40,128 PARAMS: {'create': b'True'}
+2016-06-21 19:42:55,138 PARAMS: {'q': b'millimetres since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:42:55,144 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:42:55,752 PARAMS: {'create': b'True'}
+2016-06-21 19:43:10,768 PARAMS: {'q': b'inches since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:43:10,773 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:43:11,202 PARAMS: {'create': b'True'}
+2016-06-21 19:43:26,228 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:43:26,230 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:43:26,748 PARAMS: {'create': b'True'}
+2016-06-21 19:43:41,765 PARAMS: {'q': b'pouring since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:43:41,774 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:43:42,496 PARAMS: {'create': b'True'}
+2016-06-21 19:43:57,499 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:43:57,502 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:43:57,969 PARAMS: {'create': b'True'}
+2016-06-21 19:44:12,986 PARAMS: {'q': b'disruption since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:44:12,989 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:44:13,457 PARAMS: {'create': b'True'}
+2016-06-21 19:44:28,467 PARAMS: {'q': b'road closed since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:44:28,470 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:44:29,026 PARAMS: {'create': b'True'}
+2016-06-21 19:44:44,042 PARAMS: {'q': b'downpour since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:44:44,058 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:44:44,534 PARAMS: {'create': b'True'}
+2016-06-21 19:44:59,545 PARAMS: {'q': b'torrential since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:44:59,548 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:45:00,197 PARAMS: {'create': b'True'}
+2016-06-21 19:45:15,210 PARAMS: {'q': b'bucket since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:45:15,214 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:45:15,761 PARAMS: {'create': b'True'}
+2016-06-21 19:45:30,776 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:45:30,779 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:45:31,253 PARAMS: {'create': b'True'}
+2016-06-21 19:45:46,269 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:45:46,272 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:45:46,895 PARAMS: {'create': b'True'}
+2016-06-21 19:46:01,911 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:46:01,914 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:46:02,439 PARAMS: {'create': b'True'}
+2016-06-21 19:46:17,451 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:46:17,454 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:46:18,025 PARAMS: {'create': b'True'}
+2016-06-21 19:46:33,041 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:46:33,044 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:46:33,526 PARAMS: {'create': b'True'}
+2016-06-21 19:46:48,542 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:46:48,545 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:46:49,253 PARAMS: {'create': b'True'}
+2016-06-21 19:47:04,265 PARAMS: {'q': b'storm since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:47:04,268 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:47:04,820 PARAMS: {'create': b'True'}
+2016-06-21 19:47:19,831 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:47:19,834 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:47:20,326 PARAMS: {'create': b'True'}
+2016-06-21 19:47:35,395 PARAMS: {'q': b'skies since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:47:35,412 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:47:35,939 PARAMS: {'create': b'True'}
+2016-06-21 19:47:50,953 PARAMS: {'q': b'clouds since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:47:50,956 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:47:51,512 PARAMS: {'create': b'True'}
+2016-06-21 19:48:06,526 PARAMS: {'q': b'flow since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:48:06,529 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:48:07,002 PARAMS: {'create': b'True'}
+2016-06-21 19:48:22,017 PARAMS: {'q': b'stream since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:48:22,021 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:48:22,458 PARAMS: {'create': b'True'}
+2016-06-21 19:48:37,474 PARAMS: {'q': b'deluge since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:48:37,485 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:48:38,137 PARAMS: {'create': b'True'}
+2016-06-21 19:48:53,147 PARAMS: {'q': b'overflow since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:48:53,150 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:48:53,975 PARAMS: {'create': b'True'}
+2016-06-21 19:49:09,017 PARAMS: {'q': b'damp since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:49:09,018 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:49:09,649 PARAMS: {'create': b'True'}
+2016-06-21 19:50:17,768 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:50:18,369 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 19:50:33,385 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:50:33,388 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:50:34,021 PARAMS: {'create': b'True'}
+2016-06-21 19:50:49,034 PARAMS: {'q': b'millimetres since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:50:49,037 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:50:49,547 PARAMS: {'create': b'True'}
+2016-06-21 19:51:04,563 PARAMS: {'q': b'inches since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:51:04,566 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:51:05,096 PARAMS: {'create': b'True'}
+2016-06-21 19:51:20,126 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:51:20,133 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:51:20,694 PARAMS: {'create': b'True'}
+2016-06-21 19:51:35,712 PARAMS: {'q': b'pouring since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:51:35,715 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:51:36,482 PARAMS: {'create': b'True'}
+2016-06-21 19:51:51,499 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:51:51,504 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:51:51,979 PARAMS: {'create': b'True'}
+2016-06-21 19:52:06,993 PARAMS: {'q': b'disruption since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:52:06,996 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:52:07,611 PARAMS: {'create': b'True'}
+2016-06-21 19:52:22,626 PARAMS: {'q': b'road closed since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:52:22,628 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:52:23,176 PARAMS: {'create': b'True'}
+2016-06-21 19:52:38,189 PARAMS: {'q': b'downpour since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:52:38,206 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:52:38,680 PARAMS: {'create': b'True'}
+2016-06-21 19:52:53,696 PARAMS: {'q': b'torrential since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:52:53,701 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:52:54,135 PARAMS: {'create': b'True'}
+2016-06-21 19:53:09,146 PARAMS: {'q': b'bucket since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:53:09,149 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:53:09,769 PARAMS: {'create': b'True'}
+2016-06-21 19:53:24,785 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:53:24,789 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:53:25,334 PARAMS: {'create': b'True'}
+2016-06-21 19:53:40,353 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:53:40,361 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:53:40,839 PARAMS: {'create': b'True'}
+2016-06-21 19:53:55,855 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:53:55,861 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:53:56,315 PARAMS: {'create': b'True'}
+2016-06-21 19:54:11,325 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:54:11,328 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:54:11,835 PARAMS: {'create': b'True'}
+2016-06-21 19:54:26,854 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:54:26,856 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:54:27,492 PARAMS: {'create': b'True'}
+2016-06-21 19:54:42,507 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:54:42,510 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:54:43,339 PARAMS: {'create': b'True'}
+2016-06-21 19:54:58,354 PARAMS: {'q': b'storm since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:54:58,357 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:54:59,026 PARAMS: {'create': b'True'}
+2016-06-21 19:55:14,043 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:55:14,045 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:55:14,698 PARAMS: {'create': b'True'}
+2016-06-21 19:55:29,737 PARAMS: {'q': b'skies since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:55:29,741 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:55:30,437 PARAMS: {'create': b'True'}
+2016-06-21 19:55:45,453 PARAMS: {'q': b'clouds since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:55:45,456 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:55:46,022 PARAMS: {'create': b'True'}
+2016-06-21 19:56:01,037 PARAMS: {'q': b'flow since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:56:01,043 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:56:01,483 PARAMS: {'create': b'True'}
+2016-06-21 19:56:16,498 PARAMS: {'q': b'stream since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:56:16,501 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:56:17,204 PARAMS: {'create': b'True'}
+2016-06-21 19:56:32,221 PARAMS: {'q': b'deluge since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:56:32,223 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:56:32,725 PARAMS: {'create': b'True'}
+2016-06-21 19:56:47,732 PARAMS: {'q': b'overflow since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:56:47,737 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:56:48,399 PARAMS: {'create': b'True'}
+2016-06-21 19:57:03,458 PARAMS: {'q': b'damp since:2016-06-14  until:2016-06-19 ', 'geocode': b'geocode:57.0769745,-2.7927203,60mi'}
+2016-06-21 19:57:03,460 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:57:04,109 PARAMS: {'create': b'True'}
+2016-06-21 19:57:40,312 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:57:40,933 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 19:57:55,950 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 '}
+2016-06-21 19:57:55,953 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:57:56,609 PARAMS: {'create': b'True'}
+2016-06-21 19:58:11,622 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b'millimetres since:2016-06-14  until:2016-06-19 '}
+2016-06-21 19:58:11,625 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:58:12,199 PARAMS: {'create': b'True'}
+2016-06-21 19:58:27,213 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b'inches since:2016-06-14  until:2016-06-19 '}
+2016-06-21 19:58:27,215 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:58:27,922 PARAMS: {'create': b'True'}
+2016-06-21 19:58:42,947 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b'rain since:2016-06-14  until:2016-06-19 '}
+2016-06-21 19:58:42,948 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:58:43,462 PARAMS: {'create': b'True'}
+2016-06-21 19:58:58,480 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b'pouring since:2016-06-14  until:2016-06-19 '}
+2016-06-21 19:58:58,483 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:58:59,008 PARAMS: {'create': b'True'}
+2016-06-21 19:59:14,023 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b'flood since:2016-06-14  until:2016-06-19 '}
+2016-06-21 19:59:14,027 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:59:14,515 PARAMS: {'create': b'True'}
+2016-06-21 19:59:29,525 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b'disruption since:2016-06-14  until:2016-06-19 '}
+2016-06-21 19:59:29,528 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:59:30,081 PARAMS: {'create': b'True'}
+2016-06-21 19:59:45,097 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b'road closed since:2016-06-14  until:2016-06-19 '}
+2016-06-21 19:59:45,102 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 19:59:45,648 PARAMS: {'create': b'True'}
+2016-06-21 20:00:00,665 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b'downpour since:2016-06-14  until:2016-06-19 '}
+2016-06-21 20:00:00,695 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:00:01,210 PARAMS: {'create': b'True'}
+2016-06-21 20:00:16,228 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b'torrential since:2016-06-14  until:2016-06-19 '}
+2016-06-21 20:00:16,231 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:00:16,980 PARAMS: {'create': b'True'}
+2016-06-21 20:00:31,995 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b'bucket since:2016-06-14  until:2016-06-19 '}
+2016-06-21 20:00:31,998 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:00:32,564 PARAMS: {'create': b'True'}
+2016-06-21 20:00:47,593 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b'forecast since:2016-06-14  until:2016-06-19 '}
+2016-06-21 20:00:47,595 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:00:48,124 PARAMS: {'create': b'True'}
+2016-06-21 20:01:03,135 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b'water since:2016-06-14  until:2016-06-19 '}
+2016-06-21 20:01:03,138 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:01:03,780 PARAMS: {'create': b'True'}
+2016-06-21 20:01:18,796 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b'heavy since:2016-06-14  until:2016-06-19 '}
+2016-06-21 20:01:18,798 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:01:19,356 PARAMS: {'create': b'True'}
+2016-06-21 20:01:34,373 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b'weather since:2016-06-14  until:2016-06-19 '}
+2016-06-21 20:01:34,376 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:01:35,009 PARAMS: {'create': b'True'}
+2016-06-21 20:01:50,025 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b'summer since:2016-06-14  until:2016-06-19 '}
+2016-06-21 20:01:50,028 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:01:50,574 PARAMS: {'create': b'True'}
+2016-06-21 20:02:05,590 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b'wet since:2016-06-14  until:2016-06-19 '}
+2016-06-21 20:02:05,594 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:02:06,100 PARAMS: {'create': b'True'}
+2016-06-21 20:04:03,507 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:04:04,043 max tweets: 2500 Queries:,mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 20:04:19,059 PARAMS: {'geocode': b'geocode:57.0769745,-2.7927203,60mi', 'q': b' since:2016-06-14  until:2016-06-19 '}
+2016-06-21 20:04:19,062 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:04:19,791 PARAMS: {'create': b'True'}
+2016-06-21 20:07:38,004 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:07:38,896 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 20:07:53,912 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:07:53,918 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:07:54,875 PARAMS: {'create': b'True'}
+2016-06-21 20:07:56,866 PARAMS: {'max_id': b'744213093249617919', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:07:57,298 PARAMS: {'create': b'True'}
+2016-06-21 20:07:58,717 PARAMS: {'max_id': b'744092445521088511', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:07:59,136 PARAMS: {'create': b'True'}
+2016-06-21 20:08:00,542 PARAMS: {'max_id': b'743986597729812479', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:08:00,979 PARAMS: {'create': b'True'}
+2016-06-21 20:08:02,386 PARAMS: {'max_id': b'743880905459179519', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:08:02,822 PARAMS: {'create': b'True'}
+2016-06-21 20:08:04,267 PARAMS: {'max_id': b'743775751917477887', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:08:04,679 PARAMS: {'create': b'True'}
+2016-06-21 20:08:06,106 PARAMS: {'max_id': b'743669508099833855', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:08:06,420 PARAMS: {'create': b'True'}
+2016-06-21 20:08:07,902 PARAMS: {'max_id': b'743563815061757953', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:08:08,248 PARAMS: {'create': b'True'}
+2016-06-21 20:08:09,695 PARAMS: {'max_id': b'743458118990987264', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:08:10,067 PARAMS: {'create': b'True'}
+2016-06-21 20:08:11,529 PARAMS: {'max_id': b'743352561709649919', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:08:11,845 PARAMS: {'create': b'True'}
+2016-06-21 20:08:13,247 PARAMS: {'max_id': b'743246863609040895', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:08:13,588 PARAMS: {'create': b'True'}
+2016-06-21 20:08:14,989 PARAMS: {'max_id': b'743156263371038719', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:08:15,349 PARAMS: {'create': b'True'}
+2016-06-21 20:08:16,761 PARAMS: {'max_id': b'743050430767370239', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:08:17,067 PARAMS: {'create': b'True'}
+2016-06-21 20:08:18,489 PARAMS: {'max_id': b'742944735745191936', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:12:59,533 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:13:01,442 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 20:13:16,458 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 '}
+2016-06-21 20:13:16,460 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:13:17,442 PARAMS: {'create': b'True'}
+2016-06-21 20:13:19,397 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'744213093249617919'}
+2016-06-21 20:13:19,758 PARAMS: {'create': b'True'}
+2016-06-21 20:13:21,159 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'744092445521088511'}
+2016-06-21 20:13:21,597 PARAMS: {'create': b'True'}
+2016-06-21 20:13:23,002 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743986597729812479'}
+2016-06-21 20:13:23,440 PARAMS: {'create': b'True'}
+2016-06-21 20:13:24,846 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743880905459179519'}
+2016-06-21 20:13:25,385 PARAMS: {'create': b'True'}
+2016-06-21 20:13:26,799 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743775751917477887'}
+2016-06-21 20:13:27,139 PARAMS: {'create': b'True'}
+2016-06-21 20:13:28,590 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743669508099833855'}
+2016-06-21 20:13:29,087 PARAMS: {'create': b'True'}
+2016-06-21 20:13:30,476 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743563815061757953'}
+2016-06-21 20:13:30,836 PARAMS: {'create': b'True'}
+2016-06-21 20:13:32,251 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743458118990987264'}
+2016-06-21 20:13:32,655 PARAMS: {'create': b'True'}
+2016-06-21 20:13:34,054 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743352561709649919'}
+2016-06-21 20:13:36,144 PARAMS: {'create': b'True'}
+2016-06-21 20:13:37,543 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743246863609040895'}
+2016-06-21 20:13:38,394 PARAMS: {'create': b'True'}
+2016-06-21 20:13:39,796 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743156263371038719'}
+2016-06-21 20:13:40,147 PARAMS: {'create': b'True'}
+2016-06-21 20:13:41,577 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743050430767370239'}
+2016-06-21 20:13:41,977 PARAMS: {'create': b'True'}
+2016-06-21 20:13:43,372 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'742944735745191936'}
+2016-06-21 20:13:43,785 PARAMS: {'create': b'True'}
+2016-06-21 20:13:45,192 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'742824472282058751'}
+2016-06-21 20:13:45,560 PARAMS: {'create': b'True'}
+2016-06-21 20:13:46,953 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'742733341552693248'}
+2016-06-21 20:13:47,402 PARAMS: {'create': b'True'}
+2016-06-21 20:13:48,809 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'742627645029003263'}
+2016-06-21 20:13:49,098 PARAMS: {'create': b'True'}
+2016-06-21 20:13:50,495 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'742507175122243583'}
+2016-06-21 20:13:50,685 PARAMS: {'create': b'True'}
+2016-06-21 20:13:50,780 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'742506848692097023'}
+2016-06-21 20:13:50,983 PARAMS: {'create': b'True'}
+2016-06-21 20:14:06,005 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'millimetres since:2016-06-14  until:2016-06-19 '}
+2016-06-21 20:14:06,010 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:14:06,857 PARAMS: {'create': b'True'}
+2016-06-21 20:14:21,877 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'inches since:2016-06-14  until:2016-06-19 '}
+2016-06-21 20:14:21,878 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:14:23,145 PARAMS: {'create': b'True'}
+2016-06-21 20:14:24,555 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'inches since:2016-06-14  until:2016-06-19 ', 'max_id': b'743417644640931839'}
+2016-06-21 20:14:24,996 PARAMS: {'create': b'True'}
+2016-06-21 20:14:26,404 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'inches since:2016-06-14  until:2016-06-19 ', 'max_id': b'743111209021538304'}
+2016-06-21 20:14:26,725 PARAMS: {'create': b'True'}
+2016-06-21 20:14:26,819 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'inches since:2016-06-14  until:2016-06-19 ', 'max_id': b'742725519515488255'}
+2016-06-21 20:14:27,029 PARAMS: {'create': b'True'}
+2016-06-21 20:14:42,046 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'rain since:2016-06-14  until:2016-06-19 '}
+2016-06-21 20:14:42,051 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:14:43,065 PARAMS: {'create': b'True'}
+2016-06-21 20:14:44,479 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744288650515648511'}
+2016-06-21 20:14:44,851 PARAMS: {'create': b'True'}
+2016-06-21 20:14:46,253 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744258369855315967'}
+2016-06-21 20:14:46,588 PARAMS: {'create': b'True'}
+2016-06-21 20:14:47,994 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744228193301856262'}
+2016-06-21 20:14:48,296 PARAMS: {'create': b'True'}
+2016-06-21 20:14:49,699 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744196670582362112'}
+2016-06-21 20:14:50,072 PARAMS: {'create': b'True'}
+2016-06-21 20:14:51,535 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744167777729134591'}
+2016-06-21 20:14:51,830 PARAMS: {'create': b'True'}
+2016-06-21 20:14:53,263 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744134891978244095'}
+2016-06-21 20:14:53,670 PARAMS: {'create': b'True'}
+2016-06-21 20:14:55,073 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744107377977335807'}
+2016-06-21 20:14:55,504 PARAMS: {'create': b'True'}
+2016-06-21 20:14:56,906 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744077346085404671'}
+2016-06-21 20:14:57,243 PARAMS: {'create': b'True'}
+2016-06-21 20:14:58,643 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744062156807733247'}
+2016-06-21 20:14:58,866 PARAMS: {'create': b'True'}
+2016-06-21 20:15:00,272 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744047145867743231'}
+2016-06-21 20:15:00,490 PARAMS: {'create': b'True'}
+2016-06-21 20:15:01,891 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744016782495727615'}
+2016-06-21 20:15:02,172 PARAMS: {'create': b'True'}
+2016-06-21 20:15:03,580 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743973598923268095'}
+2016-06-21 20:15:03,803 PARAMS: {'create': b'True'}
+2016-06-21 20:15:05,204 PARAMS: {'geocode': b'57.0769745,-2.7927203,60mi', 'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743941302249791491'}
+2016-06-21 20:15:05,553 PARAMS: {'create': b'True'}
+2016-06-21 20:16:46,294 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:16:46,848 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 20:17:01,863 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:01,865 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:17:02,916 PARAMS: {'create': b'True'}
+2016-06-21 20:17:04,876 PARAMS: {'max_id': b'744213093249617919', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:05,248 PARAMS: {'create': b'True'}
+2016-06-21 20:17:06,652 PARAMS: {'max_id': b'744092445521088511', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:07,084 PARAMS: {'create': b'True'}
+2016-06-21 20:17:08,489 PARAMS: {'max_id': b'743986597729812479', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:08,848 PARAMS: {'create': b'True'}
+2016-06-21 20:17:10,270 PARAMS: {'max_id': b'743880905459179519', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:10,671 PARAMS: {'create': b'True'}
+2016-06-21 20:17:12,087 PARAMS: {'max_id': b'743775751917477887', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:12,307 PARAMS: {'create': b'True'}
+2016-06-21 20:17:13,696 PARAMS: {'max_id': b'743669508099833855', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:13,908 PARAMS: {'create': b'True'}
+2016-06-21 20:17:15,317 PARAMS: {'max_id': b'743563815061757953', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:15,596 PARAMS: {'create': b'True'}
+2016-06-21 20:17:16,993 PARAMS: {'max_id': b'743458118990987264', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:17,429 PARAMS: {'create': b'True'}
+2016-06-21 20:17:18,826 PARAMS: {'max_id': b'743352561709649919', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:19,085 PARAMS: {'create': b'True'}
+2016-06-21 20:17:20,491 PARAMS: {'max_id': b'743246863609040895', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:20,921 PARAMS: {'create': b'True'}
+2016-06-21 20:17:22,323 PARAMS: {'max_id': b'743156263371038719', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:22,596 PARAMS: {'create': b'True'}
+2016-06-21 20:17:23,994 PARAMS: {'max_id': b'743050430767370239', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:24,304 PARAMS: {'create': b'True'}
+2016-06-21 20:17:25,724 PARAMS: {'max_id': b'742944735745191936', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:26,044 PARAMS: {'create': b'True'}
+2016-06-21 20:17:27,442 PARAMS: {'max_id': b'742824472282058751', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:27,885 PARAMS: {'create': b'True'}
+2016-06-21 20:17:29,285 PARAMS: {'max_id': b'742733341552693248', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:29,716 PARAMS: {'create': b'True'}
+2016-06-21 20:17:31,111 PARAMS: {'max_id': b'742627645029003263', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:31,469 PARAMS: {'create': b'True'}
+2016-06-21 20:17:32,870 PARAMS: {'max_id': b'742507175122243583', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:33,085 PARAMS: {'create': b'True'}
+2016-06-21 20:17:33,178 PARAMS: {'max_id': b'742506848692097023', 'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:33,330 PARAMS: {'create': b'True'}
+2016-06-21 20:17:48,389 PARAMS: {'q': b'millimetres since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:17:48,391 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:17:49,280 PARAMS: {'create': b'True'}
+2016-06-21 20:18:04,297 PARAMS: {'q': b'inches since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:18:04,300 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:18:05,082 PARAMS: {'create': b'True'}
+2016-06-21 20:18:06,501 PARAMS: {'max_id': b'743417644640931839', 'q': b'inches since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:18:06,896 PARAMS: {'create': b'True'}
+2016-06-21 20:18:08,316 PARAMS: {'max_id': b'743111209021538304', 'q': b'inches since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:18:08,482 PARAMS: {'create': b'True'}
+2016-06-21 20:18:08,576 PARAMS: {'max_id': b'742725519515488255', 'q': b'inches since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:18:08,713 PARAMS: {'create': b'True'}
+2016-06-21 20:18:23,731 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:18:23,737 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:20:34,076 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:20:34,863 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 20:20:49,880 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:20:49,887 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:20:50,939 PARAMS: {'create': b'True'}
+2016-06-21 20:20:52,898 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'744213093249617919', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:20:53,295 PARAMS: {'create': b'True'}
+2016-06-21 20:20:54,687 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'744092445521088511', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:20:55,136 PARAMS: {'create': b'True'}
+2016-06-21 20:20:56,529 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743986597729812479', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:20:56,874 PARAMS: {'create': b'True'}
+2016-06-21 20:20:58,282 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743880905459179519', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:20:58,507 PARAMS: {'create': b'True'}
+2016-06-21 20:20:59,925 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743775751917477887', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:00,457 PARAMS: {'create': b'True'}
+2016-06-21 20:21:01,855 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743669508099833855', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:02,197 PARAMS: {'create': b'True'}
+2016-06-21 20:21:03,594 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743563815061757953', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:03,853 PARAMS: {'create': b'True'}
+2016-06-21 20:21:05,270 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743458118990987264', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:05,575 PARAMS: {'create': b'True'}
+2016-06-21 20:21:06,979 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743352561709649919', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:07,331 PARAMS: {'create': b'True'}
+2016-06-21 20:21:08,738 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743246863609040895', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:09,074 PARAMS: {'create': b'True'}
+2016-06-21 20:21:10,480 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743156263371038719', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:10,815 PARAMS: {'create': b'True'}
+2016-06-21 20:21:12,216 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743050430767370239', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:12,452 PARAMS: {'create': b'True'}
+2016-06-21 20:21:13,866 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'742944735745191936', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:14,070 PARAMS: {'create': b'True'}
+2016-06-21 20:21:15,454 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'742824472282058751', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:15,698 PARAMS: {'create': b'True'}
+2016-06-21 20:21:17,101 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'742733341552693248', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:17,776 PARAMS: {'create': b'True'}
+2016-06-21 20:21:19,174 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'742627645029003263', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:19,416 PARAMS: {'create': b'True'}
+2016-06-21 20:21:20,802 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'742507175122243583', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:21,039 PARAMS: {'create': b'True'}
+2016-06-21 20:21:21,133 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-19 ', 'max_id': b'742506848692097023', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:21,357 PARAMS: {'create': b'True'}
+2016-06-21 20:21:21,361 Query returned: 256 tweets
+2016-06-21 20:21:36,378 PARAMS: {'q': b'millimetres since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:36,382 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:21:37,013 PARAMS: {'create': b'True'}
+2016-06-21 20:21:37,014 Query returned: 0 tweets
+2016-06-21 20:21:52,029 PARAMS: {'q': b'inches since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:52,030 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:21:52,856 PARAMS: {'create': b'True'}
+2016-06-21 20:21:54,251 PARAMS: {'q': b'inches since:2016-06-14  until:2016-06-19 ', 'max_id': b'743417644640931839', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:54,637 PARAMS: {'create': b'True'}
+2016-06-21 20:21:56,036 PARAMS: {'q': b'inches since:2016-06-14  until:2016-06-19 ', 'max_id': b'743111209021538304', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:56,370 PARAMS: {'create': b'True'}
+2016-06-21 20:21:56,463 PARAMS: {'q': b'inches since:2016-06-14  until:2016-06-19 ', 'max_id': b'742725519515488255', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:21:56,640 PARAMS: {'create': b'True'}
+2016-06-21 20:21:56,642 Query returned: 31 tweets
+2016-06-21 20:22:11,658 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:11,660 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:22:12,468 PARAMS: {'create': b'True'}
+2016-06-21 20:22:13,873 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744288650515648511', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:14,289 PARAMS: {'create': b'True'}
+2016-06-21 20:22:15,686 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744258369855315967', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:16,130 PARAMS: {'create': b'True'}
+2016-06-21 20:22:17,532 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744228193301856262', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:17,829 PARAMS: {'create': b'True'}
+2016-06-21 20:22:19,233 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744196670582362112', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:19,611 PARAMS: {'create': b'True'}
+2016-06-21 20:22:21,028 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744167777729134591', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:21,457 PARAMS: {'create': b'True'}
+2016-06-21 20:22:22,863 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744134891978244095', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:23,108 PARAMS: {'create': b'True'}
+2016-06-21 20:22:24,522 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744107377977335807', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:24,941 PARAMS: {'create': b'True'}
+2016-06-21 20:22:26,346 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744077346085404671', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:26,679 PARAMS: {'create': b'True'}
+2016-06-21 20:22:28,089 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744062156807733247', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:28,421 PARAMS: {'create': b'True'}
+2016-06-21 20:22:29,832 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744047145867743231', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:30,178 PARAMS: {'create': b'True'}
+2016-06-21 20:22:31,582 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'744016782495727615', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:32,415 PARAMS: {'create': b'True'}
+2016-06-21 20:22:33,805 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743973598923268095', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:34,170 PARAMS: {'create': b'True'}
+2016-06-21 20:22:35,568 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743941302249791491', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:35,894 PARAMS: {'create': b'True'}
+2016-06-21 20:22:37,301 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743917813593739264', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:37,735 PARAMS: {'create': b'True'}
+2016-06-21 20:22:39,149 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743899005814464511', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:39,590 PARAMS: {'create': b'True'}
+2016-06-21 20:22:41,000 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743880905459179519', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:41,431 PARAMS: {'create': b'True'}
+2016-06-21 20:22:42,892 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743865927142379520', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:43,367 PARAMS: {'create': b'True'}
+2016-06-21 20:22:44,774 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743853102684643327', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:45,210 PARAMS: {'create': b'True'}
+2016-06-21 20:22:46,666 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743835726882668543', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:47,055 PARAMS: {'create': b'True'}
+2016-06-21 20:22:48,495 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743822278371205120', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:48,799 PARAMS: {'create': b'True'}
+2016-06-21 20:22:50,236 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743812225715023871', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:50,662 PARAMS: {'create': b'True'}
+2016-06-21 20:22:52,144 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743805461493911551', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:52,452 PARAMS: {'create': b'True'}
+2016-06-21 20:22:53,886 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743794436421881855', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:54,176 PARAMS: {'create': b'True'}
+2016-06-21 20:22:55,594 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743782830694633471', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:55,918 PARAMS: {'create': b'True'}
+2016-06-21 20:22:57,324 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743770652944044031', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:57,543 PARAMS: {'create': b'True'}
+2016-06-21 20:22:58,953 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743759607911223295', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:22:59,208 PARAMS: {'create': b'True'}
+2016-06-21 20:23:00,602 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743753013995569152', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:01,204 PARAMS: {'create': b'True'}
+2016-06-21 20:23:02,636 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743745006356201476', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:02,944 PARAMS: {'create': b'True'}
+2016-06-21 20:23:04,336 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743735040517931007', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:04,594 PARAMS: {'create': b'True'}
+2016-06-21 20:23:06,017 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743727370419343360', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:06,231 PARAMS: {'create': b'True'}
+2016-06-21 20:23:07,623 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743716590202421248', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:07,965 PARAMS: {'create': b'True'}
+2016-06-21 20:23:09,424 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743702116410130431', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:09,806 PARAMS: {'create': b'True'}
+2016-06-21 20:23:11,270 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743695457851826175', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:11,581 PARAMS: {'create': b'True'}
+2016-06-21 20:23:13,046 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743684659091931136', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:13,393 PARAMS: {'create': b'True'}
+2016-06-21 20:23:14,810 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743669633228537855', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:15,133 PARAMS: {'create': b'True'}
+2016-06-21 20:23:16,530 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743639453135159295', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:16,735 PARAMS: {'create': b'True'}
+2016-06-21 20:23:18,123 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743609235808849923', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:18,508 PARAMS: {'create': b'True'}
+2016-06-21 20:23:19,920 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743579725776437247', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:20,149 PARAMS: {'create': b'True'}
+2016-06-21 20:23:21,544 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743564356265324543', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:21,892 PARAMS: {'create': b'True'}
+2016-06-21 20:23:23,261 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743551013337075712', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:23,633 PARAMS: {'create': b'True'}
+2016-06-21 20:23:25,051 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743540058528092159', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:25,356 PARAMS: {'create': b'True'}
+2016-06-21 20:23:26,754 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743532578829893631', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:26,999 PARAMS: {'create': b'True'}
+2016-06-21 20:23:28,473 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743513289775263743', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:28,905 PARAMS: {'create': b'True'}
+2016-06-21 20:23:30,391 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743492016772943871', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:30,776 PARAMS: {'create': b'True'}
+2016-06-21 20:23:32,245 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743473218116268032', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:32,565 PARAMS: {'create': b'True'}
+2016-06-21 20:23:34,057 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743443139415900159', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:34,484 PARAMS: {'create': b'True'}
+2016-06-21 20:23:35,881 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743413625281449983', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:36,521 PARAMS: {'create': b'True'}
+2016-06-21 20:23:37,923 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743401666507055103', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:38,275 PARAMS: {'create': b'True'}
+2016-06-21 20:23:39,681 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743383839481991167', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:40,018 PARAMS: {'create': b'True'}
+2016-06-21 20:23:41,409 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743373850876973055', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:41,411 Resetting dropped connection: api.twitter.com
+2016-06-21 20:23:42,462 PARAMS: {'create': b'True'}
+2016-06-21 20:23:43,858 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743367516613902335', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:44,412 PARAMS: {'create': b'True'}
+2016-06-21 20:23:45,817 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743347820736839684', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:46,142 PARAMS: {'create': b'True'}
+2016-06-21 20:23:47,586 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743337756907102211', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:47,824 PARAMS: {'create': b'True'}
+2016-06-21 20:23:49,216 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743329770495082495', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:49,484 PARAMS: {'create': b'True'}
+2016-06-21 20:23:51,003 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743307460610400257', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:51,224 PARAMS: {'create': b'True'}
+2016-06-21 20:23:52,615 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743276971484913664', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:52,842 PARAMS: {'create': b'True'}
+2016-06-21 20:23:54,229 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743246783816568832', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:54,552 PARAMS: {'create': b'True'}
+2016-06-21 20:23:55,946 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743222432660598783', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:56,203 PARAMS: {'create': b'True'}
+2016-06-21 20:23:57,596 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743212867709722624', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:58,141 PARAMS: {'create': b'True'}
+2016-06-21 20:23:59,574 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743200466125873155', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:23:59,941 PARAMS: {'create': b'True'}
+2016-06-21 20:24:01,472 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743189888724504575', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:01,827 PARAMS: {'create': b'True'}
+2016-06-21 20:24:03,247 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743174648599351295', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:03,466 PARAMS: {'create': b'True'}
+2016-06-21 20:24:04,899 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743165981271465983', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:05,203 PARAMS: {'create': b'True'}
+2016-06-21 20:24:06,589 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743156125898539007', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:06,937 PARAMS: {'create': b'True'}
+2016-06-21 20:24:08,339 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743148202057150465', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:08,659 PARAMS: {'create': b'True'}
+2016-06-21 20:24:10,061 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743143267655626752', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:10,330 PARAMS: {'create': b'True'}
+2016-06-21 20:24:11,639 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743140584521613312', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:11,926 PARAMS: {'create': b'True'}
+2016-06-21 20:24:13,128 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743128330371772416', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:13,810 PARAMS: {'create': b'True'}
+2016-06-21 20:24:15,198 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743123020634456063', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:15,506 PARAMS: {'create': b'True'}
+2016-06-21 20:24:16,891 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743115787116892159', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:17,286 PARAMS: {'create': b'True'}
+2016-06-21 20:24:18,673 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743108376968757247', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:19,027 PARAMS: {'create': b'True'}
+2016-06-21 20:24:20,429 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743098340318031872', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:20,773 PARAMS: {'create': b'True'}
+2016-06-21 20:24:22,172 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743090444226170879', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:22,514 PARAMS: {'create': b'True'}
+2016-06-21 20:24:23,913 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743080784467251199', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:24,178 PARAMS: {'create': b'True'}
+2016-06-21 20:24:25,597 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743071935123312639', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:26,002 PARAMS: {'create': b'True'}
+2016-06-21 20:24:27,403 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743065652454363135', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:27,735 PARAMS: {'create': b'True'}
+2016-06-21 20:24:29,050 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743056472616144896', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:29,301 PARAMS: {'create': b'True'}
+2016-06-21 20:24:30,956 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743049466991792127', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:31,270 PARAMS: {'create': b'True'}
+2016-06-21 20:24:32,685 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743042794923646975', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:32,975 PARAMS: {'create': b'True'}
+2016-06-21 20:24:34,436 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743033387829592063', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:34,911 PARAMS: {'create': b'True'}
+2016-06-21 20:24:36,313 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743020232168574976', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:36,749 PARAMS: {'create': b'True'}
+2016-06-21 20:24:38,155 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743008222970322943', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:38,486 PARAMS: {'create': b'True'}
+2016-06-21 20:24:39,887 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'743002011927465983', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:40,152 PARAMS: {'create': b'True'}
+2016-06-21 20:24:41,553 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742990156412641280', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:41,874 PARAMS: {'create': b'True'}
+2016-06-21 20:24:43,303 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742984712050860031', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:43,644 PARAMS: {'create': b'True'}
+2016-06-21 20:24:45,049 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742974985413795839', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:45,502 PARAMS: {'create': b'True'}
+2016-06-21 20:24:46,901 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742967381379715071', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:47,291 PARAMS: {'create': b'True'}
+2016-06-21 20:24:48,689 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742959834887262207', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:49,034 PARAMS: {'create': b'True'}
+2016-06-21 20:24:50,427 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742944738584723455', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:50,653 PARAMS: {'create': b'True'}
+2016-06-21 20:24:52,042 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742914657216790528', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:52,243 PARAMS: {'create': b'True'}
+2016-06-21 20:24:53,631 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742886636976021503', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:54,051 PARAMS: {'create': b'True'}
+2016-06-21 20:24:55,454 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742869215317790720', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:55,791 PARAMS: {'create': b'True'}
+2016-06-21 20:24:57,190 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742856426809401343', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:57,533 PARAMS: {'create': b'True'}
+2016-06-21 20:24:58,933 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742843476967075839', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:24:59,170 PARAMS: {'create': b'True'}
+2016-06-21 20:25:00,635 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742824060086845440', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:01,136 PARAMS: {'create': b'True'}
+2016-06-21 20:25:02,539 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742814113152126975', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:02,859 PARAMS: {'create': b'True'}
+2016-06-21 20:25:04,252 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742805317113794561', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:04,598 PARAMS: {'create': b'True'}
+2016-06-21 20:25:05,993 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742793743351316480', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:06,322 PARAMS: {'create': b'True'}
+2016-06-21 20:25:07,757 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742778644930646015', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:08,079 PARAMS: {'create': b'True'}
+2016-06-21 20:25:09,497 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742763590185275391', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:09,499 Resetting dropped connection: api.twitter.com
+2016-06-21 20:25:10,336 PARAMS: {'create': b'True'}
+2016-06-21 20:25:11,739 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742748445358854148', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:12,146 PARAMS: {'create': b'True'}
+2016-06-21 20:25:13,557 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742735822705811456', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:14,106 PARAMS: {'create': b'True'}
+2016-06-21 20:25:15,511 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742722804630597632', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:15,815 PARAMS: {'create': b'True'}
+2016-06-21 20:25:17,232 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742708418255966207', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:17,797 PARAMS: {'create': b'True'}
+2016-06-21 20:25:19,188 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742702288880472063', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:19,741 PARAMS: {'create': b'True'}
+2016-06-21 20:25:21,140 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742689317080829951', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:21,580 PARAMS: {'create': b'True'}
+2016-06-21 20:25:22,976 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742683189009887236', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:23,426 PARAMS: {'create': b'True'}
+2016-06-21 20:25:24,814 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742666983062294527', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:25,266 PARAMS: {'create': b'True'}
+2016-06-21 20:25:26,571 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742646731679125503', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:27,019 PARAMS: {'create': b'True'}
+2016-06-21 20:25:28,451 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742633158726852607', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:29,059 PARAMS: {'create': b'True'}
+2016-06-21 20:25:30,447 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742612677957169151', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:30,688 PARAMS: {'create': b'True'}
+2016-06-21 20:25:32,080 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742597569470156799', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:32,636 PARAMS: {'create': b'True'}
+2016-06-21 20:25:34,031 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742567293486571520', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:34,291 PARAMS: {'create': b'True'}
+2016-06-21 20:25:35,707 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742537048360407041', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:35,891 PARAMS: {'create': b'True'}
+2016-06-21 20:25:36,827 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-19 ', 'max_id': b'742506848692097023', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:36,965 PARAMS: {'create': b'True'}
+2016-06-21 20:25:37,040 Query returned: 1713 tweets
+2016-06-21 20:25:52,057 PARAMS: {'q': b'pouring since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:52,059 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:25:52,840 PARAMS: {'create': b'True'}
+2016-06-21 20:25:54,231 PARAMS: {'q': b'pouring since:2016-06-14  until:2016-06-19 ', 'max_id': b'743724898145579007', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:54,542 PARAMS: {'create': b'True'}
+2016-06-21 20:25:55,988 PARAMS: {'q': b'pouring since:2016-06-14  until:2016-06-19 ', 'max_id': b'743125299022434304', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:56,288 PARAMS: {'create': b'True'}
+2016-06-21 20:25:57,688 PARAMS: {'q': b'pouring since:2016-06-14  until:2016-06-19 ', 'max_id': b'742835704657543167', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:57,867 PARAMS: {'create': b'True'}
+2016-06-21 20:25:58,610 PARAMS: {'q': b'pouring since:2016-06-14  until:2016-06-19 ', 'max_id': b'742633158726852607', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:25:58,765 PARAMS: {'create': b'True'}
+2016-06-21 20:25:58,767 Query returned: 53 tweets
+2016-06-21 20:26:13,771 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:26:13,774 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:26:14,572 PARAMS: {'create': b'True'}
+2016-06-21 20:26:15,999 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-19 ', 'max_id': b'743416847895240703', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:26:16,375 PARAMS: {'create': b'True'}
+2016-06-21 20:26:17,837 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-19 ', 'max_id': b'743380883579666431', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:26:18,211 PARAMS: {'create': b'True'}
+2016-06-21 20:26:19,639 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-19 ', 'max_id': b'743337091292004355', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:26:20,055 PARAMS: {'create': b'True'}
+2016-06-21 20:26:21,452 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-19 ', 'max_id': b'743148442986360831', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:26:21,900 PARAMS: {'create': b'True'}
+2016-06-21 20:26:23,322 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-19 ', 'max_id': b'743104229938737151', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:26:23,748 PARAMS: {'create': b'True'}
+2016-06-21 20:26:25,182 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-19 ', 'max_id': b'743091536020279297', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:26:25,581 PARAMS: {'create': b'True'}
+2016-06-21 20:26:26,985 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-19 ', 'max_id': b'743065901646352383', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:26:27,222 PARAMS: {'create': b'True'}
+2016-06-21 20:26:28,825 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-19 ', 'max_id': b'743040980484513791', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:26:29,170 PARAMS: {'create': b'True'}
+2016-06-21 20:26:30,633 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-19 ', 'max_id': b'743000395409174528', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:26:31,028 PARAMS: {'create': b'True'}
+2016-06-21 20:26:32,466 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-19 ', 'max_id': b'742612297902915583', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:26:32,647 PARAMS: {'create': b'True'}
+2016-06-21 20:26:32,742 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-19 ', 'max_id': b'742605855435149311', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:26:32,926 PARAMS: {'create': b'True'}
+2016-06-21 20:26:32,928 Query returned: 151 tweets
+2016-06-21 20:26:47,944 PARAMS: {'q': b'disruption since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:26:47,945 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:26:48,728 PARAMS: {'create': b'True'}
+2016-06-21 20:26:49,759 PARAMS: {'q': b'disruption since:2016-06-14  until:2016-06-19 ', 'max_id': b'742620932120928255', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:26:49,910 PARAMS: {'create': b'True'}
+2016-06-21 20:26:49,911 Query returned: 11 tweets
+2016-06-21 20:27:04,921 PARAMS: {'q': b'road closed since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:27:04,925 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:27:05,737 PARAMS: {'create': b'True'}
+2016-06-21 20:27:07,143 PARAMS: {'q': b'road closed since:2016-06-14  until:2016-06-19 ', 'max_id': b'743829345865728000', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:27:07,570 PARAMS: {'create': b'True'}
+2016-06-21 20:27:08,979 PARAMS: {'q': b'road closed since:2016-06-14  until:2016-06-19 ', 'max_id': b'743113439577509887', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:27:09,279 PARAMS: {'create': b'True'}
+2016-06-21 20:27:10,682 PARAMS: {'q': b'road closed since:2016-06-14  until:2016-06-19 ', 'max_id': b'742766271851270143', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:27:11,048 PARAMS: {'create': b'True'}
+2016-06-21 20:27:12,459 PARAMS: {'q': b'road closed since:2016-06-14  until:2016-06-19 ', 'max_id': b'742633338897321983', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:27:12,622 PARAMS: {'create': b'True'}
+2016-06-21 20:27:12,623 Query returned: 60 tweets
+2016-06-21 20:27:27,640 PARAMS: {'q': b'downpour since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:27:27,648 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:27:28,573 PARAMS: {'create': b'True'}
+2016-06-21 20:27:29,048 PARAMS: {'q': b'downpour since:2016-06-14  until:2016-06-19 ', 'max_id': b'742760575642566655', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:27:29,258 PARAMS: {'create': b'True'}
+2016-06-21 20:27:29,258 Query returned: 5 tweets
+2016-06-21 20:27:44,281 PARAMS: {'q': b'torrential since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:27:44,289 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:27:44,987 PARAMS: {'create': b'True'}
+2016-06-21 20:27:46,015 PARAMS: {'q': b'torrential since:2016-06-14  until:2016-06-19 ', 'max_id': b'742815546568101891', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:27:46,189 PARAMS: {'create': b'True'}
+2016-06-21 20:27:46,189 Query returned: 11 tweets
+2016-06-21 20:28:01,205 PARAMS: {'q': b'bucket since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:01,210 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:28:01,977 PARAMS: {'create': b'True'}
+2016-06-21 20:28:03,380 PARAMS: {'q': b'bucket since:2016-06-14  until:2016-06-19 ', 'max_id': b'744150170011602943', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:03,684 PARAMS: {'create': b'True'}
+2016-06-21 20:28:05,081 PARAMS: {'q': b'bucket since:2016-06-14  until:2016-06-19 ', 'max_id': b'743466491173953537', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:05,424 PARAMS: {'create': b'True'}
+2016-06-21 20:28:06,830 PARAMS: {'q': b'bucket since:2016-06-14  until:2016-06-19 ', 'max_id': b'743004755325288447', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:07,067 PARAMS: {'create': b'True'}
+2016-06-21 20:28:07,816 PARAMS: {'q': b'bucket since:2016-06-14  until:2016-06-19 ', 'max_id': b'742510216147816447', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:07,979 PARAMS: {'create': b'True'}
+2016-06-21 20:28:07,980 Query returned: 53 tweets
+2016-06-21 20:28:22,994 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:22,996 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:28:23,775 PARAMS: {'create': b'True'}
+2016-06-21 20:28:25,175 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'744213071565037567', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:25,483 PARAMS: {'create': b'True'}
+2016-06-21 20:28:26,886 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'744054552576532483', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:27,233 PARAMS: {'create': b'True'}
+2016-06-21 20:28:28,638 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'743911249520562175', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:28,973 PARAMS: {'create': b'True'}
+2016-06-21 20:28:30,379 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'743822614611648511', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:30,712 PARAMS: {'create': b'True'}
+2016-06-21 20:28:32,104 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'743697422598103042', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:32,422 PARAMS: {'create': b'True'}
+2016-06-21 20:28:33,823 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'743659538595852287', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:34,111 PARAMS: {'create': b'True'}
+2016-06-21 20:28:35,527 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'743510969838612480', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:35,745 PARAMS: {'create': b'True'}
+2016-06-21 20:28:37,143 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'743382613512028159', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:37,478 PARAMS: {'create': b'True'}
+2016-06-21 20:28:38,877 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'743329779558940674', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:39,217 PARAMS: {'create': b'True'}
+2016-06-21 20:28:40,612 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'743234415581667327', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:40,875 PARAMS: {'create': b'True'}
+2016-06-21 20:28:42,292 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'743148575220178943', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:42,613 PARAMS: {'create': b'True'}
+2016-06-21 20:28:44,048 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'743008913356914691', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:44,278 PARAMS: {'create': b'True'}
+2016-06-21 20:28:45,682 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'742967386786148351', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:45,908 PARAMS: {'create': b'True'}
+2016-06-21 20:28:47,318 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'742884346210754559', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:47,643 PARAMS: {'create': b'True'}
+2016-06-21 20:28:49,060 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'742786194963042303', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:49,339 PARAMS: {'create': b'True'}
+2016-06-21 20:28:50,753 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'742713884335865855', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:51,219 PARAMS: {'create': b'True'}
+2016-06-21 20:28:52,624 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'742642754447106047', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:52,931 PARAMS: {'create': b'True'}
+2016-06-21 20:28:54,330 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'742604993132265471', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:54,649 PARAMS: {'create': b'True'}
+2016-06-21 20:28:56,073 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'742582353478946815', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:56,550 PARAMS: {'create': b'True'}
+2016-06-21 20:28:57,970 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'742548285462695935', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:58,297 PARAMS: {'create': b'True'}
+2016-06-21 20:28:59,423 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-19 ', 'max_id': b'742520011269382144', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:28:59,563 PARAMS: {'create': b'True'}
+2016-06-21 20:28:59,567 Query returned: 312 tweets
+2016-06-21 20:29:14,592 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:14,594 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:29:15,610 PARAMS: {'create': b'True'}
+2016-06-21 20:29:17,011 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'744266960238632959', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:17,428 PARAMS: {'create': b'True'}
+2016-06-21 20:29:18,841 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'744226243646722047', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:19,262 PARAMS: {'create': b'True'}
+2016-06-21 20:29:20,667 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'744189889940434944', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:21,103 PARAMS: {'create': b'True'}
+2016-06-21 20:29:22,531 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'744156106801414143', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:23,047 PARAMS: {'create': b'True'}
+2016-06-21 20:29:24,468 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'744135795158638592', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:24,996 PARAMS: {'create': b'True'}
+2016-06-21 20:29:26,426 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'744123504249937919', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:26,865 PARAMS: {'create': b'True'}
+2016-06-21 20:29:28,279 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'744092517554073599', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:28,705 PARAMS: {'create': b'True'}
+2016-06-21 20:29:30,119 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'744046404037976064', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:30,624 PARAMS: {'create': b'True'}
+2016-06-21 20:29:32,044 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743984804568281087', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:32,573 PARAMS: {'create': b'True'}
+2016-06-21 20:29:33,993 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743962367835373567', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:34,623 PARAMS: {'create': b'True'}
+2016-06-21 20:29:36,050 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743953847240916992', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:36,376 PARAMS: {'create': b'True'}
+2016-06-21 20:29:37,774 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743884561415835647', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:38,318 PARAMS: {'create': b'True'}
+2016-06-21 20:29:39,613 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743835842809036799', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:39,951 PARAMS: {'create': b'True'}
+2016-06-21 20:29:40,980 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743790024500645888', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:41,340 PARAMS: {'create': b'True'}
+2016-06-21 20:29:42,742 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743752998380175359', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:43,137 PARAMS: {'create': b'True'}
+2016-06-21 20:29:44,535 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743735814136336383', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:44,875 PARAMS: {'create': b'True'}
+2016-06-21 20:29:46,265 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743552419536244735', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:46,618 PARAMS: {'create': b'True'}
+2016-06-21 20:29:48,021 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743484973571801087', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:48,352 PARAMS: {'create': b'True'}
+2016-06-21 20:29:49,738 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743400093261271039', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:50,025 PARAMS: {'create': b'True'}
+2016-06-21 20:29:51,424 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743342210813300735', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:51,740 PARAMS: {'create': b'True'}
+2016-06-21 20:29:53,160 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743211261844852735', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:53,471 PARAMS: {'create': b'True'}
+2016-06-21 20:29:54,855 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743176952643751935', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:55,226 PARAMS: {'create': b'True'}
+2016-06-21 20:29:56,636 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743149353255182335', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:56,969 PARAMS: {'create': b'True'}
+2016-06-21 20:29:58,394 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743103681239748607', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:29:58,715 PARAMS: {'create': b'True'}
+2016-06-21 20:30:00,135 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743079984303079424', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:00,546 PARAMS: {'create': b'True'}
+2016-06-21 20:30:01,944 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743069337557344255', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:02,369 PARAMS: {'create': b'True'}
+2016-06-21 20:30:03,825 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743051680334368767', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:04,131 PARAMS: {'create': b'True'}
+2016-06-21 20:30:05,539 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'743002551809941503', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:05,871 PARAMS: {'create': b'True'}
+2016-06-21 20:30:07,266 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'742979060272406527', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:07,499 PARAMS: {'create': b'True'}
+2016-06-21 20:30:08,896 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'742933389016236031', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:09,329 PARAMS: {'create': b'True'}
+2016-06-21 20:30:10,744 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'742857034597601279', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:11,100 PARAMS: {'create': b'True'}
+2016-06-21 20:30:12,511 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'742820206058340351', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:12,755 PARAMS: {'create': b'True'}
+2016-06-21 20:30:14,170 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'742797101260808191', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:14,996 PARAMS: {'create': b'True'}
+2016-06-21 20:30:16,417 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'742792491225776128', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:16,827 PARAMS: {'create': b'True'}
+2016-06-21 20:30:18,225 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'742755527483138047', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:18,678 PARAMS: {'create': b'True'}
+2016-06-21 20:30:20,083 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'742709482334105599', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:20,583 PARAMS: {'create': b'True'}
+2016-06-21 20:30:21,978 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'742674140449083391', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:22,258 PARAMS: {'create': b'True'}
+2016-06-21 20:30:23,664 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'742636022220128255', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:24,095 PARAMS: {'create': b'True'}
+2016-06-21 20:30:25,484 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-19 ', 'max_id': b'742516169060417536', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:25,665 PARAMS: {'create': b'True'}
+2016-06-21 20:30:25,673 Query returned: 580 tweets
+2016-06-21 20:30:40,694 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:40,697 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:30:41,748 PARAMS: {'create': b'True'}
+2016-06-21 20:30:43,146 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'max_id': b'743937462737735679', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:43,497 PARAMS: {'create': b'True'}
+2016-06-21 20:30:44,921 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'max_id': b'743761190669553664', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:45,278 PARAMS: {'create': b'True'}
+2016-06-21 20:30:46,680 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'max_id': b'743672099802255360', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:46,929 PARAMS: {'create': b'True'}
+2016-06-21 20:30:48,331 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'max_id': b'743380883579666431', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:48,758 PARAMS: {'create': b'True'}
+2016-06-21 20:30:50,183 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'max_id': b'743333414191849475', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:50,515 PARAMS: {'create': b'True'}
+2016-06-21 20:30:51,914 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'max_id': b'743155705365008383', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:52,246 PARAMS: {'create': b'True'}
+2016-06-21 20:30:53,669 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'max_id': b'743142916894429189', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:53,997 PARAMS: {'create': b'True'}
+2016-06-21 20:30:55,406 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'max_id': b'743088098486169599', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:55,707 PARAMS: {'create': b'True'}
+2016-06-21 20:30:57,099 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'max_id': b'743067825850318847', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:57,313 PARAMS: {'create': b'True'}
+2016-06-21 20:30:58,732 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'max_id': b'743046850798833663', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:30:59,023 PARAMS: {'create': b'True'}
+2016-06-21 20:31:00,443 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'max_id': b'743006344446377983', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:01,166 PARAMS: {'create': b'True'}
+2016-06-21 20:31:02,576 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'max_id': b'742879752105697281', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:02,899 PARAMS: {'create': b'True'}
+2016-06-21 20:31:04,301 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'max_id': b'742773937235431423', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:04,547 PARAMS: {'create': b'True'}
+2016-06-21 20:31:05,938 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'max_id': b'742648125744091135', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:06,279 PARAMS: {'create': b'True'}
+2016-06-21 20:31:07,402 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-19 ', 'max_id': b'742515710757339135', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:07,546 PARAMS: {'create': b'True'}
+2016-06-21 20:31:07,550 Query returned: 222 tweets
+2016-06-21 20:31:22,563 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:22,566 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:31:23,672 PARAMS: {'create': b'True'}
+2016-06-21 20:31:25,081 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'744281828580786175', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:25,620 PARAMS: {'create': b'True'}
+2016-06-21 20:31:27,071 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'744249672315789311', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:27,469 PARAMS: {'create': b'True'}
+2016-06-21 20:31:28,871 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'744222670850514943', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:29,406 PARAMS: {'create': b'True'}
+2016-06-21 20:31:30,825 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'744198114878361599', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:31,370 PARAMS: {'create': b'True'}
+2016-06-21 20:31:32,762 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'744171722212020223', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:33,209 PARAMS: {'create': b'True'}
+2016-06-21 20:31:34,912 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'744139811875860480', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:35,262 PARAMS: {'create': b'True'}
+2016-06-21 20:31:36,657 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'744107517760905215', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:36,890 PARAMS: {'create': b'True'}
+2016-06-21 20:31:38,281 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'744085523002691583', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:38,722 PARAMS: {'create': b'True'}
+2016-06-21 20:31:40,115 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'744062222612242431', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:40,568 PARAMS: {'create': b'True'}
+2016-06-21 20:31:42,040 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'744034300803293184', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:42,329 PARAMS: {'create': b'True'}
+2016-06-21 20:31:43,719 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743994931379834879', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:44,041 PARAMS: {'create': b'True'}
+2016-06-21 20:31:45,444 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743941421644779519', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:45,713 PARAMS: {'create': b'True'}
+2016-06-21 20:31:47,114 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743912826033569791', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:47,446 PARAMS: {'create': b'True'}
+2016-06-21 20:31:48,848 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743885067706064897', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:49,247 PARAMS: {'create': b'True'}
+2016-06-21 20:31:50,649 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743875665192181759', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:50,982 PARAMS: {'create': b'True'}
+2016-06-21 20:31:52,389 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743860565869731839', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:52,669 PARAMS: {'create': b'True'}
+2016-06-21 20:31:54,067 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743842677997854723', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:54,409 PARAMS: {'create': b'True'}
+2016-06-21 20:31:55,809 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743830361902292992', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:56,075 PARAMS: {'create': b'True'}
+2016-06-21 20:31:57,477 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743820238635044864', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:57,786 PARAMS: {'create': b'True'}
+2016-06-21 20:31:59,179 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743804453455826943', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:31:59,530 PARAMS: {'create': b'True'}
+2016-06-21 20:32:00,932 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743790430014312447', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:01,270 PARAMS: {'create': b'True'}
+2016-06-21 20:32:02,677 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743779870170292223', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:02,926 PARAMS: {'create': b'True'}
+2016-06-21 20:32:04,318 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743768429098901503', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:04,653 PARAMS: {'create': b'True'}
+2016-06-21 20:32:06,054 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743748148699398143', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:06,390 PARAMS: {'create': b'True'}
+2016-06-21 20:32:07,795 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743733085074685951', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:08,133 PARAMS: {'create': b'True'}
+2016-06-21 20:32:09,524 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743724642553073664', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:09,744 PARAMS: {'create': b'True'}
+2016-06-21 20:32:11,142 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743709575245766655', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:11,511 PARAMS: {'create': b'True'}
+2016-06-21 20:32:12,923 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743699833827950591', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:13,254 PARAMS: {'create': b'True'}
+2016-06-21 20:32:14,659 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743669633228537855', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:14,889 PARAMS: {'create': b'True'}
+2016-06-21 20:32:16,295 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743626467775393791', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:16,631 PARAMS: {'create': b'True'}
+2016-06-21 20:32:18,049 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743594196192362495', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:18,476 PARAMS: {'create': b'True'}
+2016-06-21 20:32:19,876 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743576816045162495', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:20,220 PARAMS: {'create': b'True'}
+2016-06-21 20:32:21,630 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743558076029108223', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:21,956 PARAMS: {'create': b'True'}
+2016-06-21 20:32:23,381 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743535908285222912', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:23,697 PARAMS: {'create': b'True'}
+2016-06-21 20:32:25,099 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743513678713098239', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:25,730 PARAMS: {'create': b'True'}
+2016-06-21 20:32:27,138 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743494651890532351', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:27,491 PARAMS: {'create': b'True'}
+2016-06-21 20:32:28,885 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743488309771501567', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:29,299 PARAMS: {'create': b'True'}
+2016-06-21 20:32:30,711 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743475209080954879', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:31,074 PARAMS: {'create': b'True'}
+2016-06-21 20:32:32,470 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743461624053383167', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:32,916 PARAMS: {'create': b'True'}
+2016-06-21 20:32:34,316 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743447787455516680', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:34,726 PARAMS: {'create': b'True'}
+2016-06-21 20:32:36,172 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743435098607915007', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:36,687 PARAMS: {'create': b'True'}
+2016-06-21 20:32:38,103 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743425471560441856', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:38,548 PARAMS: {'create': b'True'}
+2016-06-21 20:32:39,955 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743406037844267007', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:40,291 PARAMS: {'create': b'True'}
+2016-06-21 20:32:41,691 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743393605327405055', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:42,030 PARAMS: {'create': b'True'}
+2016-06-21 20:32:43,435 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743381664605290495', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:43,865 PARAMS: {'create': b'True'}
+2016-06-21 20:32:45,253 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743367790686404607', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:45,613 PARAMS: {'create': b'True'}
+2016-06-21 20:32:47,015 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743353712324673535', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:47,352 PARAMS: {'create': b'True'}
+2016-06-21 20:32:48,742 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743347891981324287', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:49,088 PARAMS: {'create': b'True'}
+2016-06-21 20:32:50,481 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743339730146734079', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:50,840 PARAMS: {'create': b'True'}
+2016-06-21 20:32:52,260 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743315438847725568', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:52,262 Resetting dropped connection: api.twitter.com
+2016-06-21 20:32:53,198 PARAMS: {'create': b'True'}
+2016-06-21 20:32:54,626 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743270153136279551', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:55,025 PARAMS: {'create': b'True'}
+2016-06-21 20:32:56,955 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743230552442970112', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:57,372 PARAMS: {'create': b'True'}
+2016-06-21 20:32:58,778 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743201125042630655', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:32:59,223 PARAMS: {'create': b'True'}
+2016-06-21 20:33:00,632 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743194987911872512', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:01,369 PARAMS: {'create': b'True'}
+2016-06-21 20:33:02,783 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743186326569254911', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:03,209 PARAMS: {'create': b'True'}
+2016-06-21 20:33:04,616 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743173477155348479', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:05,050 PARAMS: {'create': b'True'}
+2016-06-21 20:33:06,449 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743159591576477699', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:06,890 PARAMS: {'create': b'True'}
+2016-06-21 20:33:08,285 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743146459332239359', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:08,553 PARAMS: {'create': b'True'}
+2016-06-21 20:33:09,948 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743135701877784575', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:10,291 PARAMS: {'create': b'True'}
+2016-06-21 20:33:11,690 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743126200617406463', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:12,035 PARAMS: {'create': b'True'}
+2016-06-21 20:33:13,426 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743111858316443647', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:13,695 PARAMS: {'create': b'True'}
+2016-06-21 20:33:15,092 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743105530634338303', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:15,359 PARAMS: {'create': b'True'}
+2016-06-21 20:33:16,761 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743094744214085631', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:17,102 PARAMS: {'create': b'True'}
+2016-06-21 20:33:18,521 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743080751688744959', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:18,887 PARAMS: {'create': b'True'}
+2016-06-21 20:33:20,283 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743067920603959299', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:20,635 PARAMS: {'create': b'True'}
+2016-06-21 20:33:22,033 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743052741715632128', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:22,456 PARAMS: {'create': b'True'}
+2016-06-21 20:33:23,857 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743043147752693759', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:24,218 PARAMS: {'create': b'True'}
+2016-06-21 20:33:25,612 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743034387831361535', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:25,960 PARAMS: {'create': b'True'}
+2016-06-21 20:33:27,354 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743020232168574976', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:27,696 PARAMS: {'create': b'True'}
+2016-06-21 20:33:29,099 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'743005876693405695', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:29,436 PARAMS: {'create': b'True'}
+2016-06-21 20:33:30,838 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742993432604508159', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:31,175 PARAMS: {'create': b'True'}
+2016-06-21 20:33:32,570 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742985812439093247', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:32,920 PARAMS: {'create': b'True'}
+2016-06-21 20:33:34,311 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742975090661412863', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:34,662 PARAMS: {'create': b'True'}
+2016-06-21 20:33:36,061 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742965755461959679', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:36,403 PARAMS: {'create': b'True'}
+2016-06-21 20:33:37,793 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742944134378487811', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:38,345 PARAMS: {'create': b'True'}
+2016-06-21 20:33:39,746 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742899561614716927', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:40,092 PARAMS: {'create': b'True'}
+2016-06-21 20:33:41,490 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742862446789021695', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:41,828 PARAMS: {'create': b'True'}
+2016-06-21 20:33:43,219 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742833772127752191', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:43,571 PARAMS: {'create': b'True'}
+2016-06-21 20:33:44,968 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742817161354346495', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:45,313 PARAMS: {'create': b'True'}
+2016-06-21 20:33:46,707 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742807869020594175', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:47,161 PARAMS: {'create': b'True'}
+2016-06-21 20:33:48,566 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742785741609181184', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:48,899 PARAMS: {'create': b'True'}
+2016-06-21 20:33:50,291 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742764991435132927', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:50,636 PARAMS: {'create': b'True'}
+2016-06-21 20:33:52,046 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742756131211206655', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:52,377 PARAMS: {'create': b'True'}
+2016-06-21 20:33:53,768 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742743629584859135', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:54,046 PARAMS: {'create': b'True'}
+2016-06-21 20:33:55,437 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742721885704708096', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:55,754 PARAMS: {'create': b'True'}
+2016-06-21 20:33:57,140 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742711521579544575', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:57,357 PARAMS: {'create': b'True'}
+2016-06-21 20:33:58,764 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742696430792511487', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:33:59,139 PARAMS: {'create': b'True'}
+2016-06-21 20:34:00,538 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742686827715436543', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:00,799 PARAMS: {'create': b'True'}
+2016-06-21 20:34:02,194 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742675334038949887', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:02,414 PARAMS: {'create': b'True'}
+2016-06-21 20:34:03,807 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742650917292519423', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:04,047 PARAMS: {'create': b'True'}
+2016-06-21 20:34:05,435 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742624352819138559', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:05,690 PARAMS: {'create': b'True'}
+2016-06-21 20:34:07,080 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742584733020893183', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:07,430 PARAMS: {'create': b'True'}
+2016-06-21 20:34:08,821 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742536067941863424', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:08,993 PARAMS: {'create': b'True'}
+2016-06-21 20:34:09,652 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-19 ', 'max_id': b'742506971421659135', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:09,820 PARAMS: {'create': b'True'}
+2016-06-21 20:34:09,834 Query returned: 1402 tweets
+2016-06-21 20:34:24,853 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:24,855 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:34:25,956 PARAMS: {'create': b'True'}
+2016-06-21 20:34:27,358 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'744283876323893247', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:27,802 PARAMS: {'create': b'True'}
+2016-06-21 20:34:29,200 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'744261295030013951', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:29,640 PARAMS: {'create': b'True'}
+2016-06-21 20:34:31,037 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'744247946020012035', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:31,488 PARAMS: {'create': b'True'}
+2016-06-21 20:34:32,892 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'744233637772693503', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:33,236 PARAMS: {'create': b'True'}
+2016-06-21 20:34:34,628 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'744209271882125311', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:35,175 PARAMS: {'create': b'True'}
+2016-06-21 20:34:36,593 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'744185581593329663', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:36,928 PARAMS: {'create': b'True'}
+2016-06-21 20:34:38,335 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'744171721511440383', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:38,753 PARAMS: {'create': b'True'}
+2016-06-21 20:34:40,198 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'744155905231585279', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:40,510 PARAMS: {'create': b'True'}
+2016-06-21 20:34:41,919 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'744140684689555455', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:42,200 PARAMS: {'create': b'True'}
+2016-06-21 20:34:43,680 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'744102525511565312', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:43,962 PARAMS: {'create': b'True'}
+2016-06-21 20:34:45,364 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'744086502423072767', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:45,763 PARAMS: {'create': b'True'}
+2016-06-21 20:34:47,172 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'744021168471089152', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:47,553 PARAMS: {'create': b'True'}
+2016-06-21 20:34:48,959 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743930294076583936', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:49,326 PARAMS: {'create': b'True'}
+2016-06-21 20:34:50,745 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743902971856044031', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:51,025 PARAMS: {'create': b'True'}
+2016-06-21 20:34:52,439 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743879537251979263', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:52,803 PARAMS: {'create': b'True'}
+2016-06-21 20:34:54,248 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743853184150548480', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:54,645 PARAMS: {'create': b'True'}
+2016-06-21 20:34:56,050 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743843997811118080', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:56,384 PARAMS: {'create': b'True'}
+2016-06-21 20:34:57,780 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743833844458020863', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:58,117 PARAMS: {'create': b'True'}
+2016-06-21 20:34:59,518 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743826774744829951', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:34:59,856 PARAMS: {'create': b'True'}
+2016-06-21 20:35:01,244 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743815265079689216', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:01,600 PARAMS: {'create': b'True'}
+2016-06-21 20:35:03,015 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743794411902013439', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:03,344 PARAMS: {'create': b'True'}
+2016-06-21 20:35:04,751 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743777923581251585', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:05,088 PARAMS: {'create': b'True'}
+2016-06-21 20:35:06,499 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743753030948904960', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:06,913 PARAMS: {'create': b'True'}
+2016-06-21 20:35:08,348 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743733589527826431', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:08,720 PARAMS: {'create': b'True'}
+2016-06-21 20:35:10,145 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743714251320090623', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:10,509 PARAMS: {'create': b'True'}
+2016-06-21 20:35:11,916 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743654539585290239', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:12,254 PARAMS: {'create': b'True'}
+2016-06-21 20:35:13,656 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743558321462992897', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:13,991 PARAMS: {'create': b'True'}
+2016-06-21 20:35:15,378 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743544983345594367', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:15,732 PARAMS: {'create': b'True'}
+2016-06-21 20:35:17,127 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743514327915847679', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:17,679 PARAMS: {'create': b'True'}
+2016-06-21 20:35:19,089 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743489615106015231', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:19,431 PARAMS: {'create': b'True'}
+2016-06-21 20:35:20,837 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743463941024669695', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:21,132 PARAMS: {'create': b'True'}
+2016-06-21 20:35:22,564 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743436986594303999', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:22,907 PARAMS: {'create': b'True'}
+2016-06-21 20:35:24,312 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743423144984252415', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:24,579 PARAMS: {'create': b'True'}
+2016-06-21 20:35:26,116 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743407334102274047', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:26,413 PARAMS: {'create': b'True'}
+2016-06-21 20:35:27,824 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743382511695372288', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:28,095 PARAMS: {'create': b'True'}
+2016-06-21 20:35:29,517 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743359655015915524', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:29,821 PARAMS: {'create': b'True'}
+2016-06-21 20:35:31,218 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743333569343303679', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:31,650 PARAMS: {'create': b'True'}
+2016-06-21 20:35:33,056 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743217970739093503', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:33,426 PARAMS: {'create': b'True'}
+2016-06-21 20:35:34,859 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743197618726178815', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:35,160 PARAMS: {'create': b'True'}
+2016-06-21 20:35:36,624 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743169419514359808', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:36,956 PARAMS: {'create': b'True'}
+2016-06-21 20:35:37,614 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743159125299822591', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:37,959 PARAMS: {'create': b'True'}
+2016-06-21 20:35:39,385 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743146961478492159', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:39,760 PARAMS: {'create': b'True'}
+2016-06-21 20:35:41,167 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743132341716058111', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:41,536 PARAMS: {'create': b'True'}
+2016-06-21 20:35:42,929 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743097545346416641', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:43,163 PARAMS: {'create': b'True'}
+2016-06-21 20:35:44,195 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743084278444089343', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:44,502 PARAMS: {'create': b'True'}
+2016-06-21 20:35:45,164 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743071028096737279', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:45,436 PARAMS: {'create': b'True'}
+2016-06-21 20:35:46,859 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743055506760175615', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:47,126 PARAMS: {'create': b'True'}
+2016-06-21 20:35:48,559 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743039046474170368', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:48,813 PARAMS: {'create': b'True'}
+2016-06-21 20:35:50,675 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743026864562839551', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:50,967 PARAMS: {'create': b'True'}
+2016-06-21 20:35:52,367 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'743010542269403135', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:52,369 Resetting dropped connection: api.twitter.com
+2016-06-21 20:35:53,162 PARAMS: {'create': b'True'}
+2016-06-21 20:35:54,559 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'742996877700894719', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:55,037 PARAMS: {'create': b'True'}
+2016-06-21 20:35:56,434 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'742964882925096959', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:56,780 PARAMS: {'create': b'True'}
+2016-06-21 20:35:58,180 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'742838563310567423', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:35:58,624 PARAMS: {'create': b'True'}
+2016-06-21 20:36:00,028 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'742807566518980607', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:00,460 PARAMS: {'create': b'True'}
+2016-06-21 20:36:01,864 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'742793885676666879', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:02,203 PARAMS: {'create': b'True'}
+2016-06-21 20:36:03,611 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'742785439300489216', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:04,046 PARAMS: {'create': b'True'}
+2016-06-21 20:36:05,452 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'742759573308727295', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:05,703 PARAMS: {'create': b'True'}
+2016-06-21 20:36:07,112 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'742736792600842239', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:07,444 PARAMS: {'create': b'True'}
+2016-06-21 20:36:08,658 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'742721547698360319', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:08,980 PARAMS: {'create': b'True'}
+2016-06-21 20:36:10,379 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'742707084140154879', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:11,127 PARAMS: {'create': b'True'}
+2016-06-21 20:36:12,518 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'742692392717946879', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:12,872 PARAMS: {'create': b'True'}
+2016-06-21 20:36:14,081 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'742674231507455999', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:14,509 PARAMS: {'create': b'True'}
+2016-06-21 20:36:15,719 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'742654187729768447', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:16,053 PARAMS: {'create': b'True'}
+2016-06-21 20:36:17,466 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'742621406006026239', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:17,869 PARAMS: {'create': b'True'}
+2016-06-21 20:36:19,272 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'742527529450377215', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:19,613 PARAMS: {'create': b'True'}
+2016-06-21 20:36:20,010 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-19 ', 'max_id': b'742514070637662207', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:20,165 PARAMS: {'create': b'True'}
+2016-06-21 20:36:20,177 Query returned: 953 tweets
+2016-06-21 20:36:35,190 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:35,191 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:36:36,019 PARAMS: {'create': b'True'}
+2016-06-21 20:36:37,502 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'max_id': b'743891193029922816', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:37,947 PARAMS: {'create': b'True'}
+2016-06-21 20:36:39,367 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'max_id': b'743761457205018623', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:39,676 PARAMS: {'create': b'True'}
+2016-06-21 20:36:41,137 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'max_id': b'743533619843596287', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:41,533 PARAMS: {'create': b'True'}
+2016-06-21 20:36:42,941 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'max_id': b'743417021346492416', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:43,277 PARAMS: {'create': b'True'}
+2016-06-21 20:36:44,706 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'max_id': b'743347125484847103', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:45,092 PARAMS: {'create': b'True'}
+2016-06-21 20:36:46,646 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'max_id': b'743198528546160639', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:47,061 PARAMS: {'create': b'True'}
+2016-06-21 20:36:48,530 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'max_id': b'743164015434600447', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:49,101 PARAMS: {'create': b'True'}
+2016-06-21 20:36:50,535 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'max_id': b'743129152421810175', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:50,864 PARAMS: {'create': b'True'}
+2016-06-21 20:36:52,278 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'max_id': b'743062134549057535', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:52,612 PARAMS: {'create': b'True'}
+2016-06-21 20:36:54,020 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'max_id': b'743039019227963391', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:54,266 PARAMS: {'create': b'True'}
+2016-06-21 20:36:55,672 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'max_id': b'743006687829893119', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:55,946 PARAMS: {'create': b'True'}
+2016-06-21 20:36:57,337 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'max_id': b'742945186695774207', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:57,724 PARAMS: {'create': b'True'}
+2016-06-21 20:36:59,161 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'max_id': b'742739910730383359', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:36:59,406 PARAMS: {'create': b'True'}
+2016-06-21 20:37:00,812 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'max_id': b'742633275718524927', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:01,193 PARAMS: {'create': b'True'}
+2016-06-21 20:37:01,660 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-19 ', 'max_id': b'742513137828663299', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:01,831 PARAMS: {'create': b'True'}
+2016-06-21 20:37:01,835 Query returned: 215 tweets
+2016-06-21 20:37:16,852 PARAMS: {'q': b'storm since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:16,858 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:37:17,642 PARAMS: {'create': b'True'}
+2016-06-21 20:37:19,051 PARAMS: {'q': b'storm since:2016-06-14  until:2016-06-19 ', 'max_id': b'744193595830378495', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:19,516 PARAMS: {'create': b'True'}
+2016-06-21 20:37:20,730 PARAMS: {'q': b'storm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743868079629828096', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:21,172 PARAMS: {'create': b'True'}
+2016-06-21 20:37:22,587 PARAMS: {'q': b'storm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743489308951117823', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:23,119 PARAMS: {'create': b'True'}
+2016-06-21 20:37:24,549 PARAMS: {'q': b'storm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743429730779619327', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:24,953 PARAMS: {'create': b'True'}
+2016-06-21 20:37:26,370 PARAMS: {'q': b'storm since:2016-06-14  until:2016-06-19 ', 'max_id': b'743192892689252351', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:26,748 PARAMS: {'create': b'True'}
+2016-06-21 20:37:27,861 PARAMS: {'q': b'storm since:2016-06-14  until:2016-06-19 ', 'max_id': b'742872714474627071', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:28,237 PARAMS: {'create': b'True'}
+2016-06-21 20:37:29,358 PARAMS: {'q': b'storm since:2016-06-14  until:2016-06-19 ', 'max_id': b'742558624757747711', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:29,500 PARAMS: {'create': b'True'}
+2016-06-21 20:37:29,503 Query returned: 97 tweets
+2016-06-21 20:37:44,516 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:44,520 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:37:45,338 PARAMS: {'create': b'True'}
+2016-06-21 20:37:46,735 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-19 ', 'max_id': b'744228007741628415', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:47,165 PARAMS: {'create': b'True'}
+2016-06-21 20:37:48,558 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-19 ', 'max_id': b'744137926926340095', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:48,905 PARAMS: {'create': b'True'}
+2016-06-21 20:37:50,301 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-19 ', 'max_id': b'744002087030259711', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:50,748 PARAMS: {'create': b'True'}
+2016-06-21 20:37:52,152 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-19 ', 'max_id': b'743817666352250879', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:52,512 PARAMS: {'create': b'True'}
+2016-06-21 20:37:53,905 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-19 ', 'max_id': b'743632708723740671', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:54,133 PARAMS: {'create': b'True'}
+2016-06-21 20:37:55,560 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-19 ', 'max_id': b'743447800894078975', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:55,973 PARAMS: {'create': b'True'}
+2016-06-21 20:37:57,374 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-19 ', 'max_id': b'743312898756272127', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:57,735 PARAMS: {'create': b'True'}
+2016-06-21 20:37:59,149 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-19 ', 'max_id': b'743183145562947584', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:37:59,554 PARAMS: {'create': b'True'}
+2016-06-21 20:38:00,956 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-19 ', 'max_id': b'743113590127906816', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:01,216 PARAMS: {'create': b'True'}
+2016-06-21 20:38:02,615 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-19 ', 'max_id': b'743054137512857599', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:02,878 PARAMS: {'create': b'True'}
+2016-06-21 20:38:04,284 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-19 ', 'max_id': b'742998796175564799', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:04,596 PARAMS: {'create': b'True'}
+2016-06-21 20:38:05,993 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-19 ', 'max_id': b'742824764452966399', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:06,263 PARAMS: {'create': b'True'}
+2016-06-21 20:38:07,729 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-19 ', 'max_id': b'742622543861927935', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:07,995 PARAMS: {'create': b'True'}
+2016-06-21 20:38:08,852 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-19 ', 'max_id': b'742529488383266815', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:09,008 PARAMS: {'create': b'True'}
+2016-06-21 20:38:09,011 Query returned: 204 tweets
+2016-06-21 20:38:24,030 PARAMS: {'q': b'skies since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:24,035 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:38:24,968 PARAMS: {'create': b'True'}
+2016-06-21 20:38:26,393 PARAMS: {'q': b'skies since:2016-06-14  until:2016-06-19 ', 'max_id': b'744142492099043328', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:27,123 PARAMS: {'create': b'True'}
+2016-06-21 20:38:28,664 PARAMS: {'q': b'skies since:2016-06-14  until:2016-06-19 ', 'max_id': b'743535364678291455', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:29,287 PARAMS: {'create': b'True'}
+2016-06-21 20:38:30,377 PARAMS: {'q': b'skies since:2016-06-14  until:2016-06-19 ', 'max_id': b'742548285462695935', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:30,555 PARAMS: {'create': b'True'}
+2016-06-21 20:38:30,557 Query returned: 41 tweets
+2016-06-21 20:38:45,575 PARAMS: {'q': b'clouds since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:45,577 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:38:46,662 PARAMS: {'create': b'True'}
+2016-06-21 20:38:48,056 PARAMS: {'q': b'clouds since:2016-06-14  until:2016-06-19 ', 'max_id': b'744207845726486527', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:48,512 PARAMS: {'create': b'True'}
+2016-06-21 20:38:49,916 PARAMS: {'q': b'clouds since:2016-06-14  until:2016-06-19 ', 'max_id': b'743838893225566207', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:50,257 PARAMS: {'create': b'True'}
+2016-06-21 20:38:51,772 PARAMS: {'q': b'clouds since:2016-06-14  until:2016-06-19 ', 'max_id': b'743787250354290687', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:52,163 PARAMS: {'create': b'True'}
+2016-06-21 20:38:53,611 PARAMS: {'q': b'clouds since:2016-06-14  until:2016-06-19 ', 'max_id': b'743730160222908415', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:54,039 PARAMS: {'create': b'True'}
+2016-06-21 20:38:55,439 PARAMS: {'q': b'clouds since:2016-06-14  until:2016-06-19 ', 'max_id': b'743617883524071423', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:55,899 PARAMS: {'create': b'True'}
+2016-06-21 20:38:57,327 PARAMS: {'q': b'clouds since:2016-06-14  until:2016-06-19 ', 'max_id': b'743435288647766015', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:57,735 PARAMS: {'create': b'True'}
+2016-06-21 20:38:59,157 PARAMS: {'q': b'clouds since:2016-06-14  until:2016-06-19 ', 'max_id': b'743367196533993471', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:38:59,476 PARAMS: {'create': b'True'}
+2016-06-21 20:39:00,716 PARAMS: {'q': b'clouds since:2016-06-14  until:2016-06-19 ', 'max_id': b'742607312376999935', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:39:01,193 PARAMS: {'create': b'True'}
+2016-06-21 20:39:01,948 PARAMS: {'q': b'clouds since:2016-06-14  until:2016-06-19 ', 'max_id': b'742507394631110655', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:39:02,085 PARAMS: {'create': b'True'}
+2016-06-21 20:39:02,087 Query returned: 126 tweets
+2016-06-21 20:39:17,103 PARAMS: {'q': b'flow since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:39:17,104 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:39:17,975 PARAMS: {'create': b'True'}
+2016-06-21 20:39:19,376 PARAMS: {'q': b'flow since:2016-06-14  until:2016-06-19 ', 'max_id': b'743478017746427903', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:39:19,946 PARAMS: {'create': b'True'}
+2016-06-21 20:39:21,344 PARAMS: {'q': b'flow since:2016-06-14  until:2016-06-19 ', 'max_id': b'742666703017025535', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:39:21,581 PARAMS: {'create': b'True'}
+2016-06-21 20:39:21,860 PARAMS: {'q': b'flow since:2016-06-14  until:2016-06-19 ', 'max_id': b'742612473765859327', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:39:22,019 PARAMS: {'create': b'True'}
+2016-06-21 20:39:22,020 Query returned: 33 tweets
+2016-06-21 20:39:37,032 PARAMS: {'q': b'stream since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:39:37,035 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:39:37,895 PARAMS: {'create': b'True'}
+2016-06-21 20:39:39,230 PARAMS: {'q': b'stream since:2016-06-14  until:2016-06-19 ', 'max_id': b'744128730218520575', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:39:39,605 PARAMS: {'create': b'True'}
+2016-06-21 20:39:41,020 PARAMS: {'q': b'stream since:2016-06-14  until:2016-06-19 ', 'max_id': b'743908953675931648', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:39:41,358 PARAMS: {'create': b'True'}
+2016-06-21 20:39:42,781 PARAMS: {'q': b'stream since:2016-06-14  until:2016-06-19 ', 'max_id': b'743558673117626367', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:39:43,212 PARAMS: {'create': b'True'}
+2016-06-21 20:39:44,658 PARAMS: {'q': b'stream since:2016-06-14  until:2016-06-19 ', 'max_id': b'743375753337782271', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:39:45,173 PARAMS: {'create': b'True'}
+2016-06-21 20:39:46,591 PARAMS: {'q': b'stream since:2016-06-14  until:2016-06-19 ', 'max_id': b'743172329501503487', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:39:46,977 PARAMS: {'create': b'True'}
+2016-06-21 20:39:48,421 PARAMS: {'q': b'stream since:2016-06-14  until:2016-06-19 ', 'max_id': b'743117840945926143', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:39:48,821 PARAMS: {'create': b'True'}
+2016-06-21 20:39:50,241 PARAMS: {'q': b'stream since:2016-06-14  until:2016-06-19 ', 'max_id': b'742906869283442687', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:39:50,456 PARAMS: {'create': b'True'}
+2016-06-21 20:39:51,932 PARAMS: {'q': b'stream since:2016-06-14  until:2016-06-19 ', 'max_id': b'742730789746511871', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:39:52,169 PARAMS: {'create': b'True'}
+2016-06-21 20:39:52,829 PARAMS: {'q': b'stream since:2016-06-14  until:2016-06-19 ', 'max_id': b'742521954469548031', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:39:53,037 PARAMS: {'create': b'True'}
+2016-06-21 20:39:53,039 Query returned: 125 tweets
+2016-06-21 20:40:08,051 PARAMS: {'q': b'deluge since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:40:08,055 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:40:08,891 PARAMS: {'create': b'True'}
+2016-06-21 20:40:09,910 PARAMS: {'q': b'deluge since:2016-06-14  until:2016-06-19 ', 'max_id': b'742682122004123647', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:40:10,045 PARAMS: {'create': b'True'}
+2016-06-21 20:40:10,046 Query returned: 11 tweets
+2016-06-21 20:40:25,061 PARAMS: {'q': b'overflow since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:40:25,063 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:40:25,581 PARAMS: {'create': b'True'}
+2016-06-21 20:40:25,675 PARAMS: {'q': b'overflow since:2016-06-14  until:2016-06-19 ', 'max_id': b'744228589265031167', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:40:25,824 PARAMS: {'create': b'True'}
+2016-06-21 20:40:25,825 Query returned: 1 tweets
+2016-06-21 20:40:40,840 PARAMS: {'q': b'damp since:2016-06-14  until:2016-06-19 ', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:40:40,842 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:40:41,887 PARAMS: {'create': b'True'}
+2016-06-21 20:40:43,292 PARAMS: {'q': b'damp since:2016-06-14  until:2016-06-19 ', 'max_id': b'743000919307063296', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:40:43,533 PARAMS: {'create': b'True'}
+2016-06-21 20:40:43,812 PARAMS: {'q': b'damp since:2016-06-14  until:2016-06-19 ', 'max_id': b'742766728992686080', 'geocode': b'57.0769745,-2.7927203,60mi'}
+2016-06-21 20:40:43,952 PARAMS: {'create': b'True'}
+2016-06-21 20:40:43,953 Query returned: 18 tweets

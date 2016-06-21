@@ -20,7 +20,8 @@ from pymongo import MongoClient
 # basic logging for this task.
 import logging
 FORMAT = "%(asctime)-15s %(message)s"
-logging.basicConfig(filename="search_log.txt", level=logging.INFO, format=FORMAT)
+logging.basicConfig(filename="search_log_aberdeenshire.txt", \
+    level=logging.INFO, format=FORMAT)
 
 TWITDIR = '/home/luke/programming/'
 
@@ -49,7 +50,7 @@ try:
 except e:
     print ("Could not connect to MongoDB: %s" % e)
 
-db = client['Twitter']
+db = client['local']
 
 # remote test
 client_alt = MongoClient(config.MLAB_URI)
@@ -58,9 +59,10 @@ db_alt = client_alt.demo
 
 def process_or_store(tweet):
     '''do something with tweets we get from Twitter API'''
-    collection = db_alt['tweets_more']
+    collection = db_alt['tweet_aberdeen']
     try:
         collection.insert(tweet)
+        # print('tweet was', tweet)
     except:
         logging.error('could not insert to db')
 
@@ -75,20 +77,21 @@ def csv_reader(file_obj):
         lines.append(row[0].strip())
     return lines
 
-csv_file = 'compiled_france_location.csv'
+csv_file = 'compiled_aberdeenshire.csv'
 
 with open(csv_file, "r") as f_obj:
     queries = csv_reader(f_obj)
-queries = ['seinecrue', 'crueseine', 'pariscrues','pariscrue', 'cruesparis', \
- 'crueparis', 'flood', 'crue', 'inondation', 'intemperies']
+# queries = ['seinecrue', 'crueseine', 'pariscrues','pariscrue', 'cruesparis', \
+#  'crueparis', 'flood', 'crue', 'inondation', 'intemperies']
 max_tweets = 2500
 logging.info('max tweets: ' + str(max_tweets) + ' Queries:'+ ','.join(queries))
-since = " since:2016-05-30 "
-until = " until:2016-06-04 "  
+since = " since:2016-06-14 "
+until = " until:2016-06-19 "  
 geos = {'midway_paris_sens':'48.5377029,2.4897794,30mi', \
 'centred_on_paris':'48.8589507,1.2269498,90mi', \
-'paris':'48.8589507,2.27751752,10mi'}
-geo = geos['paris']
+'paris':'48.8589507,2.27751752,10mi', \
+'centred_on_aboyne': '57.0769745,-2.7927203,60mi'}
+geo = geos['centred_on_aboyne']
  # geocode – Returns tweets by users located within a given radius of
 # the given latitude/longitude. The location is preferentially taking from 
 #the Geotagging API, but will fall back to their Twitter profile. The 
@@ -96,16 +99,22 @@ geo = geos['paris']
 # might need to do until Saturday date so get max sweep of Wed Thu Fri
 
 # Finetune query:  also crues, intemperies, pariscrue, crueparis, 
-qualify = until
+qualify = since + until
+
+
 
 for query in queries:
-    sleep(10) # in case we overstep our mongo lab free access; or 
+    sleep(15) # in case we overstep our mongo lab free access; or 
     # if queries to twitter are too quickly getting zero results back, 
     # so we end up bombard the API
     print('processing...', query + qualify + ' geocode:' + geo)
-    
+    count = 0
     for status in tweepy.Cursor(api.search, \
         q=query + qualify, geocode=geo).items(max_tweets):
         # Process a single status
         process_or_store(status._json) # convenience: json from Status obj
+        count += 1
+
+    logging.info('Query returned: ' + str(count) + ' tweets =================')
+    print(str(count))
 
