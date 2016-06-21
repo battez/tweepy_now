@@ -43,6 +43,11 @@ auth_app = AppAuthHandler(config.alt_consumer_key, config.alt_consumer_secret)
 api = tweepy.API(auth_app, wait_on_rate_limit = True, \
     wait_on_rate_limit_notify = True )
 
+# uncomment to get places etc
+# api_oauth = tweepy.API(auth, wait_on_rate_limit = True, \
+#     wait_on_rate_limit_notify = True )
+
+
 # The JSON response from the Twitter API is available in the attribute 
 # _json (with a leading underscore), which is not raw JSON but dictionary.
 try:
@@ -77,16 +82,17 @@ def csv_reader(file_obj):
         lines.append(row[0].strip())
     return lines
 
-csv_file = 'compiled_aberdeenshire.csv'
+
+csv_file = 'scotland_place_plus_aberdeenplaceterm.csv'
 
 with open(csv_file, "r") as f_obj:
     queries = csv_reader(f_obj)
-# queries = ['seinecrue', 'crueseine', 'pariscrues','pariscrue', 'cruesparis', \
-#  'crueparis', 'flood', 'crue', 'inondation', 'intemperies']
+# queries = ['☂', '☔']
+queries = ['tarland','feugh']
 max_tweets = 2500
 logging.info('max tweets: ' + str(max_tweets) + ' Queries:'+ ','.join(queries))
 since = " since:2016-06-14 "
-until = " until:2016-06-19 "  
+until = " until:2016-06-18 "  
 geos = {'midway_paris_sens':'48.5377029,2.4897794,30mi', \
 'centred_on_paris':'48.8589507,1.2269498,90mi', \
 'paris':'48.8589507,2.27751752,10mi', \
@@ -101,13 +107,22 @@ geo = geos['centred_on_aboyne']
 # Finetune query:  also crues, intemperies, pariscrue, crueparis, 
 qualify = since + until
 
+# places = api_oauth.geo_search(query="Aberdeen, United Kingdom",granularity="city")
+# place_id = places[0].id
 
+# print(place_id) # 6416b8512febefc9 uk; aberdeen: 73cc26d418860ddd
 
+# UPDATED code for a very broad place search ( do not use the geocode )
+# test these searches with Apigee website console for simplicity
+places = {'Scotland':'0af014accd6f6e99','UK':'6416b8512febefc9', 'Aberdeen':'73cc26d418860ddd'}
+place = ' place:' + places['Scotland']
+geo = None # disable this for this type of query
+qualify = qualify + place
 for query in queries:
-    sleep(15) # in case we overstep our mongo lab free access; or 
+    sleep(10) # in case we overstep our mongo lab free access; or 
     # if queries to twitter are too quickly getting zero results back, 
     # so we end up bombard the API
-    print('processing...', query + qualify + ' geocode:' + geo)
+    print('processing...', query + qualify + str(geo))
     count = 0
     for status in tweepy.Cursor(api.search, \
         q=query + qualify, geocode=geo).items(max_tweets):

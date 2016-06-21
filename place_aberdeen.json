@@ -1,0 +1,1487 @@
+{
+  "result":  {
+    "places":  [
+       {
+        "id": "73cc26d418860ddd",
+        "url": "https://api.twitter.com/1.1/geo/id/73cc26d418860ddd.json",
+        "place_type": "city",
+        "name": "Aberdeen",
+        "full_name": "Aberdeen, Scotland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within":  [
+           {
+            "id": "0af014accd6f6e99",
+            "url": "https://api.twitter.com/1.1/geo/id/0af014accd6f6e99.json",
+            "place_type": "admin",
+            "name": "Scotland",
+            "full_name": "Scotland, United Kingdom",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "centroid":  [
+              -3.9115477196392874,
+              56.652969464269404
+            ],
+            "bounding_box":  {
+              "type": "Polygon",
+              "coordinates":  [
+                 [
+                   [
+                    -7.66085699743185,
+                    54.6336309570711
+                  ],
+                   [
+                    -7.66085699743185,
+                    60.8452769694519
+                  ],
+                   [
+                    -0.740025000483186,
+                    60.8452769694519
+                  ],
+                   [
+                    -0.740025000483186,
+                    54.6336309570711
+                  ],
+                   [
+                    -7.66085699743185,
+                    54.6336309570711
+                  ]
+                ]
+              ]
+            },
+            "attributes":  {}
+          }
+        ],
+        "centroid":  [
+          -2.129285392016179,
+          57.1605562
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -2.1899763,
+                57.107695
+              ],
+               [
+                -2.1899763,
+                57.2134174
+              ],
+               [
+                -2.0641046,
+                57.2134174
+              ],
+               [
+                -2.0641046,
+                57.107695
+              ],
+               [
+                -2.1899763,
+                57.107695
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "78c4b1067358fa99",
+        "url": "https://api.twitter.com/1.1/geo/id/78c4b1067358fa99.json",
+        "place_type": "city",
+        "name": "Aberdeen",
+        "full_name": "Aberdeen, SD",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within":  [
+           {
+            "id": "1592d8bb0f2bde13",
+            "url": "https://api.twitter.com/1.1/geo/id/1592d8bb0f2bde13.json",
+            "place_type": "admin",
+            "name": "Sioux Falls SD",
+            "full_name": "Sioux Falls SD",
+            "country_code": "US",
+            "country": "United States",
+            "centroid":  [
+              -98.67648638551253,
+              44.101856
+            ],
+            "bounding_box":  {
+              "type": "Polygon",
+              "coordinates":  [
+                 [
+                   [
+                    -102.000058,
+                    42.262829
+                  ],
+                   [
+                    -102.000058,
+                    45.940883
+                  ],
+                   [
+                    -95.45203,
+                    45.940883
+                  ],
+                   [
+                    -95.45203,
+                    42.262829
+                  ],
+                   [
+                    -102.000058,
+                    42.262829
+                  ]
+                ]
+              ]
+            },
+            "attributes":  {}
+          }
+        ],
+        "centroid":  [
+          -98.47333848477126,
+          45.461543
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -98.536478,
+                45.430119
+              ],
+               [
+                -98.536478,
+                45.492967
+              ],
+               [
+                -98.392195,
+                45.492967
+              ],
+               [
+                -98.392195,
+                45.430119
+              ],
+               [
+                -98.536478,
+                45.430119
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "9904dedb2c0909ab",
+        "url": "https://api.twitter.com/1.1/geo/id/9904dedb2c0909ab.json",
+        "place_type": "city",
+        "name": "Aberdeen",
+        "full_name": "Aberdeen, WA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within":  [
+           {
+            "id": "724b7141cbd1c731",
+            "url": "https://api.twitter.com/1.1/geo/id/724b7141cbd1c731.json",
+            "place_type": "admin",
+            "name": "Seattle-Tacoma WA",
+            "full_name": "Seattle-Tacoma WA",
+            "country_code": "US",
+            "country": "United States",
+            "centroid":  [
+              -122.15161641208586,
+              47.63033286930655
+            ],
+            "bounding_box":  {
+              "type": "Polygon",
+              "coordinates":  [
+                 [
+                   [
+                    -124.84897,
+                    46.25702
+                  ],
+                   [
+                    -124.84897,
+                    49.0036457386131
+                  ],
+                   [
+                    -119.32729,
+                    49.0036457386131
+                  ],
+                   [
+                    -119.32729,
+                    46.25702
+                  ],
+                   [
+                    -124.84897,
+                    46.25702
+                  ]
+                ]
+              ]
+            },
+            "attributes":  {}
+          }
+        ],
+        "centroid":  [
+          -123.83173467113257,
+          46.976568
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -123.8603301,
+                46.95147
+              ],
+               [
+                -123.8603301,
+                47.001666
+              ],
+               [
+                -123.778204,
+                47.001666
+              ],
+               [
+                -123.778204,
+                46.95147
+              ],
+               [
+                -123.8603301,
+                46.95147
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "01c689cd0c26beaa",
+        "url": "https://api.twitter.com/1.1/geo/id/01c689cd0c26beaa.json",
+        "place_type": "city",
+        "name": "Aberdeen",
+        "full_name": "Aberdeen, MD",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within":  [
+           {
+            "id": "4aeee22292683029",
+            "url": "https://api.twitter.com/1.1/geo/id/4aeee22292683029.json",
+            "place_type": "admin",
+            "name": "Baltimore MD",
+            "full_name": "Baltimore MD",
+            "country_code": "US",
+            "country": "United States",
+            "centroid":  [
+              -76.40340699442933,
+              39.198029500000004
+            ],
+            "bounding_box":  {
+              "type": "Polygon",
+              "coordinates":  [
+                 [
+                   [
+                    -77.193392,
+                    38.604881
+                  ],
+                   [
+                    -77.193392,
+                    39.791178
+                  ],
+                   [
+                    -75.836883,
+                    39.791178
+                  ],
+                   [
+                    -75.836883,
+                    38.604881
+                  ],
+                   [
+                    -77.193392,
+                    38.604881
+                  ]
+                ]
+              ]
+            },
+            "attributes":  {}
+          }
+        ],
+        "centroid":  [
+          -76.14456298958552,
+          39.4977025
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -76.200658,
+                39.451104
+              ],
+               [
+                -76.200658,
+                39.544301
+              ],
+               [
+                -76.09734,
+                39.544301
+              ],
+               [
+                -76.09734,
+                39.451104
+              ],
+               [
+                -76.200658,
+                39.451104
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "020b13d69fe6e82d",
+        "url": "https://api.twitter.com/1.1/geo/id/020b13d69fe6e82d.json",
+        "place_type": "city",
+        "name": "Aberdeen",
+        "full_name": "Aberdeen, NC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within":  [
+           {
+            "id": "7e0fd30728e70e94",
+            "url": "https://api.twitter.com/1.1/geo/id/7e0fd30728e70e94.json",
+            "place_type": "admin",
+            "name": "Raleigh-Durham NC",
+            "full_name": "Raleigh-Durham NC",
+            "country_code": "US",
+            "country": "United States",
+            "centroid":  [
+              -78.50070636576304,
+              35.7309075
+            ],
+            "bounding_box":  {
+              "type": "Polygon",
+              "coordinates":  [
+                 [
+                   [
+                    -79.504821,
+                    34.674336
+                  ],
+                   [
+                    -79.504821,
+                    36.787479
+                  ],
+                   [
+                    -77.376481,
+                    36.787479
+                  ],
+                   [
+                    -77.376481,
+                    34.674336
+                  ],
+                   [
+                    -79.504821,
+                    34.674336
+                  ]
+                ]
+              ]
+            },
+            "attributes":  {}
+          }
+        ],
+        "centroid":  [
+          -79.41829666551826,
+          35.1393843
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -79.476683,
+                35.1145386
+              ],
+               [
+                -79.476683,
+                35.16423
+              ],
+               [
+                -79.3961066,
+                35.16423
+              ],
+               [
+                -79.3961066,
+                35.1145386
+              ],
+               [
+                -79.476683,
+                35.1145386
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "6416b8512febefc9",
+        "url": "https://api.twitter.com/1.1/geo/id/6416b8512febefc9.json",
+        "place_type": "country",
+        "name": "United Kingdom",
+        "full_name": "United Kingdom",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within":  [],
+        "centroid":  [
+          -1.9280975903801871,
+          54.3306827
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -8.662663,
+                49.1626564
+              ],
+               [
+                -8.662663,
+                60.86165
+              ],
+               [
+                1.768926,
+                60.86165
+              ],
+               [
+                1.768926,
+                49.1626564
+              ],
+               [
+                -8.662663,
+                49.1626564
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "009193591b456324",
+        "url": "https://api.twitter.com/1.1/geo/id/009193591b456324.json",
+        "place_type": "city",
+        "name": "Aberdeen",
+        "full_name": "Aberdeen, OH",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within":  [
+           {
+            "id": "e0956ee5bdc7fb54",
+            "url": "https://api.twitter.com/1.1/geo/id/e0956ee5bdc7fb54.json",
+            "place_type": "admin",
+            "name": "Cincinnati OH",
+            "full_name": "Cincinnati OH",
+            "country_code": "US",
+            "country": "United States",
+            "centroid":  [
+              -84.25768794625998,
+              39.0499295
+            ],
+            "bounding_box":  {
+              "type": "Polygon",
+              "coordinates":  [
+                 [
+                   [
+                    -85.423375,
+                    38.443701
+                  ],
+                   [
+                    -85.423375,
+                    39.656158
+                  ],
+                   [
+                    -83.069648,
+                    39.656158
+                  ],
+                   [
+                    -83.069648,
+                    38.443701
+                  ],
+                   [
+                    -85.423375,
+                    38.443701
+                  ]
+                ]
+              ]
+            },
+            "attributes":  {}
+          }
+        ],
+        "centroid":  [
+          -83.76500129344427,
+          38.668908
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -83.7749932,
+                38.649737
+              ],
+               [
+                -83.7749932,
+                38.688079
+              ],
+               [
+                -83.747472,
+                38.688079
+              ],
+               [
+                -83.747472,
+                38.649737
+              ],
+               [
+                -83.7749932,
+                38.649737
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "0060628d2d784b24",
+        "url": "https://api.twitter.com/1.1/geo/id/0060628d2d784b24.json",
+        "place_type": "city",
+        "name": "Aberdeen",
+        "full_name": "Aberdeen, IN",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within":  [
+           {
+            "id": "a922fabd203ea9f4",
+            "url": "https://api.twitter.com/1.1/geo/id/a922fabd203ea9f4.json",
+            "place_type": "admin",
+            "name": "Chicago IL",
+            "full_name": "Chicago IL",
+            "country_code": "US",
+            "country": "United States",
+            "centroid":  [
+              -87.92469040230425,
+              41.490781
+            ],
+            "bounding_box":  {
+              "type": "Polygon",
+              "coordinates":  [
+                 [
+                   [
+                    -89.166051,
+                    40.485601
+                  ],
+                   [
+                    -89.166051,
+                    42.495961
+                  ],
+                   [
+                    -86.674005,
+                    42.495961
+                  ],
+                   [
+                    -86.674005,
+                    40.485601
+                  ],
+                   [
+                    -89.166051,
+                    40.485601
+                  ]
+                ]
+              ]
+            },
+            "attributes":  {}
+          }
+        ],
+        "centroid":  [
+          -87.10931953336873,
+          41.449044
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -87.12483,
+                41.434583
+              ],
+               [
+                -87.12483,
+                41.463505
+              ],
+               [
+                -87.09467,
+                41.463505
+              ],
+               [
+                -87.09467,
+                41.434583
+              ],
+               [
+                -87.12483,
+                41.434583
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "eced66be89eed087",
+        "url": "https://api.twitter.com/1.1/geo/id/eced66be89eed087.json",
+        "place_type": "city",
+        "name": "Aberdeen",
+        "full_name": "Aberdeen, MS",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within":  [
+           {
+            "id": "1320fcf605a39b46",
+            "url": "https://api.twitter.com/1.1/geo/id/1320fcf605a39b46.json",
+            "place_type": "admin",
+            "name": "Columbus-Tupelo-West Point MS",
+            "full_name": "Columbus-Tupelo-West Point MS",
+            "country_code": "US",
+            "country": "United States",
+            "centroid":  [
+              -88.86414781886053,
+              33.966183
+            ],
+            "bounding_box":  {
+              "type": "Polygon",
+              "coordinates":  [
+                 [
+                   [
+                    -89.772384,
+                    33.091083
+                  ],
+                   [
+                    -89.772384,
+                    34.841283
+                  ],
+                   [
+                    -88.172089,
+                    34.841283
+                  ],
+                   [
+                    -88.172089,
+                    33.091083
+                  ],
+                   [
+                    -89.772384,
+                    33.091083
+                  ]
+                ]
+              ]
+            },
+            "attributes":  {}
+          }
+        ],
+        "centroid":  [
+          -88.55875157543699,
+          33.819815500000004
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -88.580305,
+                33.796677
+              ],
+               [
+                -88.580305,
+                33.842954
+              ],
+               [
+                -88.537251,
+                33.842954
+              ],
+               [
+                -88.537251,
+                33.796677
+              ],
+               [
+                -88.580305,
+                33.796677
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "96683cc9126741d1",
+        "url": "https://api.twitter.com/1.1/geo/id/96683cc9126741d1.json",
+        "place_type": "country",
+        "name": "United States",
+        "full_name": "United States",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within":  [],
+        "centroid":  [
+          -98.99308143101959,
+          36.890333500000004
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -179.231086,
+                13.182335
+              ],
+               [
+                -179.231086,
+                71.434357
+              ],
+               [
+                179.859685,
+                71.434357
+              ],
+               [
+                179.859685,
+                13.182335
+              ],
+               [
+                -179.231086,
+                13.182335
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "007a7c241569b0ec",
+        "url": "https://api.twitter.com/1.1/geo/id/007a7c241569b0ec.json",
+        "place_type": "city",
+        "name": "East Aberdeen",
+        "full_name": "East Aberdeen, WA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within":  [
+           {
+            "id": "724b7141cbd1c731",
+            "url": "https://api.twitter.com/1.1/geo/id/724b7141cbd1c731.json",
+            "place_type": "admin",
+            "name": "Seattle-Tacoma WA",
+            "full_name": "Seattle-Tacoma WA",
+            "country_code": "US",
+            "country": "United States",
+            "centroid":  [
+              -122.15161641208586,
+              47.63033286930655
+            ],
+            "bounding_box":  {
+              "type": "Polygon",
+              "coordinates":  [
+                 [
+                   [
+                    -124.84897,
+                    46.25702
+                  ],
+                   [
+                    -124.84897,
+                    49.0036457386131
+                  ],
+                   [
+                    -119.32729,
+                    49.0036457386131
+                  ],
+                   [
+                    -119.32729,
+                    46.25702
+                  ],
+                   [
+                    -124.84897,
+                    46.25702
+                  ]
+                ]
+              ]
+            },
+            "attributes":  {}
+          }
+        ],
+        "centroid":  [
+          -123.78961765507155,
+          46.987496
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -123.8113616,
+                46.973745
+              ],
+               [
+                -123.8113616,
+                47.001247
+              ],
+               [
+                -123.778256,
+                47.001247
+              ],
+               [
+                -123.778256,
+                46.973745
+              ],
+               [
+                -123.8113616,
+                46.973745
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "2348a40c7b50df59",
+        "url": "https://api.twitter.com/1.1/geo/id/2348a40c7b50df59.json",
+        "place_type": "city",
+        "name": "Aberdeen",
+        "full_name": "Aberdeen, New Brunswick",
+        "country_code": "CA",
+        "country": "Canada",
+        "contained_within":  [
+           {
+            "id": "01819a735c793596",
+            "url": "https://api.twitter.com/1.1/geo/id/01819a735c793596.json",
+            "place_type": "admin",
+            "name": "Fredericton",
+            "full_name": "Fredericton",
+            "country_code": "CA",
+            "country": "Canada",
+            "centroid":  [
+              -66.65128603203533,
+              46.078565
+            ],
+            "bounding_box":  {
+              "type": "Polygon",
+              "coordinates":  [
+                 [
+                   [
+                    -67.293982,
+                    45.50128
+                  ],
+                   [
+                    -67.293982,
+                    46.65585
+                  ],
+                   [
+                    -65.976754,
+                    46.65585
+                  ],
+                   [
+                    -65.976754,
+                    45.50128
+                  ],
+                   [
+                    -67.293982,
+                    45.50128
+                  ]
+                ]
+              ]
+            },
+            "attributes":  {}
+          }
+        ],
+        "centroid":  [
+          -67.28470984957013,
+          46.504448499999995
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -67.493184,
+                46.434841
+              ],
+               [
+                -67.493184,
+                46.574056
+              ],
+               [
+                -67.030817,
+                46.574056
+              ],
+               [
+                -67.030817,
+                46.434841
+              ],
+               [
+                -67.493184,
+                46.434841
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "8eefa4232cc88d77",
+        "url": "https://api.twitter.com/1.1/geo/id/8eefa4232cc88d77.json",
+        "place_type": "city",
+        "name": "Aberdeen",
+        "full_name": "Aberdeen, South Africa",
+        "country_code": "ZA",
+        "country": "South Africa",
+        "contained_within":  [
+           {
+            "id": "2e584faebb216d70",
+            "url": "https://api.twitter.com/1.1/geo/id/2e584faebb216d70.json",
+            "place_type": "admin",
+            "name": "Eastern Cape",
+            "full_name": "Eastern Cape",
+            "country_code": "ZA",
+            "country": "South Africa",
+            "centroid":  [
+              26.590669965917435,
+              -32.10777935
+            ],
+            "bounding_box":  {
+              "type": "Polygon",
+              "coordinates":  [
+                 [
+                   [
+                    22.7357419,
+                    -34.213638
+                  ],
+                   [
+                    22.7357419,
+                    -30.0019207
+                  ],
+                   [
+                    30.1942199,
+                    -30.0019207
+                  ],
+                   [
+                    30.1942199,
+                    -34.213638
+                  ],
+                   [
+                    22.7357419,
+                    -34.213638
+                  ]
+                ]
+              ]
+            },
+            "attributes":  {}
+          }
+        ],
+        "centroid":  [
+          24.07071232536341,
+          -32.4764242
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                24.0492467,
+                -32.4908364
+              ],
+               [
+                24.0492467,
+                -32.462012
+              ],
+               [
+                24.0957988,
+                -32.462012
+              ],
+               [
+                24.0957988,
+                -32.4908364
+              ],
+               [
+                24.0492467,
+                -32.4908364
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "018a86bf29cfed56",
+        "url": "https://api.twitter.com/1.1/geo/id/018a86bf29cfed56.json",
+        "place_type": "city",
+        "name": "Aberdeen",
+        "full_name": "Aberdeen, New South Wales",
+        "country_code": "AU",
+        "country": "Australia",
+        "contained_within":  [
+           {
+            "id": "265b933184e2b88a",
+            "url": "https://api.twitter.com/1.1/geo/id/265b933184e2b88a.json",
+            "place_type": "admin",
+            "name": "New South Wales",
+            "full_name": "New South Wales, Australia",
+            "country_code": "AU",
+            "country": "Australia",
+            "centroid":  [
+              146.34634135672633,
+              -32.83103995542725
+            ],
+            "bounding_box":  {
+              "type": "Polygon",
+              "coordinates":  [
+                 [
+                   [
+                    140.999474522999,
+                    -37.5050599967256
+                  ],
+                   [
+                    140.999474522999,
+                    -28.1570199141289
+                  ],
+                   [
+                    159.109219005872,
+                    -28.1570199141289
+                  ],
+                   [
+                    159.109219005872,
+                    -37.5050599967256
+                  ],
+                   [
+                    140.999474522999,
+                    -37.5050599967256
+                  ]
+                ]
+              ]
+            },
+            "attributes":  {}
+          }
+        ],
+        "centroid":  [
+          150.89627697785284,
+          -32.16694383725
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                150.877021696,
+                -32.180166666
+              ],
+               [
+                150.877021696,
+                -32.1537210085
+              ],
+               [
+                150.90657264,
+                -32.1537210085
+              ],
+               [
+                150.90657264,
+                -32.180166666
+              ],
+               [
+                150.877021696,
+                -32.180166666
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "29437fd7e26cac20",
+        "url": "https://api.twitter.com/1.1/geo/id/29437fd7e26cac20.json",
+        "place_type": "city",
+        "name": "Aberdeen",
+        "full_name": "Aberdeen, Saskatchewan",
+        "country_code": "CA",
+        "country": "Canada",
+        "contained_within":  [
+           {
+            "id": "133b8dbe5c87e2b7",
+            "url": "https://api.twitter.com/1.1/geo/id/133b8dbe5c87e2b7.json",
+            "place_type": "admin",
+            "name": "Division No. 15",
+            "full_name": "Division No. 15, Saskatchewan",
+            "country_code": "CA",
+            "country": "Canada",
+            "centroid":  [
+              -105.4854852121761,
+              53.0603258
+            ],
+            "bounding_box":  {
+              "type": "Polygon",
+              "coordinates":  [
+                 [
+                   [
+                    -106.986712,
+                    52.143311
+                  ],
+                   [
+                    -106.986712,
+                    53.9773406
+                  ],
+                   [
+                    -104.577276,
+                    53.9773406
+                  ],
+                   [
+                    -104.577276,
+                    52.143311
+                  ],
+                   [
+                    -106.986712,
+                    52.143311
+                  ]
+                ]
+              ]
+            },
+            "attributes":  {}
+          }
+        ],
+        "centroid":  [
+          -106.28577589852787,
+          52.325122
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -106.303476,
+                52.31725
+              ],
+               [
+                -106.303476,
+                52.332994
+              ],
+               [
+                -106.279206,
+                52.332994
+              ],
+               [
+                -106.279206,
+                52.31725
+              ],
+               [
+                -106.303476,
+                52.31725
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "3f63906fc8aa5a7d",
+        "url": "https://api.twitter.com/1.1/geo/id/3f63906fc8aa5a7d.json",
+        "place_type": "country",
+        "name": "United Arab Emirates",
+        "full_name": "United Arab Emirates",
+        "country_code": "AE",
+        "country": "United Arab Emirates",
+        "contained_within":  [],
+        "centroid":  [
+          55.14730118416988,
+          24.3551493
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                51.2938738,
+                22.6261387
+              ],
+               [
+                51.2938738,
+                26.2823697
+              ],
+               [
+                56.3816989,
+                26.2823697
+              ],
+               [
+                56.3816989,
+                22.6261387
+              ],
+               [
+                51.2938738,
+                22.6261387
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "5c141035376ca74a",
+        "url": "https://api.twitter.com/1.1/geo/id/5c141035376ca74a.json",
+        "place_type": "city",
+        "name": "Aberdeen No. 373",
+        "full_name": "Aberdeen No. 373, Saskatchewan",
+        "country_code": "CA",
+        "country": "Canada",
+        "contained_within":  [
+           {
+            "id": "01658369259237bb",
+            "url": "https://api.twitter.com/1.1/geo/id/01658369259237bb.json",
+            "place_type": "admin",
+            "name": "Saskatoon",
+            "full_name": "Saskatoon",
+            "country_code": "CA",
+            "country": "Canada",
+            "centroid":  [
+              -106.50301777369273,
+              52.0706955
+            ],
+            "bounding_box":  {
+              "type": "Polygon",
+              "coordinates":  [
+                 [
+                   [
+                    -107.299568,
+                    51.706291
+                  ],
+                   [
+                    -107.299568,
+                    53.452744
+                  ],
+                   [
+                    -105.077319,
+                    53.452744
+                  ],
+                   [
+                    -105.077319,
+                    51.706291
+                  ],
+                   [
+                    -107.299568,
+                    51.706291
+                  ]
+                ]
+              ]
+            },
+            "attributes":  {}
+          }
+        ],
+        "centroid":  [
+          -106.27757914223042,
+          52.361088249999995
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -106.458418,
+                52.143758
+              ],
+               [
+                -106.458418,
+                52.5784185
+              ],
+               [
+                -106.146276,
+                52.5784185
+              ],
+               [
+                -106.146276,
+                52.143758
+              ],
+               [
+                -106.458418,
+                52.143758
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "249763d592d29dc0",
+        "url": "https://api.twitter.com/1.1/geo/id/249763d592d29dc0.json",
+        "place_type": "city",
+        "name": "Macdonald, Meredith and Aberdeen Additional",
+        "full_name": "Macdonald, Meredith and Aberdeen Additional, Ontario",
+        "country_code": "CA",
+        "country": "Canada",
+        "contained_within":  [
+           {
+            "id": "0041342147d417e5",
+            "url": "https://api.twitter.com/1.1/geo/id/0041342147d417e5.json",
+            "place_type": "admin",
+            "name": "North Ontario",
+            "full_name": "North Ontario",
+            "country_code": "CA",
+            "country": "Canada",
+            "centroid":  [
+              -77.26746394405993,
+              45.7473145
+            ],
+            "bounding_box":  {
+              "type": "Polygon",
+              "coordinates":  [
+                 [
+                   [
+                    -84.599852,
+                    45.636941
+                  ],
+                   [
+                    -84.599852,
+                    46.660146
+                  ],
+                   [
+                    -76.972976,
+                    46.660146
+                  ],
+                   [
+                    -76.972976,
+                    45.636941
+                  ],
+                   [
+                    -84.599852,
+                    45.636941
+                  ]
+                ]
+              ]
+            },
+            "attributes":  {}
+          }
+        ],
+        "centroid":  [
+          -83.97993658467672,
+          46.480856
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -84.136262,
+                46.430591
+              ],
+               [
+                -84.136262,
+                46.531121
+              ],
+               [
+                -83.838434,
+                46.531121
+              ],
+               [
+                -83.838434,
+                46.430591
+              ],
+               [
+                -84.136262,
+                46.430591
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "08fbcf4cbc4bc5b9",
+        "url": "https://api.twitter.com/1.1/geo/id/08fbcf4cbc4bc5b9.json",
+        "place_type": "country",
+        "name": "United States Minor Outlying Islands",
+        "full_name": "United States Minor Outlying Islands",
+        "country_code": "UM",
+        "country": "United States Minor Outlying Islands",
+        "contained_within":  [],
+        "centroid":  [
+          -162.75338903542462,
+          6.2126946499999995
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -177.3967777,
+                -0.3807833
+              ],
+               [
+                -177.3967777,
+                28.2196605
+              ],
+               [
+                166.657445,
+                28.2196605
+              ],
+               [
+                166.657445,
+                -0.3807833
+              ],
+               [
+                -177.3967777,
+                -0.3807833
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "fc6282dff859b848",
+        "url": "https://api.twitter.com/1.1/geo/id/fc6282dff859b848.json",
+        "place_type": "country",
+        "name": "Hashemite Kingdom of Jordan",
+        "full_name": "Hashemite Kingdom of Jordan",
+        "country_code": "JO",
+        "country": "Hashemite Kingdom of Jordan",
+        "contained_within":  [],
+        "centroid":  [
+          36.31971222488649,
+          31.2805633
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                34.9427626,
+                29.1862444
+              ],
+               [
+                34.9427626,
+                33.3748822
+              ],
+               [
+                39.3011038,
+                33.3748822
+              ],
+               [
+                39.3011038,
+                29.1862444
+              ],
+               [
+                34.9427626,
+                29.1862444
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      }
+    ]
+  },
+  "query":  {
+    "url": "https://api.twitter.com/1.1/geo/search.json?granularity=city&query=Aberdeen%2C%20United%20Kingdom",
+    "type": "search",
+    "params":  {
+      "accuracy": 0,
+      "granularity": "city",
+      "query": "Aberdeen, United Kingdom",
+      "autocomplete": false,
+      "trim_place": false
+    }
+  }
+}

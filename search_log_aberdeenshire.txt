@@ -1415,3 +1415,1403 @@
 2016-06-21 20:40:43,812 PARAMS: {'q': b'damp since:2016-06-14  until:2016-06-19 ', 'max_id': b'742766728992686080', 'geocode': b'57.0769745,-2.7927203,60mi'}
 2016-06-21 20:40:43,952 PARAMS: {'create': b'True'}
 2016-06-21 20:40:43,953 Query returned: 18 tweets
+2016-06-21 20:57:16,483 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 20:57:17,293 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 20:57:17,294 PARAMS: {'granularity': b'country', 'query': b'Scotland'}
+2016-06-21 20:57:17,296 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:00:38,472 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:00:39,010 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 21:00:39,011 PARAMS: {'query': b'Scotland', 'granularity': b'country'}
+2016-06-21 21:00:39,014 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:01:01,809 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:01:02,366 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 21:01:02,368 PARAMS: {'granularity': b'country', 'query': b'Scotland'}
+2016-06-21 21:01:02,374 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:01:13,085 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:01:13,860 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 21:01:13,860 PARAMS: {'granularity': b'country', 'query': b'France'}
+2016-06-21 21:01:13,863 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:01:34,467 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:01:35,062 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 21:01:35,063 PARAMS: {'query': b'Scotland'}
+2016-06-21 21:01:35,068 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:18:34,801 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:18:35,596 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 21:18:35,597 PARAMS: {'query': b'Scotland, GB', 'granularity': b'country'}
+2016-06-21 21:18:35,601 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:18:52,230 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:18:52,742 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 21:18:52,743 PARAMS: {'query': b'Scotland, Great Britain', 'granularity': b'country'}
+2016-06-21 21:18:52,748 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:18:59,557 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:19:00,377 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 21:19:00,382 PARAMS: {'query': b'Great Britain', 'granularity': b'country'}
+2016-06-21 21:19:00,401 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:19:06,498 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:19:07,129 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 21:19:07,130 PARAMS: {'granularity': b'admin', 'query': b'Great Britain'}
+2016-06-21 21:19:07,134 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:19:16,016 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:19:16,575 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 21:19:16,576 PARAMS: {'granularity': b'admin', 'query': b'United Kingdom'}
+2016-06-21 21:19:16,579 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:19:36,346 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:19:36,980 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 21:19:36,981 PARAMS: {'query': b'United Kingdom', 'granularity': b'country'}
+2016-06-21 21:19:36,984 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:22:26,229 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:22:26,738 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 21:22:26,739 PARAMS: {'query': b'United Kingdom', 'granularity': b'country'}
+2016-06-21 21:22:26,742 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:22:35,118 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:22:35,646 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 21:22:35,647 PARAMS: {'granularity': b'country', 'query': b'United Kingdom'}
+2016-06-21 21:22:35,650 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:24:06,184 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:24:06,733 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 21:24:06,734 PARAMS: {'query': b'Aberdeen, United Kingdom', 'granularity': b'city'}
+2016-06-21 21:24:06,740 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:53:15,851 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:53:16,431 max tweets: 2500 Queries:mm,millimetres,inches,rain,pouring,flood,disruption,road closed,downpour,torrential,bucket,forecast,water,heavy,weather,summer,wet,storm,river,skies,clouds,flow,stream,deluge,overflow,damp
+2016-06-21 21:53:26,441 PARAMS: {'q': b'mm since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:53:26,448 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:53:27,030 PARAMS: {'create': b'True'}
+2016-06-21 21:53:27,031 Query returned: 0 tweets =================
+2016-06-21 21:53:37,042 PARAMS: {'q': b'millimetres since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:53:37,050 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:53:37,682 PARAMS: {'create': b'True'}
+2016-06-21 21:53:37,683 Query returned: 0 tweets =================
+2016-06-21 21:53:47,694 PARAMS: {'q': b'inches since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:53:47,699 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:53:48,331 PARAMS: {'create': b'True'}
+2016-06-21 21:53:48,331 Query returned: 0 tweets =================
+2016-06-21 21:53:58,340 PARAMS: {'q': b'rain since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:53:58,353 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:53:59,052 PARAMS: {'create': b'True'}
+2016-06-21 21:54:00,356 PARAMS: {'max_id': b'743401666507055103', 'q': b'rain since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:54:00,666 PARAMS: {'create': b'True'}
+2016-06-21 21:54:01,599 PARAMS: {'max_id': b'743071935123312639', 'q': b'rain since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:54:02,052 PARAMS: {'create': b'True'}
+2016-06-21 21:54:03,167 PARAMS: {'max_id': b'742823957917753343', 'q': b'rain since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:54:03,494 PARAMS: {'create': b'True'}
+2016-06-21 21:54:04,153 PARAMS: {'max_id': b'742592846440587267', 'q': b'rain since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:54:04,326 PARAMS: {'create': b'True'}
+2016-06-21 21:54:04,329 Query returned: 37 tweets =================
+2016-06-21 21:54:14,339 PARAMS: {'q': b'pouring since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:54:14,341 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:54:14,851 PARAMS: {'create': b'True'}
+2016-06-21 21:54:14,852 Query returned: 0 tweets =================
+2016-06-21 21:54:24,864 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:54:24,866 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:54:25,610 PARAMS: {'create': b'True'}
+2016-06-21 21:54:25,797 PARAMS: {'max_id': b'743038032689926144', 'q': b'flood since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:54:25,972 PARAMS: {'create': b'True'}
+2016-06-21 21:54:25,972 Query returned: 2 tweets =================
+2016-06-21 21:54:35,981 PARAMS: {'q': b'disruption since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:54:35,984 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:54:36,560 PARAMS: {'create': b'True'}
+2016-06-21 21:54:36,561 Query returned: 0 tweets =================
+2016-06-21 21:54:46,576 PARAMS: {'q': b'road closed since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:54:46,580 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:54:47,221 PARAMS: {'create': b'True'}
+2016-06-21 21:54:47,222 Query returned: 0 tweets =================
+2016-06-21 21:54:57,233 PARAMS: {'q': b'downpour since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:54:57,244 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:54:57,794 PARAMS: {'create': b'True'}
+2016-06-21 21:54:57,795 Query returned: 0 tweets =================
+2016-06-21 21:55:07,806 PARAMS: {'q': b'torrential since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:55:07,811 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:55:08,339 PARAMS: {'create': b'True'}
+2016-06-21 21:55:08,340 Query returned: 0 tweets =================
+2016-06-21 21:55:18,351 PARAMS: {'q': b'bucket since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:55:18,354 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:55:18,955 PARAMS: {'create': b'True'}
+2016-06-21 21:55:18,958 Query returned: 0 tweets =================
+2016-06-21 21:55:28,965 PARAMS: {'q': b'forecast since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:55:28,968 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:55:29,504 PARAMS: {'create': b'True'}
+2016-06-21 21:55:29,505 Query returned: 0 tweets =================
+2016-06-21 21:55:39,515 PARAMS: {'q': b'water since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:55:39,517 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:55:40,256 PARAMS: {'create': b'True'}
+2016-06-21 21:55:40,912 PARAMS: {'max_id': b'742671289731665923', 'q': b'water since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:55:41,091 PARAMS: {'create': b'True'}
+2016-06-21 21:55:41,095 Query returned: 7 tweets =================
+2016-06-21 21:55:51,102 PARAMS: {'q': b'heavy since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:55:51,105 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:55:52,032 PARAMS: {'create': b'True'}
+2016-06-21 21:55:52,592 PARAMS: {'max_id': b'742731962322931711', 'q': b'heavy since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:55:52,777 PARAMS: {'create': b'True'}
+2016-06-21 21:55:52,777 Query returned: 6 tweets =================
+2016-06-21 21:56:02,789 PARAMS: {'q': b'weather since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:56:02,798 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:56:03,597 PARAMS: {'create': b'True'}
+2016-06-21 21:56:04,885 PARAMS: {'max_id': b'743098884507979775', 'q': b'weather since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:56:05,268 PARAMS: {'create': b'True'}
+2016-06-21 21:56:06,828 PARAMS: {'max_id': b'742746838726549503', 'q': b'weather since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:56:07,090 PARAMS: {'create': b'True'}
+2016-06-21 21:56:07,776 PARAMS: {'max_id': b'742597775196626944', 'q': b'weather since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:56:07,912 PARAMS: {'create': b'True'}
+2016-06-21 21:56:07,913 Query returned: 32 tweets =================
+2016-06-21 21:56:17,924 PARAMS: {'q': b'summer since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:56:17,929 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:56:19,169 PARAMS: {'create': b'True'}
+2016-06-21 21:56:20,565 PARAMS: {'max_id': b'742993309489057791', 'q': b'summer since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:56:20,916 PARAMS: {'create': b'True'}
+2016-06-21 21:56:21,752 PARAMS: {'max_id': b'742621406006026239', 'q': b'summer since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:56:21,949 PARAMS: {'create': b'True'}
+2016-06-21 21:56:21,950 Query returned: 24 tweets =================
+2016-06-21 21:56:31,961 PARAMS: {'q': b'wet since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:56:31,964 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:56:32,686 PARAMS: {'create': b'True'}
+2016-06-21 21:56:33,522 PARAMS: {'max_id': b'742739314098966527', 'q': b'wet since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:56:33,691 PARAMS: {'create': b'True'}
+2016-06-21 21:56:33,692 Query returned: 9 tweets =================
+2016-06-21 21:56:43,700 PARAMS: {'q': b'storm since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:56:43,703 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:56:44,329 PARAMS: {'create': b'True'}
+2016-06-21 21:56:44,329 Query returned: 0 tweets =================
+2016-06-21 21:56:54,339 PARAMS: {'q': b'river since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:56:54,345 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:56:55,008 PARAMS: {'create': b'True'}
+2016-06-21 21:56:55,659 PARAMS: {'max_id': b'742786567245336575', 'q': b'river since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:56:55,856 PARAMS: {'create': b'True'}
+2016-06-21 21:56:55,856 Query returned: 7 tweets =================
+2016-06-21 21:57:05,872 PARAMS: {'q': b'skies since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:57:05,879 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:57:06,687 PARAMS: {'create': b'True'}
+2016-06-21 21:57:06,687 Query returned: 0 tweets =================
+2016-06-21 21:57:16,701 PARAMS: {'q': b'clouds since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:57:16,709 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:57:17,335 PARAMS: {'create': b'True'}
+2016-06-21 21:57:17,433 PARAMS: {'max_id': b'742592846440587267', 'q': b'clouds since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:57:17,585 PARAMS: {'create': b'True'}
+2016-06-21 21:57:17,586 Query returned: 1 tweets =================
+2016-06-21 21:57:27,600 PARAMS: {'q': b'flow since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:57:27,603 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:57:28,187 PARAMS: {'create': b'True'}
+2016-06-21 21:57:28,188 Query returned: 0 tweets =================
+2016-06-21 21:57:38,198 PARAMS: {'q': b'stream since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:57:38,204 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:57:38,943 PARAMS: {'create': b'True'}
+2016-06-21 21:57:39,320 PARAMS: {'max_id': b'742658372890206207', 'q': b'stream since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:57:39,462 PARAMS: {'create': b'True'}
+2016-06-21 21:57:39,463 Query returned: 4 tweets =================
+2016-06-21 21:57:49,478 PARAMS: {'q': b'deluge since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:57:49,482 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:57:50,000 PARAMS: {'create': b'True'}
+2016-06-21 21:57:50,094 PARAMS: {'max_id': b'742794226656743424', 'q': b'deluge since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:57:50,263 PARAMS: {'create': b'True'}
+2016-06-21 21:57:50,264 Query returned: 1 tweets =================
+2016-06-21 21:58:00,274 PARAMS: {'q': b'overflow since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:58:00,275 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:58:00,850 PARAMS: {'create': b'True'}
+2016-06-21 21:58:00,851 Query returned: 0 tweets =================
+2016-06-21 21:58:10,864 PARAMS: {'q': b'damp since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:58:10,879 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 21:58:11,554 PARAMS: {'create': b'True'}
+2016-06-21 21:58:11,740 PARAMS: {'max_id': b'742949568011177983', 'q': b'damp since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 21:58:11,908 PARAMS: {'create': b'True'}
+2016-06-21 21:58:11,908 Query returned: 2 tweets =================
+2016-06-21 22:05:20,719 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:05:21,427 max tweets: 2500 Queries:☂,☔
+2016-06-21 22:05:31,438 PARAMS: {'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:31,440 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:05:32,140 PARAMS: {'create': b'True'}
+2016-06-21 22:05:33,742 PARAMS: {'max_id': b'743951903848079359', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:34,087 PARAMS: {'create': b'True'}
+2016-06-21 22:05:34,758 PARAMS: {'max_id': b'743948961459875839', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:34,977 PARAMS: {'create': b'True'}
+2016-06-21 22:05:35,544 PARAMS: {'max_id': b'743946644421550079', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:35,927 PARAMS: {'create': b'True'}
+2016-06-21 22:05:37,345 PARAMS: {'max_id': b'743944087443738623', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:37,669 PARAMS: {'create': b'True'}
+2016-06-21 22:05:38,324 PARAMS: {'max_id': b'743940023259631616', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:38,592 PARAMS: {'create': b'True'}
+2016-06-21 22:05:39,246 PARAMS: {'max_id': b'743936939481534463', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:39,917 PARAMS: {'create': b'True'}
+2016-06-21 22:05:41,333 PARAMS: {'max_id': b'743934499323510783', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:41,568 PARAMS: {'create': b'True'}
+2016-06-21 22:05:42,518 PARAMS: {'max_id': b'743931826218078207', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:42,788 PARAMS: {'create': b'True'}
+2016-06-21 22:05:43,439 PARAMS: {'max_id': b'743930150849495039', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:43,715 PARAMS: {'create': b'True'}
+2016-06-21 22:05:44,747 PARAMS: {'max_id': b'743927696384753663', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:45,143 PARAMS: {'create': b'True'}
+2016-06-21 22:05:46,456 PARAMS: {'max_id': b'743925119626711039', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:46,879 PARAMS: {'create': b'True'}
+2016-06-21 22:05:48,316 PARAMS: {'max_id': b'743921644008280063', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:48,578 PARAMS: {'create': b'True'}
+2016-06-21 22:05:49,792 PARAMS: {'max_id': b'743915887728668671', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:50,013 PARAMS: {'create': b'True'}
+2016-06-21 22:05:50,952 PARAMS: {'max_id': b'743912545724006400', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:51,297 PARAMS: {'create': b'True'}
+2016-06-21 22:05:52,416 PARAMS: {'max_id': b'743908002797854720', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:52,633 PARAMS: {'create': b'True'}
+2016-06-21 22:05:53,850 PARAMS: {'max_id': b'743905223882727424', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:54,251 PARAMS: {'create': b'True'}
+2016-06-21 22:05:55,651 PARAMS: {'max_id': b'743902102938914815', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:56,011 PARAMS: {'create': b'True'}
+2016-06-21 22:05:57,329 PARAMS: {'max_id': b'743899494270509055', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:57,646 PARAMS: {'create': b'True'}
+2016-06-21 22:05:58,770 PARAMS: {'max_id': b'743896934361010179', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:05:58,981 PARAMS: {'create': b'True'}
+2016-06-21 22:06:00,012 PARAMS: {'max_id': b'743895694663114752', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:00,309 PARAMS: {'create': b'True'}
+2016-06-21 22:06:01,451 PARAMS: {'max_id': b'743892779470884863', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:01,741 PARAMS: {'create': b'True'}
+2016-06-21 22:06:02,813 PARAMS: {'max_id': b'743890434439716865', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:03,028 PARAMS: {'create': b'True'}
+2016-06-21 22:06:03,962 PARAMS: {'max_id': b'743887977630343168', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:04,203 PARAMS: {'create': b'True'}
+2016-06-21 22:06:05,330 PARAMS: {'max_id': b'743885171548626944', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:05,541 PARAMS: {'create': b'True'}
+2016-06-21 22:06:06,759 PARAMS: {'max_id': b'743880963801944063', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:07,164 PARAMS: {'create': b'True'}
+2016-06-21 22:06:08,026 PARAMS: {'max_id': b'743878390260899839', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:08,214 PARAMS: {'create': b'True'}
+2016-06-21 22:06:08,961 PARAMS: {'max_id': b'743876769711816707', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:09,318 PARAMS: {'create': b'True'}
+2016-06-21 22:06:10,255 PARAMS: {'max_id': b'743873231849988096', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:10,455 PARAMS: {'create': b'True'}
+2016-06-21 22:06:11,483 PARAMS: {'max_id': b'743870264941879295', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:11,770 PARAMS: {'create': b'True'}
+2016-06-21 22:06:12,338 PARAMS: {'max_id': b'743869253649063935', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:12,606 PARAMS: {'create': b'True'}
+2016-06-21 22:06:13,734 PARAMS: {'max_id': b'743866151374065663', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:14,137 PARAMS: {'create': b'True'}
+2016-06-21 22:06:15,539 PARAMS: {'max_id': b'743864352072146943', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:15,774 PARAMS: {'create': b'True'}
+2016-06-21 22:06:17,190 PARAMS: {'max_id': b'743862509292126208', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:17,506 PARAMS: {'create': b'True'}
+2016-06-21 22:06:18,267 PARAMS: {'max_id': b'743861188602241023', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:18,474 PARAMS: {'create': b'True'}
+2016-06-21 22:06:19,329 PARAMS: {'max_id': b'743860010065760255', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:19,666 PARAMS: {'create': b'True'}
+2016-06-21 22:06:20,785 PARAMS: {'max_id': b'743857542384713727', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:21,027 PARAMS: {'create': b'True'}
+2016-06-21 22:06:22,331 PARAMS: {'max_id': b'743855431454494720', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:22,602 PARAMS: {'create': b'True'}
+2016-06-21 22:06:23,725 PARAMS: {'max_id': b'743852454027026435', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:24,180 PARAMS: {'create': b'True'}
+2016-06-21 22:06:25,585 PARAMS: {'max_id': b'743849162412818431', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:26,112 PARAMS: {'create': b'True'}
+2016-06-21 22:06:27,046 PARAMS: {'max_id': b'743846445715959807', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:27,338 PARAMS: {'create': b'True'}
+2016-06-21 22:06:28,174 PARAMS: {'max_id': b'743844314841780227', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:28,520 PARAMS: {'create': b'True'}
+2016-06-21 22:06:29,551 PARAMS: {'max_id': b'743841228844863487', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:30,007 PARAMS: {'create': b'True'}
+2016-06-21 22:06:31,218 PARAMS: {'max_id': b'743839178006364159', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:31,546 PARAMS: {'create': b'True'}
+2016-06-21 22:06:32,946 PARAMS: {'max_id': b'743835506933436415', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:33,332 PARAMS: {'create': b'True'}
+2016-06-21 22:06:34,468 PARAMS: {'max_id': b'743833747238322175', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:34,812 PARAMS: {'create': b'True'}
+2016-06-21 22:06:35,473 PARAMS: {'max_id': b'743831753853403137', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:35,837 PARAMS: {'create': b'True'}
+2016-06-21 22:06:36,675 PARAMS: {'max_id': b'743829490250432511', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:36,965 PARAMS: {'create': b'True'}
+2016-06-21 22:06:37,805 PARAMS: {'max_id': b'743828491783802879', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:38,085 PARAMS: {'create': b'True'}
+2016-06-21 22:06:38,747 PARAMS: {'max_id': b'743827266849865728', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:39,019 PARAMS: {'create': b'True'}
+2016-06-21 22:06:40,051 PARAMS: {'max_id': b'743825626126221311', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:40,053 Resetting dropped connection: api.twitter.com
+2016-06-21 22:06:40,843 PARAMS: {'create': b'True'}
+2016-06-21 22:06:42,150 PARAMS: {'max_id': b'743823819283009535', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:42,576 PARAMS: {'create': b'True'}
+2016-06-21 22:06:43,600 PARAMS: {'max_id': b'743820168032288768', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:43,809 PARAMS: {'create': b'True'}
+2016-06-21 22:06:44,832 PARAMS: {'max_id': b'743817723713568767', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:45,211 PARAMS: {'create': b'True'}
+2016-06-21 22:06:46,424 PARAMS: {'max_id': b'743815625861136384', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:46,691 PARAMS: {'create': b'True'}
+2016-06-21 22:06:47,531 PARAMS: {'max_id': b'743812589214380031', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:47,741 PARAMS: {'create': b'True'}
+2016-06-21 22:06:48,860 PARAMS: {'max_id': b'743809224334020607', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:49,241 PARAMS: {'create': b'True'}
+2016-06-21 22:06:50,461 PARAMS: {'max_id': b'743806784897421311', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:50,789 PARAMS: {'create': b'True'}
+2016-06-21 22:06:51,640 PARAMS: {'max_id': b'743804080158564351', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:51,943 PARAMS: {'create': b'True'}
+2016-06-21 22:06:53,064 PARAMS: {'max_id': b'743800905229795327', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:53,451 PARAMS: {'create': b'True'}
+2016-06-21 22:06:54,576 PARAMS: {'max_id': b'743798074842169343', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:54,907 PARAMS: {'create': b'True'}
+2016-06-21 22:06:56,037 PARAMS: {'max_id': b'743796288119013375', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:56,408 PARAMS: {'create': b'True'}
+2016-06-21 22:06:57,720 PARAMS: {'max_id': b'743794906095824895', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:57,974 PARAMS: {'create': b'True'}
+2016-06-21 22:06:59,136 PARAMS: {'max_id': b'743792912438276095', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:06:59,500 PARAMS: {'create': b'True'}
+2016-06-21 22:07:00,789 PARAMS: {'max_id': b'743790229505642495', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:01,179 PARAMS: {'create': b'True'}
+2016-06-21 22:07:02,431 PARAMS: {'max_id': b'743788813923815423', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:02,756 PARAMS: {'create': b'True'}
+2016-06-21 22:07:04,065 PARAMS: {'max_id': b'743784714117459967', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:04,613 PARAMS: {'create': b'True'}
+2016-06-21 22:07:05,737 PARAMS: {'max_id': b'743780279660220415', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:06,049 PARAMS: {'create': b'True'}
+2016-06-21 22:07:07,068 PARAMS: {'max_id': b'743778352398475263', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:07,381 PARAMS: {'create': b'True'}
+2016-06-21 22:07:08,589 PARAMS: {'max_id': b'743775822276866047', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:08,920 PARAMS: {'create': b'True'}
+2016-06-21 22:07:10,310 PARAMS: {'max_id': b'743773392990511104', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:10,521 PARAMS: {'create': b'True'}
+2016-06-21 22:07:11,538 PARAMS: {'max_id': b'743769330588987391', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:11,891 PARAMS: {'create': b'True'}
+2016-06-21 22:07:13,285 PARAMS: {'max_id': b'743765981944754177', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:13,524 PARAMS: {'create': b'True'}
+2016-06-21 22:07:14,543 PARAMS: {'max_id': b'743764062819975167', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:14,761 PARAMS: {'create': b'True'}
+2016-06-21 22:07:16,066 PARAMS: {'max_id': b'743761328674902015', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:16,395 PARAMS: {'create': b'True'}
+2016-06-21 22:07:17,510 PARAMS: {'max_id': b'743758659360956417', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:17,827 PARAMS: {'create': b'True'}
+2016-06-21 22:07:19,123 PARAMS: {'max_id': b'743757014988267520', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:19,563 PARAMS: {'create': b'True'}
+2016-06-21 22:07:20,490 PARAMS: {'max_id': b'743755786585677823', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:20,800 PARAMS: {'create': b'True'}
+2016-06-21 22:07:22,194 PARAMS: {'max_id': b'743754969417867263', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:22,539 PARAMS: {'create': b'True'}
+2016-06-21 22:07:23,930 PARAMS: {'max_id': b'743753789505572863', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:24,307 PARAMS: {'create': b'True'}
+2016-06-21 22:07:25,555 PARAMS: {'max_id': b'743752822991126531', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:25,907 PARAMS: {'create': b'True'}
+2016-06-21 22:07:26,557 PARAMS: {'max_id': b'743750557379092479', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:26,951 PARAMS: {'create': b'True'}
+2016-06-21 22:07:28,411 PARAMS: {'max_id': b'743747636914593792', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:28,633 PARAMS: {'create': b'True'}
+2016-06-21 22:07:29,655 PARAMS: {'max_id': b'743744946553815039', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:29,910 PARAMS: {'create': b'True'}
+2016-06-21 22:07:30,939 PARAMS: {'max_id': b'743740927898845187', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:31,243 PARAMS: {'create': b'True'}
+2016-06-21 22:07:32,359 PARAMS: {'max_id': b'743738166687891456', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:32,674 PARAMS: {'create': b'True'}
+2016-06-21 22:07:33,884 PARAMS: {'max_id': b'743736808870031359', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:34,143 PARAMS: {'create': b'True'}
+2016-06-21 22:07:35,105 PARAMS: {'max_id': b'743734707729248255', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:35,386 PARAMS: {'create': b'True'}
+2016-06-21 22:07:36,503 PARAMS: {'max_id': b'743732290639921151', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:36,754 PARAMS: {'create': b'True'}
+2016-06-21 22:07:37,900 PARAMS: {'max_id': b'743731172635611135', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:38,204 PARAMS: {'create': b'True'}
+2016-06-21 22:07:39,328 PARAMS: {'max_id': b'743728566303490047', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:39,527 PARAMS: {'create': b'True'}
+2016-06-21 22:07:40,093 PARAMS: {'max_id': b'743725932062478335', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:40,358 PARAMS: {'create': b'True'}
+2016-06-21 22:07:41,568 PARAMS: {'max_id': b'743723011396640767', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:41,795 PARAMS: {'create': b'True'}
+2016-06-21 22:07:43,114 PARAMS: {'max_id': b'743719982903681027', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:43,456 PARAMS: {'create': b'True'}
+2016-06-21 22:07:44,868 PARAMS: {'max_id': b'743717871717515264', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:45,167 PARAMS: {'create': b'True'}
+2016-06-21 22:07:46,376 PARAMS: {'max_id': b'743715003245596671', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:46,699 PARAMS: {'create': b'True'}
+2016-06-21 22:07:47,543 PARAMS: {'max_id': b'743710687168389120', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:47,830 PARAMS: {'create': b'True'}
+2016-06-21 22:07:48,763 PARAMS: {'max_id': b'743706508181942271', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:49,063 PARAMS: {'create': b'True'}
+2016-06-21 22:07:50,279 PARAMS: {'max_id': b'743704875351969791', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:50,481 PARAMS: {'create': b'True'}
+2016-06-21 22:07:51,596 PARAMS: {'max_id': b'743701971954106368', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:51,892 PARAMS: {'create': b'True'}
+2016-06-21 22:07:52,959 PARAMS: {'max_id': b'743696645490040836', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:52,962 Resetting dropped connection: api.twitter.com
+2016-06-21 22:07:53,707 PARAMS: {'create': b'True'}
+2016-06-21 22:07:54,175 PARAMS: {'max_id': b'743692000810045440', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:54,449 PARAMS: {'create': b'True'}
+2016-06-21 22:07:54,916 PARAMS: {'max_id': b'743687686884491264', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:55,294 PARAMS: {'create': b'True'}
+2016-06-21 22:07:56,508 PARAMS: {'max_id': b'743676221213409285', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:56,843 PARAMS: {'create': b'True'}
+2016-06-21 22:07:57,964 PARAMS: {'max_id': b'743645453523226623', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:58,167 PARAMS: {'create': b'True'}
+2016-06-21 22:07:59,385 PARAMS: {'max_id': b'743620405517295615', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:07:59,705 PARAMS: {'create': b'True'}
+2016-06-21 22:08:00,358 PARAMS: {'max_id': b'743606362224140287', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:00,728 PARAMS: {'create': b'True'}
+2016-06-21 22:08:01,561 PARAMS: {'max_id': b'743599991579615231', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:01,855 PARAMS: {'create': b'True'}
+2016-06-21 22:08:02,702 PARAMS: {'max_id': b'743594953352290303', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:03,081 PARAMS: {'create': b'True'}
+2016-06-21 22:08:03,836 PARAMS: {'max_id': b'743591520410939391', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:04,144 PARAMS: {'create': b'True'}
+2016-06-21 22:08:05,386 PARAMS: {'max_id': b'743586183754751999', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:05,734 PARAMS: {'create': b'True'}
+2016-06-21 22:08:07,174 PARAMS: {'max_id': b'743582874469867519', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:07,491 PARAMS: {'create': b'True'}
+2016-06-21 22:08:08,529 PARAMS: {'max_id': b'743578709744041983', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:08,910 PARAMS: {'create': b'True'}
+2016-06-21 22:08:10,219 PARAMS: {'max_id': b'743576183615459327', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:10,458 PARAMS: {'create': b'True'}
+2016-06-21 22:08:11,478 PARAMS: {'max_id': b'743572733540339711', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:11,696 PARAMS: {'create': b'True'}
+2016-06-21 22:08:12,919 PARAMS: {'max_id': b'743570323275145215', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:13,134 PARAMS: {'create': b'True'}
+2016-06-21 22:08:13,968 PARAMS: {'max_id': b'743568815091519487', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:14,189 PARAMS: {'create': b'True'}
+2016-06-21 22:08:15,137 PARAMS: {'max_id': b'743566839133913087', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:15,473 PARAMS: {'create': b'True'}
+2016-06-21 22:08:16,407 PARAMS: {'max_id': b'743564377220059135', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:16,700 PARAMS: {'create': b'True'}
+2016-06-21 22:08:17,260 PARAMS: {'max_id': b'743563013685383167', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:17,622 PARAMS: {'create': b'True'}
+2016-06-21 22:08:18,375 PARAMS: {'max_id': b'743561027829239808', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:18,652 PARAMS: {'create': b'True'}
+2016-06-21 22:08:19,682 PARAMS: {'max_id': b'743558565378547711', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:19,913 PARAMS: {'create': b'True'}
+2016-06-21 22:08:20,656 PARAMS: {'max_id': b'743556367261241343', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:21,008 PARAMS: {'create': b'True'}
+2016-06-21 22:08:21,942 PARAMS: {'max_id': b'743553115706757120', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:22,232 PARAMS: {'create': b'True'}
+2016-06-21 22:08:23,168 PARAMS: {'max_id': b'743551477025746943', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:23,364 PARAMS: {'create': b'True'}
+2016-06-21 22:08:23,458 PARAMS: {'max_id': b'743550749041369091', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:23,639 PARAMS: {'create': b'True'}
+2016-06-21 22:08:23,826 PARAMS: {'max_id': b'743549781516107775', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:24,081 PARAMS: {'create': b'True'}
+2016-06-21 22:08:25,155 PARAMS: {'max_id': b'743547723228581887', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:25,376 PARAMS: {'create': b'True'}
+2016-06-21 22:08:26,679 PARAMS: {'max_id': b'743544737538449410', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:26,949 PARAMS: {'create': b'True'}
+2016-06-21 22:08:28,001 PARAMS: {'max_id': b'743541682449289215', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:28,384 PARAMS: {'create': b'True'}
+2016-06-21 22:08:29,590 PARAMS: {'max_id': b'743538355095355391', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:30,021 PARAMS: {'create': b'True'}
+2016-06-21 22:08:31,231 PARAMS: {'max_id': b'743536912015687679', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:31,654 PARAMS: {'create': b'True'}
+2016-06-21 22:08:32,491 PARAMS: {'max_id': b'743533963747147776', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:32,887 PARAMS: {'create': b'True'}
+2016-06-21 22:08:34,013 PARAMS: {'max_id': b'743531995632926719', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:34,320 PARAMS: {'create': b'True'}
+2016-06-21 22:08:35,532 PARAMS: {'max_id': b'743530054668402688', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:35,856 PARAMS: {'create': b'True'}
+2016-06-21 22:08:36,894 PARAMS: {'max_id': b'743528466088366081', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:37,181 PARAMS: {'create': b'True'}
+2016-06-21 22:08:38,498 PARAMS: {'max_id': b'743525868245487615', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:38,714 PARAMS: {'create': b'True'}
+2016-06-21 22:08:39,741 PARAMS: {'max_id': b'743523383946711039', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:40,065 PARAMS: {'create': b'True'}
+2016-06-21 22:08:41,046 PARAMS: {'max_id': b'743520689928437759', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:41,383 PARAMS: {'create': b'True'}
+2016-06-21 22:08:42,217 PARAMS: {'max_id': b'743518038276866047', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:42,509 PARAMS: {'create': b'True'}
+2016-06-21 22:08:43,446 PARAMS: {'max_id': b'743514923876089855', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:43,811 PARAMS: {'create': b'True'}
+2016-06-21 22:08:45,220 PARAMS: {'max_id': b'743510348293095427', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:45,421 PARAMS: {'create': b'True'}
+2016-06-21 22:08:46,353 PARAMS: {'max_id': b'743507816174985216', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:46,613 PARAMS: {'create': b'True'}
+2016-06-21 22:08:47,948 PARAMS: {'max_id': b'743506161979252735', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:48,166 PARAMS: {'create': b'True'}
+2016-06-21 22:08:49,392 PARAMS: {'max_id': b'743504128039583745', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:49,685 PARAMS: {'create': b'True'}
+2016-06-21 22:08:51,002 PARAMS: {'max_id': b'743502462317891583', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:51,195 PARAMS: {'create': b'True'}
+2016-06-21 22:08:52,052 PARAMS: {'max_id': b'743501913598066687', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:52,345 PARAMS: {'create': b'True'}
+2016-06-21 22:08:53,653 PARAMS: {'max_id': b'743501466703368192', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:53,873 PARAMS: {'create': b'True'}
+2016-06-21 22:08:55,269 PARAMS: {'max_id': b'743499846947045380', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:55,477 PARAMS: {'create': b'True'}
+2016-06-21 22:08:56,700 PARAMS: {'max_id': b'743497981685567488', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:56,976 PARAMS: {'create': b'True'}
+2016-06-21 22:08:58,013 PARAMS: {'max_id': b'743495804095168511', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:08:58,015 Resetting dropped connection: api.twitter.com
+2016-06-21 22:08:58,774 PARAMS: {'create': b'True'}
+2016-06-21 22:08:59,890 PARAMS: {'max_id': b'743493951659843584', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:00,315 PARAMS: {'create': b'True'}
+2016-06-21 22:09:01,337 PARAMS: {'max_id': b'743492065024155647', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:01,956 PARAMS: {'create': b'True'}
+2016-06-21 22:09:03,385 PARAMS: {'max_id': b'743489424793677823', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:03,804 PARAMS: {'create': b'True'}
+2016-06-21 22:09:05,209 PARAMS: {'max_id': b'743487270011928580', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:05,551 PARAMS: {'create': b'True'}
+2016-06-21 22:09:06,769 PARAMS: {'max_id': b'743484637964541951', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:07,062 PARAMS: {'create': b'True'}
+2016-06-21 22:09:08,659 PARAMS: {'max_id': b'743482198028869631', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:08,863 PARAMS: {'create': b'True'}
+2016-06-21 22:09:10,079 PARAMS: {'max_id': b'743480186889437184', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:10,557 PARAMS: {'create': b'True'}
+2016-06-21 22:09:11,958 PARAMS: {'max_id': b'743478290145480703', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:12,499 PARAMS: {'create': b'True'}
+2016-06-21 22:09:13,926 PARAMS: {'max_id': b'743475502141276160', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:14,258 PARAMS: {'create': b'True'}
+2016-06-21 22:09:15,663 PARAMS: {'max_id': b'743473091641286655', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:16,000 PARAMS: {'create': b'True'}
+2016-06-21 22:09:17,207 PARAMS: {'max_id': b'743470482071162879', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:17,528 PARAMS: {'create': b'True'}
+2016-06-21 22:09:18,275 PARAMS: {'max_id': b'743468822062063619', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:18,559 PARAMS: {'create': b'True'}
+2016-06-21 22:09:19,682 PARAMS: {'max_id': b'743467120097398784', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:19,990 PARAMS: {'create': b'True'}
+2016-06-21 22:09:21,105 PARAMS: {'max_id': b'743463617392148479', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:21,734 PARAMS: {'create': b'True'}
+2016-06-21 22:09:22,851 PARAMS: {'max_id': b'743460863756107775', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:23,163 PARAMS: {'create': b'True'}
+2016-06-21 22:09:24,097 PARAMS: {'max_id': b'743459505548189695', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:24,507 PARAMS: {'create': b'True'}
+2016-06-21 22:09:25,823 PARAMS: {'max_id': b'743458475544547327', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:26,139 PARAMS: {'create': b'True'}
+2016-06-21 22:09:27,386 PARAMS: {'max_id': b'743456820560273409', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:27,657 PARAMS: {'create': b'True'}
+2016-06-21 22:09:29,202 PARAMS: {'max_id': b'743455875076132863', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:29,529 PARAMS: {'create': b'True'}
+2016-06-21 22:09:31,043 PARAMS: {'max_id': b'743454562934267903', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:31,348 PARAMS: {'create': b'True'}
+2016-06-21 22:09:32,397 PARAMS: {'max_id': b'743451767304822783', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:32,796 PARAMS: {'create': b'True'}
+2016-06-21 22:09:33,623 PARAMS: {'max_id': b'743448050727784447', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:33,865 PARAMS: {'create': b'True'}
+2016-06-21 22:09:34,779 PARAMS: {'max_id': b'743445626789171199', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:35,004 PARAMS: {'create': b'True'}
+2016-06-21 22:09:35,985 PARAMS: {'max_id': b'743443333993893887', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:36,271 PARAMS: {'create': b'True'}
+2016-06-21 22:09:37,040 PARAMS: {'max_id': b'743441014568984575', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:37,306 PARAMS: {'create': b'True'}
+2016-06-21 22:09:38,393 PARAMS: {'max_id': b'743439728322686975', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:38,742 PARAMS: {'create': b'True'}
+2016-06-21 22:09:40,175 PARAMS: {'max_id': b'743439157754724351', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:40,569 PARAMS: {'create': b'True'}
+2016-06-21 22:09:41,426 PARAMS: {'max_id': b'743437002499055615', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:41,695 PARAMS: {'create': b'True'}
+2016-06-21 22:09:42,347 PARAMS: {'max_id': b'743435377281753088', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:42,627 PARAMS: {'create': b'True'}
+2016-06-21 22:09:43,917 PARAMS: {'max_id': b'743433135824732159', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:44,276 PARAMS: {'create': b'True'}
+2016-06-21 22:09:45,690 PARAMS: {'max_id': b'743431702920462335', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:45,939 PARAMS: {'create': b'True'}
+2016-06-21 22:09:47,498 PARAMS: {'max_id': b'743428800336236543', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:47,746 PARAMS: {'create': b'True'}
+2016-06-21 22:09:49,174 PARAMS: {'max_id': b'743426883665170433', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:49,456 PARAMS: {'create': b'True'}
+2016-06-21 22:09:50,547 PARAMS: {'max_id': b'743423629724094463', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:50,834 PARAMS: {'create': b'True'}
+2016-06-21 22:09:52,099 PARAMS: {'max_id': b'743418512991981567', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:52,323 PARAMS: {'create': b'True'}
+2016-06-21 22:09:53,382 PARAMS: {'max_id': b'743415801122820095', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:53,691 PARAMS: {'create': b'True'}
+2016-06-21 22:09:54,472 PARAMS: {'max_id': b'743412135192043519', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:54,831 PARAMS: {'create': b'True'}
+2016-06-21 22:09:55,923 PARAMS: {'max_id': b'743410718507139071', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:56,116 PARAMS: {'create': b'True'}
+2016-06-21 22:09:56,883 PARAMS: {'max_id': b'743408973026590723', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:57,096 PARAMS: {'create': b'True'}
+2016-06-21 22:09:57,577 PARAMS: {'max_id': b'743407870222438399', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:57,880 PARAMS: {'create': b'True'}
+2016-06-21 22:09:58,552 PARAMS: {'max_id': b'743406564112011264', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:58,797 PARAMS: {'create': b'True'}
+2016-06-21 22:09:59,638 PARAMS: {'max_id': b'743404463067643903', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:09:59,926 PARAMS: {'create': b'True'}
+2016-06-21 22:10:00,594 PARAMS: {'max_id': b'743402663790972927', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:00,843 PARAMS: {'create': b'True'}
+2016-06-21 22:10:01,683 PARAMS: {'max_id': b'743399860427235329', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:01,976 PARAMS: {'create': b'True'}
+2016-06-21 22:10:02,921 PARAMS: {'max_id': b'743398292533424127', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:03,140 PARAMS: {'create': b'True'}
+2016-06-21 22:10:04,440 PARAMS: {'max_id': b'743395026693132287', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:04,743 PARAMS: {'create': b'True'}
+2016-06-21 22:10:06,001 PARAMS: {'max_id': b'743391737855508480', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:06,223 PARAMS: {'create': b'True'}
+2016-06-21 22:10:07,389 PARAMS: {'max_id': b'743387690947719167', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:07,790 PARAMS: {'create': b'True'}
+2016-06-21 22:10:08,818 PARAMS: {'max_id': b'743383899565330431', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:09,052 PARAMS: {'create': b'True'}
+2016-06-21 22:10:09,906 PARAMS: {'max_id': b'743382394858782719', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:09,908 Resetting dropped connection: api.twitter.com
+2016-06-21 22:10:10,778 PARAMS: {'create': b'True'}
+2016-06-21 22:10:11,623 PARAMS: {'max_id': b'743379789906599935', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:11,997 PARAMS: {'create': b'True'}
+2016-06-21 22:10:12,935 PARAMS: {'max_id': b'743377609149550591', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:13,340 PARAMS: {'create': b'True'}
+2016-06-21 22:10:14,290 PARAMS: {'max_id': b'743375380879409151', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:14,540 PARAMS: {'create': b'True'}
+2016-06-21 22:10:15,399 PARAMS: {'max_id': b'743374197511045119', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:15,696 PARAMS: {'create': b'True'}
+2016-06-21 22:10:16,543 PARAMS: {'max_id': b'743372584100708351', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:16,818 PARAMS: {'create': b'True'}
+2016-06-21 22:10:17,659 PARAMS: {'max_id': b'743371034255048703', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:17,954 PARAMS: {'create': b'True'}
+2016-06-21 22:10:19,170 PARAMS: {'max_id': b'743368899773751295', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:19,412 PARAMS: {'create': b'True'}
+2016-06-21 22:10:20,453 PARAMS: {'max_id': b'743365493910831103', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:20,820 PARAMS: {'create': b'True'}
+2016-06-21 22:10:21,942 PARAMS: {'max_id': b'743363090599788544', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:22,243 PARAMS: {'create': b'True'}
+2016-06-21 22:10:23,374 PARAMS: {'max_id': b'743361059319275519', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:23,680 PARAMS: {'create': b'True'}
+2016-06-21 22:10:24,336 PARAMS: {'max_id': b'743356361791070208', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:24,606 PARAMS: {'create': b'True'}
+2016-06-21 22:10:25,727 PARAMS: {'max_id': b'743351870106673151', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:25,936 PARAMS: {'create': b'True'}
+2016-06-21 22:10:26,686 PARAMS: {'max_id': b'743345646736834559', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:26,977 PARAMS: {'create': b'True'}
+2016-06-21 22:10:28,111 PARAMS: {'max_id': b'743339785264128001', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:28,303 PARAMS: {'create': b'True'}
+2016-06-21 22:10:28,680 PARAMS: {'max_id': b'743336143698026497', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:28,975 PARAMS: {'create': b'True'}
+2016-06-21 22:10:29,929 PARAMS: {'max_id': b'743333287444131841', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:30,200 PARAMS: {'create': b'True'}
+2016-06-21 22:10:30,984 PARAMS: {'max_id': b'743326585982324741', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:31,222 PARAMS: {'create': b'True'}
+2016-06-21 22:10:31,965 PARAMS: {'max_id': b'743320639134564352', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:32,356 PARAMS: {'create': b'True'}
+2016-06-21 22:10:33,023 PARAMS: {'max_id': b'743306676879523839', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:33,428 PARAMS: {'create': b'True'}
+2016-06-21 22:10:34,175 PARAMS: {'max_id': b'743268804294238209', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:34,432 PARAMS: {'create': b'True'}
+2016-06-21 22:10:35,093 PARAMS: {'max_id': b'743238490343747584', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:35,359 PARAMS: {'create': b'True'}
+2016-06-21 22:10:36,380 PARAMS: {'max_id': b'743230761566932992', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:36,688 PARAMS: {'create': b'True'}
+2016-06-21 22:10:37,530 PARAMS: {'max_id': b'743225872270917631', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:37,734 PARAMS: {'create': b'True'}
+2016-06-21 22:10:38,600 PARAMS: {'max_id': b'743220054867775488', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:38,869 PARAMS: {'create': b'True'}
+2016-06-21 22:10:39,521 PARAMS: {'max_id': b'743216018546376703', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:39,859 PARAMS: {'create': b'True'}
+2016-06-21 22:10:40,429 PARAMS: {'max_id': b'743213653776793599', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:40,785 PARAMS: {'create': b'True'}
+2016-06-21 22:10:41,441 PARAMS: {'max_id': b'743211686031687681', 'q': b'\xe2\x98\x82 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:41,805 PARAMS: {'create': b'True'}
+2016-06-21 22:10:42,468 Query returned: 2500 tweets =================
+2016-06-21 22:10:52,523 PARAMS: {'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:52,543 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:10:53,434 PARAMS: {'create': b'True'}
+2016-06-21 22:10:54,487 PARAMS: {'max_id': b'743951903848079359', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:54,808 PARAMS: {'create': b'True'}
+2016-06-21 22:10:55,460 PARAMS: {'max_id': b'743948961459875839', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:55,640 PARAMS: {'create': b'True'}
+2016-06-21 22:10:56,204 PARAMS: {'max_id': b'743946644421550079', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:56,557 PARAMS: {'create': b'True'}
+2016-06-21 22:10:57,998 PARAMS: {'max_id': b'743944087443738623', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:58,185 PARAMS: {'create': b'True'}
+2016-06-21 22:10:58,849 PARAMS: {'max_id': b'743940023259631616', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:59,035 PARAMS: {'create': b'True'}
+2016-06-21 22:10:59,686 PARAMS: {'max_id': b'743936939481534463', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:10:59,982 PARAMS: {'create': b'True'}
+2016-06-21 22:11:01,374 PARAMS: {'max_id': b'743934499323510783', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:01,675 PARAMS: {'create': b'True'}
+2016-06-21 22:11:02,613 PARAMS: {'max_id': b'743931826218078207', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:02,832 PARAMS: {'create': b'True'}
+2016-06-21 22:11:03,482 PARAMS: {'max_id': b'743930150849495039', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:03,831 PARAMS: {'create': b'True'}
+2016-06-21 22:11:04,878 PARAMS: {'max_id': b'743927696384753663', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:05,168 PARAMS: {'create': b'True'}
+2016-06-21 22:11:06,488 PARAMS: {'max_id': b'743925119626711039', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:06,783 PARAMS: {'create': b'True'}
+2016-06-21 22:11:08,192 PARAMS: {'max_id': b'743921644008280063', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:08,443 PARAMS: {'create': b'True'}
+2016-06-21 22:11:09,656 PARAMS: {'max_id': b'743915887728668671', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:09,971 PARAMS: {'create': b'True'}
+2016-06-21 22:11:10,937 PARAMS: {'max_id': b'743912545724006400', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:11,181 PARAMS: {'create': b'True'}
+2016-06-21 22:11:12,309 PARAMS: {'max_id': b'743908002797854720', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:12,632 PARAMS: {'create': b'True'}
+2016-06-21 22:11:13,872 PARAMS: {'max_id': b'743905223882727424', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:14,257 PARAMS: {'create': b'True'}
+2016-06-21 22:11:15,659 PARAMS: {'max_id': b'743902102938914815', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:15,864 PARAMS: {'create': b'True'}
+2016-06-21 22:11:17,188 PARAMS: {'max_id': b'743899494270509055', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:17,552 PARAMS: {'create': b'True'}
+2016-06-21 22:11:18,706 PARAMS: {'max_id': b'743896934361010179', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:18,897 PARAMS: {'create': b'True'}
+2016-06-21 22:11:19,924 PARAMS: {'max_id': b'743895694663114752', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:20,315 PARAMS: {'create': b'True'}
+2016-06-21 22:11:21,505 PARAMS: {'max_id': b'743892779470884863', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:21,860 PARAMS: {'create': b'True'}
+2016-06-21 22:11:22,910 PARAMS: {'max_id': b'743890434439716865', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:23,164 PARAMS: {'create': b'True'}
+2016-06-21 22:11:24,097 PARAMS: {'max_id': b'743887977630343168', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:24,324 PARAMS: {'create': b'True'}
+2016-06-21 22:11:25,440 PARAMS: {'max_id': b'743885171548626944', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:25,661 PARAMS: {'create': b'True'}
+2016-06-21 22:11:26,867 PARAMS: {'max_id': b'743880963801944063', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:27,070 PARAMS: {'create': b'True'}
+2016-06-21 22:11:27,918 PARAMS: {'max_id': b'743878390260899839', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:28,196 PARAMS: {'create': b'True'}
+2016-06-21 22:11:28,939 PARAMS: {'max_id': b'743876769711816707', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:29,171 PARAMS: {'create': b'True'}
+2016-06-21 22:11:30,101 PARAMS: {'max_id': b'743873231849988096', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:30,356 PARAMS: {'create': b'True'}
+2016-06-21 22:11:31,388 PARAMS: {'max_id': b'743870264941879295', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:31,663 PARAMS: {'create': b'True'}
+2016-06-21 22:11:32,223 PARAMS: {'max_id': b'743869253649063935', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:32,498 PARAMS: {'create': b'True'}
+2016-06-21 22:11:33,616 PARAMS: {'max_id': b'743866151374065663', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:33,864 PARAMS: {'create': b'True'}
+2016-06-21 22:11:35,280 PARAMS: {'max_id': b'743864352072146943', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:35,514 PARAMS: {'create': b'True'}
+2016-06-21 22:11:36,905 PARAMS: {'max_id': b'743862509292126208', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:37,155 PARAMS: {'create': b'True'}
+2016-06-21 22:11:37,899 PARAMS: {'max_id': b'743861188602241023', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:38,101 PARAMS: {'create': b'True'}
+2016-06-21 22:11:38,946 PARAMS: {'max_id': b'743860010065760255', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:39,153 PARAMS: {'create': b'True'}
+2016-06-21 22:11:40,270 PARAMS: {'max_id': b'743857542384713727', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:40,589 PARAMS: {'create': b'True'}
+2016-06-21 22:11:41,895 PARAMS: {'max_id': b'743855431454494720', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:42,171 PARAMS: {'create': b'True'}
+2016-06-21 22:11:43,294 PARAMS: {'max_id': b'743852454027026435', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:43,633 PARAMS: {'create': b'True'}
+2016-06-21 22:11:45,042 PARAMS: {'max_id': b'743849162412818431', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:45,258 PARAMS: {'create': b'True'}
+2016-06-21 22:11:46,211 PARAMS: {'max_id': b'743846445715959807', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:46,429 PARAMS: {'create': b'True'}
+2016-06-21 22:11:47,264 PARAMS: {'max_id': b'743844314841780227', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:47,498 PARAMS: {'create': b'True'}
+2016-06-21 22:11:48,469 PARAMS: {'max_id': b'743841228844863487', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:48,783 PARAMS: {'create': b'True'}
+2016-06-21 22:11:50,008 PARAMS: {'max_id': b'743839178006364159', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:50,228 PARAMS: {'create': b'True'}
+2016-06-21 22:11:51,637 PARAMS: {'max_id': b'743835506933436415', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:51,959 PARAMS: {'create': b'True'}
+2016-06-21 22:11:53,094 PARAMS: {'max_id': b'743833747238322175', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:53,324 PARAMS: {'create': b'True'}
+2016-06-21 22:11:53,980 PARAMS: {'max_id': b'743831753853403137', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:54,307 PARAMS: {'create': b'True'}
+2016-06-21 22:11:55,160 PARAMS: {'max_id': b'743829490250432511', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:55,432 PARAMS: {'create': b'True'}
+2016-06-21 22:11:56,279 PARAMS: {'max_id': b'743828491783802879', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:56,482 PARAMS: {'create': b'True'}
+2016-06-21 22:11:57,137 PARAMS: {'max_id': b'743827266849865728', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:57,369 PARAMS: {'create': b'True'}
+2016-06-21 22:11:58,405 PARAMS: {'max_id': b'743825626126221311', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:11:58,464 Resetting dropped connection: api.twitter.com
+2016-06-21 22:11:59,313 PARAMS: {'create': b'True'}
+2016-06-21 22:12:00,612 PARAMS: {'max_id': b'743823819283009535', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:00,904 PARAMS: {'create': b'True'}
+2016-06-21 22:12:01,938 PARAMS: {'max_id': b'743820168032288768', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:02,200 PARAMS: {'create': b'True'}
+2016-06-21 22:12:03,227 PARAMS: {'max_id': b'743817723713568767', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:03,614 PARAMS: {'create': b'True'}
+2016-06-21 22:12:04,841 PARAMS: {'max_id': b'743815625861136384', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:05,099 PARAMS: {'create': b'True'}
+2016-06-21 22:12:05,940 PARAMS: {'max_id': b'743812589214380031', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:06,247 PARAMS: {'create': b'True'}
+2016-06-21 22:12:07,361 PARAMS: {'max_id': b'743809224334020607', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:07,812 PARAMS: {'create': b'True'}
+2016-06-21 22:12:09,037 PARAMS: {'max_id': b'743806784897421311', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:09,360 PARAMS: {'create': b'True'}
+2016-06-21 22:12:10,196 PARAMS: {'max_id': b'743804080158564351', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:10,577 PARAMS: {'create': b'True'}
+2016-06-21 22:12:11,710 PARAMS: {'max_id': b'743800905229795327', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:12,029 PARAMS: {'create': b'True'}
+2016-06-21 22:12:13,156 PARAMS: {'max_id': b'743798074842169343', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:13,463 PARAMS: {'create': b'True'}
+2016-06-21 22:12:14,583 PARAMS: {'max_id': b'743796288119013375', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:14,889 PARAMS: {'create': b'True'}
+2016-06-21 22:12:16,238 PARAMS: {'max_id': b'743794906095824895', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:16,465 PARAMS: {'create': b'True'}
+2016-06-21 22:12:17,582 PARAMS: {'max_id': b'743792912438276095', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:17,795 PARAMS: {'create': b'True'}
+2016-06-21 22:12:19,041 PARAMS: {'max_id': b'743790229505642495', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:19,606 PARAMS: {'create': b'True'}
+2016-06-21 22:12:20,838 PARAMS: {'max_id': b'743788813923815423', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:21,253 PARAMS: {'create': b'True'}
+2016-06-21 22:12:22,702 PARAMS: {'max_id': b'743784714117459967', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:22,915 PARAMS: {'create': b'True'}
+2016-06-21 22:12:24,031 PARAMS: {'max_id': b'743780279660220415', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:24,359 PARAMS: {'create': b'True'}
+2016-06-21 22:12:25,389 PARAMS: {'max_id': b'743778352398475263', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:25,625 PARAMS: {'create': b'True'}
+2016-06-21 22:12:26,841 PARAMS: {'max_id': b'743775822276866047', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:27,093 PARAMS: {'create': b'True'}
+2016-06-21 22:12:28,494 PARAMS: {'max_id': b'743773392990511104', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:28,738 PARAMS: {'create': b'True'}
+2016-06-21 22:12:29,805 PARAMS: {'max_id': b'743769330588987391', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:30,052 PARAMS: {'create': b'True'}
+2016-06-21 22:12:31,459 PARAMS: {'max_id': b'743765981944754177', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:31,685 PARAMS: {'create': b'True'}
+2016-06-21 22:12:32,711 PARAMS: {'max_id': b'743764062819975167', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:33,018 PARAMS: {'create': b'True'}
+2016-06-21 22:12:34,363 PARAMS: {'max_id': b'743761328674902015', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:34,599 PARAMS: {'create': b'True'}
+2016-06-21 22:12:35,758 PARAMS: {'max_id': b'743758659360956417', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:36,049 PARAMS: {'create': b'True'}
+2016-06-21 22:12:37,366 PARAMS: {'max_id': b'743757014988267520', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:37,616 PARAMS: {'create': b'True'}
+2016-06-21 22:12:38,547 PARAMS: {'max_id': b'743755786585677823', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:38,857 PARAMS: {'create': b'True'}
+2016-06-21 22:12:40,282 PARAMS: {'max_id': b'743754969417867263', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:40,599 PARAMS: {'create': b'True'}
+2016-06-21 22:12:42,015 PARAMS: {'max_id': b'743753789505572863', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:42,336 PARAMS: {'create': b'True'}
+2016-06-21 22:12:43,551 PARAMS: {'max_id': b'743752822991126531', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:43,740 PARAMS: {'create': b'True'}
+2016-06-21 22:12:44,393 PARAMS: {'max_id': b'743750557379092479', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:44,605 PARAMS: {'create': b'True'}
+2016-06-21 22:12:46,016 PARAMS: {'max_id': b'743747636914593792', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:46,328 PARAMS: {'create': b'True'}
+2016-06-21 22:12:47,359 PARAMS: {'max_id': b'743744946553815039', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:47,545 PARAMS: {'create': b'True'}
+2016-06-21 22:12:48,583 PARAMS: {'max_id': b'743740927898845187', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:48,892 PARAMS: {'create': b'True'}
+2016-06-21 22:12:50,020 PARAMS: {'max_id': b'743738166687891456', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:50,317 PARAMS: {'create': b'True'}
+2016-06-21 22:12:51,546 PARAMS: {'max_id': b'743736808870031359', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:51,858 PARAMS: {'create': b'True'}
+2016-06-21 22:12:52,888 PARAMS: {'max_id': b'743734707729248255', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:53,089 PARAMS: {'create': b'True'}
+2016-06-21 22:12:54,206 PARAMS: {'max_id': b'743732290639921151', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:54,473 PARAMS: {'create': b'True'}
+2016-06-21 22:12:55,593 PARAMS: {'max_id': b'743731172635611135', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:55,778 PARAMS: {'create': b'True'}
+2016-06-21 22:12:56,908 PARAMS: {'max_id': b'743728566303490047', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:57,176 PARAMS: {'create': b'True'}
+2016-06-21 22:12:57,733 PARAMS: {'max_id': b'743725932062478335', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:58,129 PARAMS: {'create': b'True'}
+2016-06-21 22:12:59,404 PARAMS: {'max_id': b'743723011396640767', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:12:59,748 PARAMS: {'create': b'True'}
+2016-06-21 22:13:01,057 PARAMS: {'max_id': b'743719982903681027', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:01,385 PARAMS: {'create': b'True'}
+2016-06-21 22:13:02,857 PARAMS: {'max_id': b'743717871717515264', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:03,127 PARAMS: {'create': b'True'}
+2016-06-21 22:13:04,370 PARAMS: {'max_id': b'743715003245596671', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:04,580 PARAMS: {'create': b'True'}
+2016-06-21 22:13:05,427 PARAMS: {'max_id': b'743710687168389120', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:05,625 PARAMS: {'create': b'True'}
+2016-06-21 22:13:06,564 PARAMS: {'max_id': b'743706508181942271', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:06,760 PARAMS: {'create': b'True'}
+2016-06-21 22:13:08,277 PARAMS: {'max_id': b'743704875351969791', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:08,472 PARAMS: {'create': b'True'}
+2016-06-21 22:13:09,606 PARAMS: {'max_id': b'743701971954106368', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:09,884 PARAMS: {'create': b'True'}
+2016-06-21 22:13:10,823 PARAMS: {'max_id': b'743696645490040836', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:10,827 Resetting dropped connection: api.twitter.com
+2016-06-21 22:13:11,535 PARAMS: {'create': b'True'}
+2016-06-21 22:13:12,009 PARAMS: {'max_id': b'743692000810045440', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:12,426 PARAMS: {'create': b'True'}
+2016-06-21 22:13:12,894 PARAMS: {'max_id': b'743687686884491264', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:13,252 PARAMS: {'create': b'True'}
+2016-06-21 22:13:14,473 PARAMS: {'max_id': b'743676221213409285', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:14,756 PARAMS: {'create': b'True'}
+2016-06-21 22:13:15,898 PARAMS: {'max_id': b'743645453523226623', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:16,234 PARAMS: {'create': b'True'}
+2016-06-21 22:13:17,447 PARAMS: {'max_id': b'743620405517295615', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:17,760 PARAMS: {'create': b'True'}
+2016-06-21 22:13:18,422 PARAMS: {'max_id': b'743606362224140287', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:18,613 PARAMS: {'create': b'True'}
+2016-06-21 22:13:19,452 PARAMS: {'max_id': b'743599991579615231', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:19,659 PARAMS: {'create': b'True'}
+2016-06-21 22:13:20,506 PARAMS: {'max_id': b'743594953352290303', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:20,747 PARAMS: {'create': b'True'}
+2016-06-21 22:13:21,493 PARAMS: {'max_id': b'743591520410939391', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:21,950 PARAMS: {'create': b'True'}
+2016-06-21 22:13:23,189 PARAMS: {'max_id': b'743586183754751999', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:23,589 PARAMS: {'create': b'True'}
+2016-06-21 22:13:24,990 PARAMS: {'max_id': b'743582874469867519', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:25,241 PARAMS: {'create': b'True'}
+2016-06-21 22:13:26,269 PARAMS: {'max_id': b'743578709744041983', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:26,764 PARAMS: {'create': b'True'}
+2016-06-21 22:13:28,070 PARAMS: {'max_id': b'743576183615459327', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:28,312 PARAMS: {'create': b'True'}
+2016-06-21 22:13:29,336 PARAMS: {'max_id': b'743572733540339711', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:29,752 PARAMS: {'create': b'True'}
+2016-06-21 22:13:30,968 PARAMS: {'max_id': b'743570323275145215', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:31,279 PARAMS: {'create': b'True'}
+2016-06-21 22:13:32,120 PARAMS: {'max_id': b'743568815091519487', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:32,306 PARAMS: {'create': b'True'}
+2016-06-21 22:13:33,264 PARAMS: {'max_id': b'743566839133913087', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:33,475 PARAMS: {'create': b'True'}
+2016-06-21 22:13:34,406 PARAMS: {'max_id': b'743564377220059135', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:34,630 PARAMS: {'create': b'True'}
+2016-06-21 22:13:35,187 PARAMS: {'max_id': b'743563013685383167', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:35,484 PARAMS: {'create': b'True'}
+2016-06-21 22:13:36,246 PARAMS: {'max_id': b'743561027829239808', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:36,505 PARAMS: {'create': b'True'}
+2016-06-21 22:13:37,531 PARAMS: {'max_id': b'743558565378547711', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:37,833 PARAMS: {'create': b'True'}
+2016-06-21 22:13:38,631 PARAMS: {'max_id': b'743556367261241343', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:38,962 PARAMS: {'create': b'True'}
+2016-06-21 22:13:39,897 PARAMS: {'max_id': b'743553115706757120', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:40,191 PARAMS: {'create': b'True'}
+2016-06-21 22:13:41,122 PARAMS: {'max_id': b'743551477025746943', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:41,312 PARAMS: {'create': b'True'}
+2016-06-21 22:13:41,405 PARAMS: {'max_id': b'743550749041369091', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:41,587 PARAMS: {'create': b'True'}
+2016-06-21 22:13:41,776 PARAMS: {'max_id': b'743549781516107775', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:42,037 PARAMS: {'create': b'True'}
+2016-06-21 22:13:43,079 PARAMS: {'max_id': b'743547723228581887', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:43,474 PARAMS: {'create': b'True'}
+2016-06-21 22:13:44,778 PARAMS: {'max_id': b'743544737538449410', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:44,976 PARAMS: {'create': b'True'}
+2016-06-21 22:13:46,018 PARAMS: {'max_id': b'743541682449289215', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:46,340 PARAMS: {'create': b'True'}
+2016-06-21 22:13:47,563 PARAMS: {'max_id': b'743538355095355391', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:47,877 PARAMS: {'create': b'True'}
+2016-06-21 22:13:49,098 PARAMS: {'max_id': b'743536912015687679', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:49,510 PARAMS: {'create': b'True'}
+2016-06-21 22:13:50,354 PARAMS: {'max_id': b'743533963747147776', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:50,562 PARAMS: {'create': b'True'}
+2016-06-21 22:13:51,698 PARAMS: {'max_id': b'743531995632926719', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:51,973 PARAMS: {'create': b'True'}
+2016-06-21 22:13:53,494 PARAMS: {'max_id': b'743530054668402688', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:53,812 PARAMS: {'create': b'True'}
+2016-06-21 22:13:54,837 PARAMS: {'max_id': b'743528466088366081', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:55,145 PARAMS: {'create': b'True'}
+2016-06-21 22:13:56,454 PARAMS: {'max_id': b'743525868245487615', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:56,668 PARAMS: {'create': b'True'}
+2016-06-21 22:13:57,705 PARAMS: {'max_id': b'743523383946711039', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:57,905 PARAMS: {'create': b'True'}
+2016-06-21 22:13:58,837 PARAMS: {'max_id': b'743520689928437759', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:13:59,029 PARAMS: {'create': b'True'}
+2016-06-21 22:13:59,884 PARAMS: {'max_id': b'743518038276866047', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:00,159 PARAMS: {'create': b'True'}
+2016-06-21 22:14:01,090 PARAMS: {'max_id': b'743514923876089855', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:01,393 PARAMS: {'create': b'True'}
+2016-06-21 22:14:02,801 PARAMS: {'max_id': b'743510348293095427', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:03,128 PARAMS: {'create': b'True'}
+2016-06-21 22:14:04,065 PARAMS: {'max_id': b'743507816174985216', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:04,361 PARAMS: {'create': b'True'}
+2016-06-21 22:14:05,671 PARAMS: {'max_id': b'743506161979252735', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:06,000 PARAMS: {'create': b'True'}
+2016-06-21 22:14:07,245 PARAMS: {'max_id': b'743504128039583745', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:07,506 PARAMS: {'create': b'True'}
+2016-06-21 22:14:08,821 PARAMS: {'max_id': b'743502462317891583', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:09,067 PARAMS: {'create': b'True'}
+2016-06-21 22:14:09,922 PARAMS: {'max_id': b'743501913598066687', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:10,147 PARAMS: {'create': b'True'}
+2016-06-21 22:14:11,461 PARAMS: {'max_id': b'743501466703368192', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:11,736 PARAMS: {'create': b'True'}
+2016-06-21 22:14:13,148 PARAMS: {'max_id': b'743499846947045380', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:13,358 PARAMS: {'create': b'True'}
+2016-06-21 22:14:14,566 PARAMS: {'max_id': b'743497981685567488', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:14,808 PARAMS: {'create': b'True'}
+2016-06-21 22:14:15,840 PARAMS: {'max_id': b'743495804095168511', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:15,843 Resetting dropped connection: api.twitter.com
+2016-06-21 22:14:16,539 PARAMS: {'create': b'True'}
+2016-06-21 22:14:17,682 PARAMS: {'max_id': b'743493951659843584', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:18,068 PARAMS: {'create': b'True'}
+2016-06-21 22:14:19,106 PARAMS: {'max_id': b'743492065024155647', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:19,505 PARAMS: {'create': b'True'}
+2016-06-21 22:14:20,923 PARAMS: {'max_id': b'743489424793677823', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:21,343 PARAMS: {'create': b'True'}
+2016-06-21 22:14:22,741 PARAMS: {'max_id': b'743487270011928580', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:23,085 PARAMS: {'create': b'True'}
+2016-06-21 22:14:24,300 PARAMS: {'max_id': b'743484637964541951', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:24,583 PARAMS: {'create': b'True'}
+2016-06-21 22:14:25,609 PARAMS: {'max_id': b'743482198028869631', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:25,831 PARAMS: {'create': b'True'}
+2016-06-21 22:14:27,061 PARAMS: {'max_id': b'743480186889437184', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:27,588 PARAMS: {'create': b'True'}
+2016-06-21 22:14:28,986 PARAMS: {'max_id': b'743478290145480703', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:29,342 PARAMS: {'create': b'True'}
+2016-06-21 22:14:30,753 PARAMS: {'max_id': b'743475502141276160', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:31,183 PARAMS: {'create': b'True'}
+2016-06-21 22:14:32,587 PARAMS: {'max_id': b'743473091641286655', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:32,815 PARAMS: {'create': b'True'}
+2016-06-21 22:14:34,083 PARAMS: {'max_id': b'743470482071162879', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:34,298 PARAMS: {'create': b'True'}
+2016-06-21 22:14:35,052 PARAMS: {'max_id': b'743468822062063619', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:35,284 PARAMS: {'create': b'True'}
+2016-06-21 22:14:36,409 PARAMS: {'max_id': b'743467120097398784', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:36,718 PARAMS: {'create': b'True'}
+2016-06-21 22:14:37,843 PARAMS: {'max_id': b'743463617392148479', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:38,153 PARAMS: {'create': b'True'}
+2016-06-21 22:14:39,276 PARAMS: {'max_id': b'743460863756107775', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:39,479 PARAMS: {'create': b'True'}
+2016-06-21 22:14:40,420 PARAMS: {'max_id': b'743459505548189695', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:40,716 PARAMS: {'create': b'True'}
+2016-06-21 22:14:41,930 PARAMS: {'max_id': b'743458475544547327', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:42,148 PARAMS: {'create': b'True'}
+2016-06-21 22:14:43,363 PARAMS: {'max_id': b'743456820560273409', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:43,683 PARAMS: {'create': b'True'}
+2016-06-21 22:14:45,077 PARAMS: {'max_id': b'743455875076132863', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:45,426 PARAMS: {'create': b'True'}
+2016-06-21 22:14:46,820 PARAMS: {'max_id': b'743454562934267903', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:47,062 PARAMS: {'create': b'True'}
+2016-06-21 22:14:48,015 PARAMS: {'max_id': b'743451767304822783', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:48,288 PARAMS: {'create': b'True'}
+2016-06-21 22:14:49,039 PARAMS: {'max_id': b'743448050727784447', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:49,271 PARAMS: {'create': b'True'}
+2016-06-21 22:14:50,113 PARAMS: {'max_id': b'743445626789171199', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:50,406 PARAMS: {'create': b'True'}
+2016-06-21 22:14:51,339 PARAMS: {'max_id': b'743443333993893887', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:51,665 PARAMS: {'create': b'True'}
+2016-06-21 22:14:52,415 PARAMS: {'max_id': b'743441014568984575', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:52,694 PARAMS: {'create': b'True'}
+2016-06-21 22:14:53,632 PARAMS: {'max_id': b'743439728322686975', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:53,846 PARAMS: {'create': b'True'}
+2016-06-21 22:14:55,272 PARAMS: {'max_id': b'743439157754724351', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:55,495 PARAMS: {'create': b'True'}
+2016-06-21 22:14:56,338 PARAMS: {'max_id': b'743437002499055615', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:56,545 PARAMS: {'create': b'True'}
+2016-06-21 22:14:57,199 PARAMS: {'max_id': b'743435377281753088', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:57,510 PARAMS: {'create': b'True'}
+2016-06-21 22:14:58,736 PARAMS: {'max_id': b'743433135824732159', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:14:58,936 PARAMS: {'create': b'True'}
+2016-06-21 22:15:00,263 PARAMS: {'max_id': b'743431702920462335', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:00,581 PARAMS: {'create': b'True'}
+2016-06-21 22:15:01,950 PARAMS: {'max_id': b'743428800336236543', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:02,216 PARAMS: {'create': b'True'}
+2016-06-21 22:15:03,431 PARAMS: {'max_id': b'743426883665170433', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:03,852 PARAMS: {'create': b'True'}
+2016-06-21 22:15:04,788 PARAMS: {'max_id': b'743423629724094463', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:05,094 PARAMS: {'create': b'True'}
+2016-06-21 22:15:06,123 PARAMS: {'max_id': b'743418512991981567', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:06,331 PARAMS: {'create': b'True'}
+2016-06-21 22:15:07,277 PARAMS: {'max_id': b'743415801122820095', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:07,458 PARAMS: {'create': b'True'}
+2016-06-21 22:15:08,201 PARAMS: {'max_id': b'743412135192043519', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:08,460 PARAMS: {'create': b'True'}
+2016-06-21 22:15:09,484 PARAMS: {'max_id': b'743410718507139071', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:09,683 PARAMS: {'create': b'True'}
+2016-06-21 22:15:11,040 PARAMS: {'max_id': b'743408973026590723', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:11,232 PARAMS: {'create': b'True'}
+2016-06-21 22:15:11,697 PARAMS: {'max_id': b'743407870222438399', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:11,904 PARAMS: {'create': b'True'}
+2016-06-21 22:15:12,557 PARAMS: {'max_id': b'743406564112011264', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:12,753 PARAMS: {'create': b'True'}
+2016-06-21 22:15:13,591 PARAMS: {'max_id': b'743404463067643903', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:13,762 PARAMS: {'create': b'True'}
+2016-06-21 22:15:14,426 PARAMS: {'max_id': b'743402663790972927', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:14,633 PARAMS: {'create': b'True'}
+2016-06-21 22:15:15,507 PARAMS: {'max_id': b'743399860427235329', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:15,713 PARAMS: {'create': b'True'}
+2016-06-21 22:15:16,647 PARAMS: {'max_id': b'743398292533424127', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:16,852 PARAMS: {'create': b'True'}
+2016-06-21 22:15:18,175 PARAMS: {'max_id': b'743395026693132287', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:18,397 PARAMS: {'create': b'True'}
+2016-06-21 22:15:19,615 PARAMS: {'max_id': b'743391737855508480', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:19,936 PARAMS: {'create': b'True'}
+2016-06-21 22:15:21,065 PARAMS: {'max_id': b'743387690947719167', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:21,362 PARAMS: {'create': b'True'}
+2016-06-21 22:15:22,382 PARAMS: {'max_id': b'743383899565330431', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:22,700 PARAMS: {'create': b'True'}
+2016-06-21 22:15:23,550 PARAMS: {'max_id': b'743382394858782719', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:23,553 Resetting dropped connection: api.twitter.com
+2016-06-21 22:15:24,309 PARAMS: {'create': b'True'}
+2016-06-21 22:15:25,148 PARAMS: {'max_id': b'743379789906599935', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:25,489 PARAMS: {'create': b'True'}
+2016-06-21 22:15:26,434 PARAMS: {'max_id': b'743377609149550591', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:26,882 PARAMS: {'create': b'True'}
+2016-06-21 22:15:27,833 PARAMS: {'max_id': b'743375380879409151', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:28,215 PARAMS: {'create': b'True'}
+2016-06-21 22:15:29,065 PARAMS: {'max_id': b'743374197511045119', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:29,512 PARAMS: {'create': b'True'}
+2016-06-21 22:15:30,362 PARAMS: {'max_id': b'743372584100708351', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:30,681 PARAMS: {'create': b'True'}
+2016-06-21 22:15:31,523 PARAMS: {'max_id': b'743371034255048703', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:31,899 PARAMS: {'create': b'True'}
+2016-06-21 22:15:33,111 PARAMS: {'max_id': b'743368899773751295', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:33,448 PARAMS: {'create': b'True'}
+2016-06-21 22:15:34,474 PARAMS: {'max_id': b'743365493910831103', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:34,787 PARAMS: {'create': b'True'}
+2016-06-21 22:15:35,914 PARAMS: {'max_id': b'743363090599788544', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:36,216 PARAMS: {'create': b'True'}
+2016-06-21 22:15:37,459 PARAMS: {'max_id': b'743361059319275519', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:37,743 PARAMS: {'create': b'True'}
+2016-06-21 22:15:38,395 PARAMS: {'max_id': b'743356361791070208', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:38,632 PARAMS: {'create': b'True'}
+2016-06-21 22:15:39,764 PARAMS: {'max_id': b'743351870106673151', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:39,997 PARAMS: {'create': b'True'}
+2016-06-21 22:15:40,742 PARAMS: {'max_id': b'743345646736834559', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:41,024 PARAMS: {'create': b'True'}
+2016-06-21 22:15:42,142 PARAMS: {'max_id': b'743339785264128001', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:42,313 PARAMS: {'create': b'True'}
+2016-06-21 22:15:42,686 PARAMS: {'max_id': b'743336143698026497', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:42,900 PARAMS: {'create': b'True'}
+2016-06-21 22:15:44,137 PARAMS: {'max_id': b'743333287444131841', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:44,401 PARAMS: {'create': b'True'}
+2016-06-21 22:15:45,155 PARAMS: {'max_id': b'743326585982324741', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:45,342 PARAMS: {'create': b'True'}
+2016-06-21 22:15:46,094 PARAMS: {'max_id': b'743320639134564352', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:46,299 PARAMS: {'create': b'True'}
+2016-06-21 22:15:46,964 PARAMS: {'max_id': b'743306676879523839', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:47,156 PARAMS: {'create': b'True'}
+2016-06-21 22:15:47,905 PARAMS: {'max_id': b'743268804294238209', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:48,115 PARAMS: {'create': b'True'}
+2016-06-21 22:15:48,804 PARAMS: {'max_id': b'743238490343747584', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:49,115 PARAMS: {'create': b'True'}
+2016-06-21 22:15:50,161 PARAMS: {'max_id': b'743230761566932992', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:50,445 PARAMS: {'create': b'True'}
+2016-06-21 22:15:51,288 PARAMS: {'max_id': b'743225872270917631', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:51,469 PARAMS: {'create': b'True'}
+2016-06-21 22:15:52,311 PARAMS: {'max_id': b'743220054867775488', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:52,533 PARAMS: {'create': b'True'}
+2016-06-21 22:15:53,185 PARAMS: {'max_id': b'743216018546376703', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:53,436 PARAMS: {'create': b'True'}
+2016-06-21 22:15:54,012 PARAMS: {'max_id': b'743213653776793599', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:54,203 PARAMS: {'create': b'True'}
+2016-06-21 22:15:54,855 PARAMS: {'max_id': b'743211686031687681', 'q': b'\xe2\x98\x94 since:2016-06-14  until:2016-06-18  place:73cc26d418860ddd'}
+2016-06-21 22:15:55,061 PARAMS: {'create': b'True'}
+2016-06-21 22:15:55,646 Query returned: 2500 tweets =================
+2016-06-21 22:48:41,219 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:52:00,863 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:57:14,157 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:57:14,990 max tweets: 2500 Queries:glassel,fettercairn,aboyne,strachan bridge,banchory,aberdeenshire,aberdeen,deeside,tanar,birse,inverurie,river tarland,river feugh,river dee,rivertarland,riverfeugh,riverdee,dee
+2016-06-21 22:57:25,002 PARAMS: {'q': b'glassel since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:57:25,008 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:57:25,561 PARAMS: {'create': b'True'}
+2016-06-21 22:57:25,562 Query returned: 0 tweets =================
+2016-06-21 22:57:35,572 PARAMS: {'q': b'fettercairn since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:57:35,577 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:57:36,095 PARAMS: {'create': b'True'}
+2016-06-21 22:57:36,095 Query returned: 0 tweets =================
+2016-06-21 22:57:46,106 PARAMS: {'q': b'aboyne since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:57:46,110 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:57:46,812 PARAMS: {'create': b'True'}
+2016-06-21 22:57:47,873 PARAMS: {'max_id': b'742841799107063807', 'q': b'aboyne since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:57:48,005 PARAMS: {'create': b'True'}
+2016-06-21 22:57:48,005 Query returned: 5 tweets =================
+2016-06-21 22:57:58,016 PARAMS: {'q': b'strachan bridge since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:57:58,019 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:57:58,706 PARAMS: {'create': b'True'}
+2016-06-21 22:57:58,707 Query returned: 0 tweets =================
+2016-06-21 22:58:08,718 PARAMS: {'q': b'banchory since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:08,722 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:58:09,469 PARAMS: {'create': b'True'}
+2016-06-21 22:58:09,957 PARAMS: {'max_id': b'742762587079729151', 'q': b'banchory since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:10,094 PARAMS: {'create': b'True'}
+2016-06-21 22:58:10,095 Query returned: 5 tweets =================
+2016-06-21 22:58:20,108 PARAMS: {'q': b'aberdeenshire since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:20,114 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:58:20,866 PARAMS: {'create': b'True'}
+2016-06-21 22:58:21,538 PARAMS: {'max_id': b'743870676470214655', 'q': b'aberdeenshire since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:21,982 PARAMS: {'create': b'True'}
+2016-06-21 22:58:23,025 PARAMS: {'max_id': b'743559493917769727', 'q': b'aberdeenshire since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:23,314 PARAMS: {'create': b'True'}
+2016-06-21 22:58:24,264 PARAMS: {'max_id': b'743131520718786559', 'q': b'aberdeenshire since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:24,572 PARAMS: {'create': b'True'}
+2016-06-21 22:58:25,138 PARAMS: {'max_id': b'742826271516860415', 'q': b'aberdeenshire since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:25,793 PARAMS: {'create': b'True'}
+2016-06-21 22:58:26,355 PARAMS: {'max_id': b'742656644971106303', 'q': b'aberdeenshire since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:26,660 PARAMS: {'create': b'True'}
+2016-06-21 22:58:26,754 PARAMS: {'max_id': b'742628720402386943', 'q': b'aberdeenshire since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:26,943 PARAMS: {'create': b'True'}
+2016-06-21 22:58:26,948 Query returned: 41 tweets =================
+2016-06-21 22:58:36,967 PARAMS: {'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:36,972 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:58:37,835 PARAMS: {'create': b'True'}
+2016-06-21 22:58:39,149 PARAMS: {'max_id': b'743883454111158271', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:39,585 PARAMS: {'create': b'True'}
+2016-06-21 22:58:40,714 PARAMS: {'max_id': b'743851223741243391', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:41,130 PARAMS: {'create': b'True'}
+2016-06-21 22:58:42,541 PARAMS: {'max_id': b'743800964730261505', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:43,066 PARAMS: {'create': b'True'}
+2016-06-21 22:58:44,478 PARAMS: {'max_id': b'743773517896876032', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:44,785 PARAMS: {'create': b'True'}
+2016-06-21 22:58:46,118 PARAMS: {'max_id': b'743737611416535039', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:46,327 PARAMS: {'create': b'True'}
+2016-06-21 22:58:46,981 PARAMS: {'max_id': b'743717412005044229', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:47,189 PARAMS: {'create': b'True'}
+2016-06-21 22:58:47,844 PARAMS: {'max_id': b'743698013441273856', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:48,298 PARAMS: {'create': b'True'}
+2016-06-21 22:58:49,042 PARAMS: {'max_id': b'743660587406757887', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:49,252 PARAMS: {'create': b'True'}
+2016-06-21 22:58:50,190 PARAMS: {'max_id': b'743540980461223935', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:50,558 PARAMS: {'create': b'True'}
+2016-06-21 22:58:51,849 PARAMS: {'max_id': b'743507680078200831', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:52,245 PARAMS: {'create': b'True'}
+2016-06-21 22:58:53,659 PARAMS: {'max_id': b'743492062344011775', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:54,226 PARAMS: {'create': b'True'}
+2016-06-21 22:58:55,633 PARAMS: {'max_id': b'743467120097398784', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:56,033 PARAMS: {'create': b'True'}
+2016-06-21 22:58:57,160 PARAMS: {'max_id': b'743428144087056383', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:57,518 PARAMS: {'create': b'True'}
+2016-06-21 22:58:58,449 PARAMS: {'max_id': b'743398789285830655', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:58,840 PARAMS: {'create': b'True'}
+2016-06-21 22:58:59,119 PARAMS: {'max_id': b'743384465175646207', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:59,347 PARAMS: {'create': b'True'}
+2016-06-21 22:58:59,440 PARAMS: {'max_id': b'743362980427948032', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:58:59,618 PARAMS: {'create': b'True'}
+2016-06-21 22:59:00,178 PARAMS: {'max_id': b'743328695255916543', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:59:00,369 PARAMS: {'create': b'True'}
+2016-06-21 22:59:00,750 PARAMS: {'max_id': b'743230641316167679', 'q': b'aberdeen since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:59:01,087 PARAMS: {'create': b'True'}
+2016-06-21 22:59:01,089 Query returned: 181 tweets =================
+2016-06-21 22:59:11,099 PARAMS: {'q': b'deeside since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:59:11,101 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:59:11,840 PARAMS: {'create': b'True'}
+2016-06-21 22:59:12,514 PARAMS: {'max_id': b'743126547889065983', 'q': b'deeside since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:59:12,711 PARAMS: {'create': b'True'}
+2016-06-21 22:59:12,905 PARAMS: {'max_id': b'742723322807496703', 'q': b'deeside since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:59:13,109 PARAMS: {'create': b'True'}
+2016-06-21 22:59:13,110 Query returned: 9 tweets =================
+2016-06-21 22:59:23,124 PARAMS: {'q': b'tanar since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:59:23,127 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:59:23,630 PARAMS: {'create': b'True'}
+2016-06-21 22:59:23,631 Query returned: 0 tweets =================
+2016-06-21 22:59:33,648 PARAMS: {'q': b'birse since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:59:33,649 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:59:34,269 PARAMS: {'create': b'True'}
+2016-06-21 22:59:34,270 Query returned: 0 tweets =================
+2016-06-21 22:59:44,286 PARAMS: {'q': b'inverurie since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:59:44,288 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:59:44,975 PARAMS: {'create': b'True'}
+2016-06-21 22:59:45,553 PARAMS: {'max_id': b'742766386263556095', 'q': b'inverurie since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:59:45,683 PARAMS: {'create': b'True'}
+2016-06-21 22:59:45,684 Query returned: 6 tweets =================
+2016-06-21 22:59:55,697 PARAMS: {'q': b'river tarland since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 22:59:55,699 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 22:59:56,267 PARAMS: {'create': b'True'}
+2016-06-21 22:59:56,268 Query returned: 0 tweets =================
+2016-06-21 23:00:06,282 PARAMS: {'q': b'river feugh since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:00:06,285 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:00:06,932 PARAMS: {'create': b'True'}
+2016-06-21 23:00:06,932 Query returned: 0 tweets =================
+2016-06-21 23:00:16,943 PARAMS: {'q': b'river dee since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:00:16,950 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:00:17,583 PARAMS: {'create': b'True'}
+2016-06-21 23:00:17,676 PARAMS: {'max_id': b'742824764452966399', 'q': b'river dee since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:00:17,845 PARAMS: {'create': b'True'}
+2016-06-21 23:00:17,846 Query returned: 1 tweets =================
+2016-06-21 23:00:27,859 PARAMS: {'q': b'rivertarland since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:00:27,869 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:00:28,444 PARAMS: {'create': b'True'}
+2016-06-21 23:00:28,447 Query returned: 0 tweets =================
+2016-06-21 23:00:38,457 PARAMS: {'q': b'riverfeugh since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:00:38,464 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:00:39,309 PARAMS: {'create': b'True'}
+2016-06-21 23:00:39,311 Query returned: 0 tweets =================
+2016-06-21 23:00:49,352 PARAMS: {'q': b'riverdee since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:00:49,359 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:00:49,944 PARAMS: {'create': b'True'}
+2016-06-21 23:00:50,038 PARAMS: {'max_id': b'743160479795777535', 'q': b'riverdee since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:00:50,253 PARAMS: {'create': b'True'}
+2016-06-21 23:00:50,254 Query returned: 1 tweets =================
+2016-06-21 23:01:00,269 PARAMS: {'q': b'dee since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:01:00,275 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:01:01,203 PARAMS: {'create': b'True'}
+2016-06-21 23:01:02,607 PARAMS: {'max_id': b'743439522910842879', 'q': b'dee since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:01:03,050 PARAMS: {'create': b'True'}
+2016-06-21 23:01:04,464 PARAMS: {'max_id': b'743038917155422207', 'q': b'dee since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:01:04,799 PARAMS: {'create': b'True'}
+2016-06-21 23:01:05,548 PARAMS: {'max_id': b'742664995364872191', 'q': b'dee since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:01:05,813 PARAMS: {'create': b'True'}
+2016-06-21 23:01:05,816 Query returned: 38 tweets =================
+2016-06-21 23:03:12,387 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:03:12,905 max tweets: 2500 Queries:torrential,flood,"the dee"
+2016-06-21 23:03:22,916 PARAMS: {'q': b'torrential since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:03:22,919 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:03:23,544 PARAMS: {'create': b'True'}
+2016-06-21 23:03:24,511 PARAMS: {'q': b'torrential since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743102340480258047'}
+2016-06-21 23:03:24,661 PARAMS: {'create': b'True'}
+2016-06-21 23:03:24,661 Query returned: 4 tweets =================
+2016-06-21 23:03:34,672 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:03:34,673 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:03:35,500 PARAMS: {'create': b'True'}
+2016-06-21 23:03:36,905 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743073997177401343'}
+2016-06-21 23:03:37,090 PARAMS: {'create': b'True'}
+2016-06-21 23:03:37,475 PARAMS: {'q': b'flood since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'742763726655344639'}
+2016-06-21 23:03:37,604 PARAMS: {'create': b'True'}
+2016-06-21 23:03:37,605 Query returned: 19 tweets =================
+2016-06-21 23:03:47,616 PARAMS: {'q': b'"the dee" since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:03:47,619 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:03:48,223 PARAMS: {'create': b'True'}
+2016-06-21 23:03:48,504 PARAMS: {'q': b'"the dee" since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743038032689926144'}
+2016-06-21 23:03:48,736 PARAMS: {'create': b'True'}
+2016-06-21 23:03:48,737 Query returned: 3 tweets =================
+2016-06-21 23:08:53,941 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:08:54,957 max tweets: 2500 Queries:pouring,mm rain,"heavy rain",bucket,"bad weather",overflow,river flow,downpour
+2016-06-21 23:09:04,968 PARAMS: {'q': b'pouring since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:09:04,971 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:09:05,786 PARAMS: {'create': b'True'}
+2016-06-21 23:09:07,282 PARAMS: {'q': b'pouring since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743520886444130303'}
+2016-06-21 23:09:07,615 PARAMS: {'create': b'True'}
+2016-06-21 23:09:07,618 Query returned: 9 tweets =================
+2016-06-21 23:09:17,629 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:09:17,631 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:09:18,581 PARAMS: {'create': b'True'}
+2016-06-21 23:09:19,985 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743896151452155903'}
+2016-06-21 23:09:20,423 PARAMS: {'create': b'True'}
+2016-06-21 23:09:21,832 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743835753441017859'}
+2016-06-21 23:09:22,259 PARAMS: {'create': b'True'}
+2016-06-21 23:09:23,664 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743777858124976127'}
+2016-06-21 23:09:24,102 PARAMS: {'create': b'True'}
+2016-06-21 23:09:25,498 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743717459828449280'}
+2016-06-21 23:09:25,803 PARAMS: {'create': b'True'}
+2016-06-21 23:09:27,233 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743657061410611199'}
+2016-06-21 23:09:27,552 PARAMS: {'create': b'True'}
+2016-06-21 23:09:28,948 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743599309116051455'}
+2016-06-21 23:09:29,240 PARAMS: {'create': b'True'}
+2016-06-21 23:09:30,653 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743548884287426559'}
+2016-06-21 23:09:30,975 PARAMS: {'create': b'True'}
+2016-06-21 23:09:32,362 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743488480534269954'}
+2016-06-21 23:09:32,716 PARAMS: {'create': b'True'}
+2016-06-21 23:09:34,133 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743435168204075007'}
+2016-06-21 23:09:34,468 PARAMS: {'create': b'True'}
+2016-06-21 23:09:35,879 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743367678723788799'}
+2016-06-21 23:09:36,156 PARAMS: {'create': b'True'}
+2016-06-21 23:09:37,571 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743322091944968191'}
+2016-06-21 23:09:37,780 PARAMS: {'create': b'True'}
+2016-06-21 23:09:39,176 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743261966215544831'}
+2016-06-21 23:09:39,783 PARAMS: {'create': b'True'}
+2016-06-21 23:09:41,196 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743201563741659135'}
+2016-06-21 23:09:41,452 PARAMS: {'create': b'True'}
+2016-06-21 23:09:42,870 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743143675182579711'}
+2016-06-21 23:09:43,238 PARAMS: {'create': b'True'}
+2016-06-21 23:09:44,672 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743083276714266623'}
+2016-06-21 23:09:44,892 PARAMS: {'create': b'True'}
+2016-06-21 23:09:46,289 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743022878317236224'}
+2016-06-21 23:09:46,501 PARAMS: {'create': b'True'}
+2016-06-21 23:09:47,905 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'742974804354011136'}
+2016-06-21 23:09:48,346 PARAMS: {'create': b'True'}
+2016-06-21 23:09:49,737 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'742914427696099327'}
+2016-06-21 23:09:49,964 PARAMS: {'create': b'True'}
+2016-06-21 23:09:51,443 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'742854241946107903'}
+2016-06-21 23:09:51,873 PARAMS: {'create': b'True'}
+2016-06-21 23:09:53,286 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'742800222854729729'}
+2016-06-21 23:09:53,613 PARAMS: {'create': b'True'}
+2016-06-21 23:09:55,010 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'742748314765004799'}
+2016-06-21 23:09:55,246 PARAMS: {'create': b'True'}
+2016-06-21 23:09:56,640 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'742687915889823743'}
+2016-06-21 23:09:56,883 PARAMS: {'create': b'True'}
+2016-06-21 23:09:58,287 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'742627779439677440'}
+2016-06-21 23:09:58,491 PARAMS: {'create': b'True'}
+2016-06-21 23:09:59,906 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'742567378169540607'}
+2016-06-21 23:10:00,276 PARAMS: {'create': b'True'}
+2016-06-21 23:10:01,684 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'742507175122243583'}
+2016-06-21 23:10:01,856 PARAMS: {'create': b'True'}
+2016-06-21 23:10:01,949 PARAMS: {'q': b'mm rain since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'742506917990420479'}
+2016-06-21 23:10:02,088 PARAMS: {'create': b'True'}
+2016-06-21 23:10:02,095 Query returned: 376 tweets =================
+2016-06-21 23:10:12,112 PARAMS: {'q': b'"heavy rain" since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:10:12,116 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:10:13,153 PARAMS: {'create': b'True'}
+2016-06-21 23:10:14,372 PARAMS: {'q': b'"heavy rain" since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'742665083654950911'}
+2016-06-21 23:10:14,550 PARAMS: {'create': b'True'}
+2016-06-21 23:10:14,834 PARAMS: {'q': b'"heavy rain" since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'742624723125866495'}
+2016-06-21 23:10:15,015 PARAMS: {'create': b'True'}
+2016-06-21 23:10:15,017 Query returned: 16 tweets =================
+2016-06-21 23:10:25,028 PARAMS: {'q': b'bucket since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:10:25,034 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:10:26,097 PARAMS: {'create': b'True'}
+2016-06-21 23:10:27,492 PARAMS: {'q': b'bucket since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'743201191706910719'}
+2016-06-21 23:10:27,896 PARAMS: {'create': b'True'}
+2016-06-21 23:10:29,098 PARAMS: {'q': b'bucket since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'742534593895628807'}
+2016-06-21 23:10:29,296 PARAMS: {'create': b'True'}
+2016-06-21 23:10:29,297 Query returned: 28 tweets =================
+2016-06-21 23:10:39,311 PARAMS: {'q': b'"bad weather" since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:10:39,316 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:10:40,236 PARAMS: {'create': b'True'}
+2016-06-21 23:10:41,165 PARAMS: {'q': b'"bad weather" since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'742686827715436543'}
+2016-06-21 23:10:41,349 PARAMS: {'create': b'True'}
+2016-06-21 23:10:41,365 Query returned: 10 tweets =================
+2016-06-21 23:10:51,382 PARAMS: {'q': b'overflow since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:10:51,384 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:10:52,064 PARAMS: {'create': b'True'}
+2016-06-21 23:10:52,069 Query returned: 0 tweets =================
+2016-06-21 23:11:02,080 PARAMS: {'q': b'river flow since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:11:02,081 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:11:02,816 PARAMS: {'create': b'True'}
+2016-06-21 23:11:02,817 Query returned: 0 tweets =================
+2016-06-21 23:11:12,831 PARAMS: {'q': b'downpour since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:11:12,833 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:11:13,568 PARAMS: {'create': b'True'}
+2016-06-21 23:11:13,755 PARAMS: {'q': b'downpour since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99', 'max_id': b'742648747029598207'}
+2016-06-21 23:11:13,901 PARAMS: {'create': b'True'}
+2016-06-21 23:11:13,902 Query returned: 2 tweets =================
+2016-06-21 23:17:16,040 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:17:16,796 max tweets: 2500 Queries:tarland,feugh
+2016-06-21 23:17:26,807 PARAMS: {'q': b'tarland since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:17:26,808 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:17:27,460 PARAMS: {'create': b'True'}
+2016-06-21 23:17:27,460 Query returned: 0 tweets =================
+2016-06-21 23:17:37,469 PARAMS: {'q': b'feugh since:2016-06-14  until:2016-06-18  place:0af014accd6f6e99'}
+2016-06-21 23:17:37,472 Starting new HTTPS connection (1): api.twitter.com
+2016-06-21 23:17:38,290 PARAMS: {'create': b'True'}
+2016-06-21 23:17:38,291 Query returned: 0 tweets =================

@@ -1,0 +1,269 @@
+{
+  "result":  {
+    "places":  [
+       {
+        "id": "6416b8512febefc9",
+        "url": "https://api.twitter.com/1.1/geo/id/6416b8512febefc9.json",
+        "place_type": "country",
+        "name": "United Kingdom",
+        "full_name": "United Kingdom",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within":  [],
+        "centroid":  [
+          -1.9280975903801871,
+          54.3306827
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -8.662663,
+                49.1626564
+              ],
+               [
+                -8.662663,
+                60.86165
+              ],
+               [
+                1.768926,
+                60.86165
+              ],
+               [
+                1.768926,
+                49.1626564
+              ],
+               [
+                -8.662663,
+                49.1626564
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "96683cc9126741d1",
+        "url": "https://api.twitter.com/1.1/geo/id/96683cc9126741d1.json",
+        "place_type": "country",
+        "name": "United States",
+        "full_name": "United States",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within":  [],
+        "centroid":  [
+          -98.99308143101959,
+          36.890333500000004
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -179.231086,
+                13.182335
+              ],
+               [
+                -179.231086,
+                71.434357
+              ],
+               [
+                179.859685,
+                71.434357
+              ],
+               [
+                179.859685,
+                13.182335
+              ],
+               [
+                -179.231086,
+                13.182335
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "3f63906fc8aa5a7d",
+        "url": "https://api.twitter.com/1.1/geo/id/3f63906fc8aa5a7d.json",
+        "place_type": "country",
+        "name": "United Arab Emirates",
+        "full_name": "United Arab Emirates",
+        "country_code": "AE",
+        "country": "United Arab Emirates",
+        "contained_within":  [],
+        "centroid":  [
+          55.14730118416988,
+          24.3551493
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                51.2938738,
+                22.6261387
+              ],
+               [
+                51.2938738,
+                26.2823697
+              ],
+               [
+                56.3816989,
+                26.2823697
+              ],
+               [
+                56.3816989,
+                22.6261387
+              ],
+               [
+                51.2938738,
+                22.6261387
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "08fbcf4cbc4bc5b9",
+        "url": "https://api.twitter.com/1.1/geo/id/08fbcf4cbc4bc5b9.json",
+        "place_type": "country",
+        "name": "United States Minor Outlying Islands",
+        "full_name": "United States Minor Outlying Islands",
+        "country_code": "UM",
+        "country": "United States Minor Outlying Islands",
+        "contained_within":  [],
+        "centroid":  [
+          -162.75338903542462,
+          6.2126946499999995
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -177.3967777,
+                -0.3807833
+              ],
+               [
+                -177.3967777,
+                28.2196605
+              ],
+               [
+                166.657445,
+                28.2196605
+              ],
+               [
+                166.657445,
+                -0.3807833
+              ],
+               [
+                -177.3967777,
+                -0.3807833
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "fc6282dff859b848",
+        "url": "https://api.twitter.com/1.1/geo/id/fc6282dff859b848.json",
+        "place_type": "country",
+        "name": "Hashemite Kingdom of Jordan",
+        "full_name": "Hashemite Kingdom of Jordan",
+        "country_code": "JO",
+        "country": "Hashemite Kingdom of Jordan",
+        "contained_within":  [],
+        "centroid":  [
+          36.31971222488649,
+          31.2805633
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                34.9427626,
+                29.1862444
+              ],
+               [
+                34.9427626,
+                33.3748822
+              ],
+               [
+                39.3011038,
+                33.3748822
+              ],
+               [
+                39.3011038,
+                29.1862444
+              ],
+               [
+                34.9427626,
+                29.1862444
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "08b2d74428e2ca88",
+        "url": "https://api.twitter.com/1.1/geo/id/08b2d74428e2ca88.json",
+        "place_type": "country",
+        "name": "Kingdom of Saudi Arabia",
+        "full_name": "Kingdom of Saudi Arabia",
+        "country_code": "SA",
+        "country": "Kingdom of Saudi Arabia",
+        "contained_within":  [],
+        "centroid":  [
+          44.56510712588738,
+          24.259922349999997
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                34.567591,
+                16.3590225
+              ],
+               [
+                34.567591,
+                32.1608222
+              ],
+               [
+                55.6666671,
+                32.1608222
+              ],
+               [
+                55.6666671,
+                16.3590225
+              ],
+               [
+                34.567591,
+                16.3590225
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      }
+    ]
+  },
+  "query":  {
+    "url": "https://api.twitter.com/1.1/geo/search.json?granularity=country&query=United%20Kingdom",
+    "type": "search",
+    "params":  {
+      "accuracy": 0,
+      "granularity": "country",
+      "query": "United Kingdom",
+      "autocomplete": false,
+      "trim_place": false
+    }
+  }
+}

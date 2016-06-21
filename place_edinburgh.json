@@ -1,0 +1,185 @@
+{
+  "result":  {
+    "places":  [
+       {
+        "id": "7ae9e2f2ff7a87cd",
+        "url": "https://api.twitter.com/1.1/geo/id/7ae9e2f2ff7a87cd.json",
+        "place_type": "city",
+        "name": "Edinburgh",
+        "full_name": "Edinburgh, Scotland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within":  [
+           {
+            "id": "01a291d5428f15ab",
+            "url": "https://api.twitter.com/1.1/geo/id/01a291d5428f15ab.json",
+            "place_type": "admin",
+            "name": "Edinburgh",
+            "full_name": "Edinburgh",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "centroid":  [
+              -3.195592728161283,
+              55.8880045
+            ],
+            "bounding_box":  {
+              "type": "Polygon",
+              "coordinates":  [
+                 [
+                   [
+                    -3.831248,
+                    55.710347
+                  ],
+                   [
+                    -3.831248,
+                    56.079285
+                  ],
+                   [
+                    -2.365929,
+                    56.079285
+                  ],
+                   [
+                    -2.365929,
+                    55.710347
+                  ],
+                   [
+                    -3.831248,
+                    55.710347
+                  ]
+                ]
+              ]
+            },
+            "attributes":  {}
+          }
+        ],
+        "centroid":  [
+          -3.2486194149978367,
+          55.9431955
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -3.3285119,
+                55.894729
+              ],
+               [
+                -3.3285119,
+                55.991662
+              ],
+               [
+                -3.077505,
+                55.991662
+              ],
+               [
+                -3.077505,
+                55.894729
+              ],
+               [
+                -3.3285119,
+                55.894729
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+       {
+        "id": "01eb1b175140283a",
+        "url": "https://api.twitter.com/1.1/geo/id/01eb1b175140283a.json",
+        "place_type": "city",
+        "name": "Edinburgh",
+        "full_name": "Edinburgh, IN",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within":  [
+           {
+            "id": "9a21ce2331492758",
+            "url": "https://api.twitter.com/1.1/geo/id/9a21ce2331492758.json",
+            "place_type": "admin",
+            "name": "Indianapolis IN",
+            "full_name": "Indianapolis IN",
+            "country_code": "US",
+            "country": "United States",
+            "centroid":  [
+              -86.05922933325917,
+              39.795559999999995
+            ],
+            "bounding_box":  {
+              "type": "Polygon",
+              "coordinates":  [
+                 [
+                   [
+                    -87.092563,
+                    38.686561
+                  ],
+                   [
+                    -87.092563,
+                    40.904559
+                  ],
+                   [
+                    -85.101117,
+                    40.904559
+                  ],
+                   [
+                    -85.101117,
+                    38.686561
+                  ],
+                   [
+                    -87.092563,
+                    38.686561
+                  ]
+                ]
+              ]
+            },
+            "attributes":  {}
+          }
+        ],
+        "centroid":  [
+          -85.96477596769658,
+          39.3399539
+        ],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -85.985354,
+                39.3171438
+              ],
+               [
+                -85.985354,
+                39.362764
+              ],
+               [
+                -85.952059,
+                39.362764
+              ],
+               [
+                -85.952059,
+                39.3171438
+              ],
+               [
+                -85.985354,
+                39.3171438
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      }
+    ]
+  },
+  "query":  {
+    "url": "https://api.twitter.com/1.1/geo/search.json?granularity=city&query=Edinburgh",
+    "type": "search",
+    "params":  {
+      "accuracy": 0,
+      "granularity": "city",
+      "query": "Edinburgh",
+      "autocomplete": false,
+      "trim_place": false
+    }
+  }
+}
