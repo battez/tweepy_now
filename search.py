@@ -1,5 +1,13 @@
 ''' search twitter REST API 7 day window for tweets using Tweepy lib.
 Some automated queries.
+PIPELINE:
+- read in a CSV  (single column) of query terms
+- with this list of terms, fine-tune the query, dates, location etc.
+- loop through all queries, giving time for rate limit to restart
+- save to mongo db along with logs of queries
+- use multiple index on mongodb 
+- db.tweets_more.createIndex( {"text": "text", "entities.hashtags.text":"text"}, 
+{"weights": { 'entities.hashtags.text': 3, 'text':1 }} )
 '''
 import sys
 import os
@@ -44,14 +52,13 @@ except e:
 db = client['Twitter']
 
 # remote test
-post = {"author": "Luke","text": "My first blog post!"}
 client_alt = MongoClient(config.MLAB_URI)
 db_alt = client_alt.demo 
 
 
 def process_or_store(tweet):
     '''do something with tweets we get from Twitter API'''
-    collection = db_alt['tweets']
+    collection = db_alt['tweets_more']
     try:
         collection.insert(tweet)
     except:
@@ -67,24 +74,35 @@ def csv_reader(file_obj):
     for row in reader:
         lines.append(row[0].strip())
     return lines
-csv_file = 'compiled_france.csv'
+
+csv_file = 'compiled_france_location.csv'
+
 with open(csv_file, "r") as f_obj:
     queries = csv_reader(f_obj)
-
-logging.info('Queries include:'+ ','.join(queries))
+queries = ['seinecrue', 'crueseine', 'pariscrues','pariscrue', 'cruesparis', \
+ 'crueparis', 'flood', 'crue', 'inondation', 'intemperies']
+max_tweets = 2500
+logging.info('max tweets: ' + str(max_tweets) + ' Queries:'+ ','.join(queries))
 since = " since:2016-05-30 "
-geos = {'midway_paris_sens':'48.5377029,2.4897794,30mi'}
-geo = geos['midway_paris_sens']
+until = " until:2016-06-04 "  
+geos = {'midway_paris_sens':'48.5377029,2.4897794,30mi', \
+'centred_on_paris':'48.8589507,1.2269498,90mi', \
+'paris':'48.8589507,2.27751752,10mi'}
+geo = geos['paris']
  # geocode – Returns tweets by users located within a given radius of
 # the given latitude/longitude. The location is preferentially taking from 
 #the Geotagging API, but will fall back to their Twitter profile. The 
 # parameter value is specified by “latitide,longitude,radius”
 # might need to do until Saturday date so get max sweep of Wed Thu Fri
-qualify = since
-max_tweets = 2000
+
+# Finetune query:  also crues, intemperies, pariscrue, crueparis, 
+qualify = until
+
 for query in queries:
-    sleep(2) # in case we overstep our mongo lab free access
-    print('processing...', query + ' geocode:' + geo)
+    sleep(10) # in case we overstep our mongo lab free access; or 
+    # if queries to twitter are too quickly getting zero results back, 
+    # so we end up bombard the API
+    print('processing...', query + qualify + ' geocode:' + geo)
     
     for status in tweepy.Cursor(api.search, \
         q=query + qualify, geocode=geo).items(max_tweets):
