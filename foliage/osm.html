@@ -1,0 +1,312 @@
+
+        <!DOCTYPE html>
+        <head>
+            
+        
+            <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster-src.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://raw.githubusercontent.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
+        
+        
+        
+            
+            <style>
+
+            html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+                }
+
+            #map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+            
+        
+            
+            <style> #map_e9fe89b1149445fc80dbbe86966349a5 {
+                position : relative;
+                width : 100.0%;
+                height: 100.0%;
+                left: 0.0%;
+                top: 0.0%;
+                }
+            </style>
+        
+        
+        
+        </head>
+        <body>
+            
+        
+            
+            <div class="folium-map" id="map_e9fe89b1149445fc80dbbe86966349a5" ></div>
+        
+        
+        
+        </body>
+        <script>
+            
+        
+            
+
+            var southWest = L.latLng(-90, -180);
+            var northEast = L.latLng(90, 180);
+            var bounds = L.latLngBounds(southWest, northEast);
+
+            var map_e9fe89b1149445fc80dbbe86966349a5 = L.map('map_e9fe89b1149445fc80dbbe86966349a5', {
+                                           center:[57.0769745,-2.7927203],
+                                           zoom: 9,
+                                           maxBounds: bounds,
+                                           layers: [],
+                                           crs: L.CRS.EPSG3857
+                                         });
+            
+        
+        
+            
+            var tile_layer_da5a76ab440f4425861d4c23acfeabc4 = L.tileLayer(
+                'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                {
+                    maxZoom: 18,
+                    minZoom: 1,
+                    attribution: 'Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.',
+                    detectRetina: false
+                    }
+                ).addTo(map_e9fe89b1149445fc80dbbe86966349a5);
+
+        
+        
+            
+
+            var marker_8e60d816894d4107a3713a61f913398e = L.marker(
+                [57.33888889,-2.18416667],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_e9fe89b1149445fc80dbbe86966349a5);
+            
+        
+            
+
+                var icon_42a4fe166007477c894f37fdbd807d47 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'blue',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_8e60d816894d4107a3713a61f913398e.setIcon(icon_42a4fe166007477c894f37fdbd807d47);
+            
+        
+            
+            var popup_8088dc369a8245d9ba58f7f8800b1f57 = L.popup({maxWidth: '300'});
+
+            
+                var html_02fbf2eba9d24fd3a86a8dc46de6b638 = $('         <div id="html_02fbf2eba9d24fd3a86a8dc46de6b638"                 style="width: 100.0%; height: 100.0%;">                 Wind 8.2mph NE. Barometer 1002.9hPa, Steady. Temperature 12.0°C. Rain today 0.9mm. Forecast Fairly fine, showers likely DATE:Wed Jun 15 00:00:03 +0000 2016</div>                 ')[0];
+                popup_8088dc369a8245d9ba58f7f8800b1f57.setContent(html_02fbf2eba9d24fd3a86a8dc46de6b638);
+            
+
+            marker_8e60d816894d4107a3713a61f913398e.bindPopup(popup_8088dc369a8245d9ba58f7f8800b1f57);
+
+            
+        
+        
+            
+
+            var marker_0cb3ac0291ca414280aae5058b664d28 = L.marker(
+                [57.1875,-7.39972222],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_e9fe89b1149445fc80dbbe86966349a5);
+            
+        
+            
+
+                var icon_897f66c4bdb4481194a7b36f0cec8bf0 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'blue',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_0cb3ac0291ca414280aae5058b664d28.setIcon(icon_897f66c4bdb4481194a7b36f0cec8bf0);
+            
+        
+            
+            var popup_d0a93c683fde4964bfb608054a8fefac = L.popup({maxWidth: '300'});
+
+            
+                var html_c844e2629ce94bcc82f00fc7a8171ca7 = $('         <div id="html_c844e2629ce94bcc82f00fc7a8171ca7"                 style="width: 100.0%; height: 100.0%;">                 Wind 12.0 mph NNE. Barometer 999.73 mb, Steady. Temperature 14.0 °C. Rain today 0.0 mm. Humidity 68% DATE:Wed Jun 15 00:00:27 +0000 2016</div>                 ')[0];
+                popup_d0a93c683fde4964bfb608054a8fefac.setContent(html_c844e2629ce94bcc82f00fc7a8171ca7);
+            
+
+            marker_0cb3ac0291ca414280aae5058b664d28.bindPopup(popup_d0a93c683fde4964bfb608054a8fefac);
+
+            
+        
+        
+            
+
+            var marker_075211e61993481ea1dd175c67a292dd = L.marker(
+                [56.553,-3.143],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_e9fe89b1149445fc80dbbe86966349a5);
+            
+        
+            
+
+                var icon_2a172b90710e4f37b292942721932e41 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'blue',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_075211e61993481ea1dd175c67a292dd.setIcon(icon_2a172b90710e4f37b292942721932e41);
+            
+        
+            
+            var popup_c57b9691c94e4af68679f71ece22cece = L.popup({maxWidth: '300'});
+
+            
+                var html_f1194c3266c844cd95fd0aa51cdc4c5f = $('         <div id="html_f1194c3266c844cd95fd0aa51cdc4c5f"                 style="width: 100.0%; height: 100.0%;">                 00:59 BST: Temperature: 13.5°C, Wind: NE, 2 mph (ave), 8 mph (gust), Humidity: 96%, Rain (hourly) 0.0 mm, Pressure: 973 hPa, rising slowly DATE:Wed Jun 15 00:00:34 +0000 2016</div>                 ')[0];
+                popup_c57b9691c94e4af68679f71ece22cece.setContent(html_f1194c3266c844cd95fd0aa51cdc4c5f);
+            
+
+            marker_075211e61993481ea1dd175c67a292dd.bindPopup(popup_c57b9691c94e4af68679f71ece22cece);
+
+            
+        
+        
+            
+
+            var marker_8c9bcaeb2531432d8c4e333545b1cc26 = L.marker(
+                [55.81833333,-3.93472222],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_e9fe89b1149445fc80dbbe86966349a5);
+            
+        
+            
+
+                var icon_d8b845a339954adeb5fc2a8b1ddb71ad = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'blue',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_8c9bcaeb2531432d8c4e333545b1cc26.setIcon(icon_d8b845a339954adeb5fc2a8b1ddb71ad);
+            
+        
+            
+            var popup_ee1bbee2c9894c35910897a6cafa70d5 = L.popup({maxWidth: '300'});
+
+            
+                var html_47f04756bd1d495cadbb3da806be59f2 = $('         <div id="html_47f04756bd1d495cadbb3da806be59f2"                 style="width: 100.0%; height: 100.0%;">                 Wind 1.1 km/h NNE. Barometer 995.3 mb, Rising slowly. Temperature 11.3 °C. Rain today 0.0 mm. Humidity 91% DATE:Wed Jun 15 00:10:33 +0000 2016</div>                 ')[0];
+                popup_ee1bbee2c9894c35910897a6cafa70d5.setContent(html_47f04756bd1d495cadbb3da806be59f2);
+            
+
+            marker_8c9bcaeb2531432d8c4e333545b1cc26.bindPopup(popup_ee1bbee2c9894c35910897a6cafa70d5);
+
+            
+        
+        
+        
+        </script>
+        

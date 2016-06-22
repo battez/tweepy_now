@@ -82,54 +82,54 @@ def csv_reader(file_obj):
         lines.append(row[0].strip())
     return lines
 
+if __name__ == '__main__':
+    csv_file = 'scotland_place_plus_aberdeenplaceterm.csv'
 
-csv_file = 'scotland_place_plus_aberdeenplaceterm.csv'
+    with open(csv_file, "r") as f_obj:
+        queries = csv_reader(f_obj)
+    # queries = ['☂', '☔']
+    queries = ['tarland','feugh']
+    max_tweets = 2500
+    logging.info('max tweets: ' + str(max_tweets) + ' Queries:'+ ','.join(queries))
+    since = " since:2016-06-14 "
+    until = " until:2016-06-18 "  
+    geos = {'midway_paris_sens':'48.5377029,2.4897794,30mi', \
+    'centred_on_paris':'48.8589507,1.2269498,90mi', \
+    'paris':'48.8589507,2.27751752,10mi', \
+    'centred_on_aboyne': '57.0769745,-2.7927203,60mi'}
+    geo = geos['centred_on_aboyne']
+     # geocode – Returns tweets by users located within a given radius of
+    # the given latitude/longitude. The location is preferentially taking from 
+    #the Geotagging API, but will fall back to their Twitter profile. The 
+    # parameter value is specified by “latitide,longitude,radius”
+    # might need to do until Saturday date so get max sweep of Wed Thu Fri
 
-with open(csv_file, "r") as f_obj:
-    queries = csv_reader(f_obj)
-# queries = ['☂', '☔']
-queries = ['tarland','feugh']
-max_tweets = 2500
-logging.info('max tweets: ' + str(max_tweets) + ' Queries:'+ ','.join(queries))
-since = " since:2016-06-14 "
-until = " until:2016-06-18 "  
-geos = {'midway_paris_sens':'48.5377029,2.4897794,30mi', \
-'centred_on_paris':'48.8589507,1.2269498,90mi', \
-'paris':'48.8589507,2.27751752,10mi', \
-'centred_on_aboyne': '57.0769745,-2.7927203,60mi'}
-geo = geos['centred_on_aboyne']
- # geocode – Returns tweets by users located within a given radius of
-# the given latitude/longitude. The location is preferentially taking from 
-#the Geotagging API, but will fall back to their Twitter profile. The 
-# parameter value is specified by “latitide,longitude,radius”
-# might need to do until Saturday date so get max sweep of Wed Thu Fri
+    # Finetune query:  also crues, intemperies, pariscrue, crueparis, 
+    qualify = since + until
 
-# Finetune query:  also crues, intemperies, pariscrue, crueparis, 
-qualify = since + until
+    # places = api_oauth.geo_search(query="Aberdeen, United Kingdom",granularity="city")
+    # place_id = places[0].id
 
-# places = api_oauth.geo_search(query="Aberdeen, United Kingdom",granularity="city")
-# place_id = places[0].id
+    # print(place_id) # 6416b8512febefc9 uk; aberdeen: 73cc26d418860ddd
 
-# print(place_id) # 6416b8512febefc9 uk; aberdeen: 73cc26d418860ddd
+    # UPDATED code for a very broad place search ( do not use the geocode )
+    # test these searches with Apigee website console for simplicity
+    places = {'Scotland':'0af014accd6f6e99','UK':'6416b8512febefc9', 'Aberdeen':'73cc26d418860ddd'}
+    place = ' place:' + places['Scotland']
+    geo = None # disable this for this type of query
+    qualify = qualify + place
+    for query in queries:
+        sleep(10) # in case we overstep our mongo lab free access; or 
+        # if queries to twitter are too quickly getting zero results back, 
+        # so we end up bombard the API
+        print('processing...', query + qualify + str(geo))
+        count = 0
+        for status in tweepy.Cursor(api.search, \
+            q=query + qualify, geocode=geo).items(max_tweets):
+            # Process a single status
+            process_or_store(status._json) # convenience: json from Status obj
+            count += 1
 
-# UPDATED code for a very broad place search ( do not use the geocode )
-# test these searches with Apigee website console for simplicity
-places = {'Scotland':'0af014accd6f6e99','UK':'6416b8512febefc9', 'Aberdeen':'73cc26d418860ddd'}
-place = ' place:' + places['Scotland']
-geo = None # disable this for this type of query
-qualify = qualify + place
-for query in queries:
-    sleep(10) # in case we overstep our mongo lab free access; or 
-    # if queries to twitter are too quickly getting zero results back, 
-    # so we end up bombard the API
-    print('processing...', query + qualify + str(geo))
-    count = 0
-    for status in tweepy.Cursor(api.search, \
-        q=query + qualify, geocode=geo).items(max_tweets):
-        # Process a single status
-        process_or_store(status._json) # convenience: json from Status obj
-        count += 1
-
-    logging.info('Query returned: ' + str(count) + ' tweets =================')
-    print(str(count))
+        logging.info('Query returned: ' + str(count) + ' tweets =================')
+        print(str(count))
 
