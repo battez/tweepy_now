@@ -9,13 +9,21 @@
 '''
 import sys
 import os
-import json
-import folium
+
+import folium, json
+import vincent
+import pandas as pd
+
 from pymongo import MongoClient, errors
 
-TWITDIR = '/home/luke/programming/'
+if sys.platform == 'win32':
+    TWITDIR = 'U:\Documents\Project\demoapptwitter'
+else:
+    TWITDIR = '/home/luke/programming/'
 
 # get the Twitter API app Oauth tokens
+
+
 sys.path.insert(0, TWITDIR)
 import config
 
@@ -46,16 +54,29 @@ map_osm = folium.Map(location=origin, zoom_start=9)
 
 #add markers
 not_geo = 0
-for tweet in cursor[:4]:
-    if not tweet['geo']:
+for twt in cursor:
+    if not twt['geo']:
         not_geo += 1
-        
+        if not_geo == 1:
+            folium.GeoJson(twt['place']['bounding_box'], \
+                style_function=lambda feature: {
+                    # 'fillColor': ,
+                    # 'color' : ,
+                    'weight' : 0.5,
+                    'fillOpacity' : 0.2,
+                    }
+                ).add_to(map_osm)
+            coords = twt['place']['bounding_box']['coordinates'][0][0][1],\
+            twt['place']['bounding_box']['coordinates'][0][0][0]
+        map_osm.circle_marker(location = coords, radius=1000, popup='Place: ' + twt['place']['full_name'])
     else:
-        coords = tweet['geo']['coordinates'][0], tweet['geo']['coordinates'][1]
-        map_osm.simple_marker(location=coords, popup=tweet['text'] \
-            + ' DATE:' + tweet['created_at'])
+        coords = twt['geo']['coordinates'][0], twt['geo']['coordinates'][1]
+        marker = folium.features.Marker(coords, popup=twt['text'] \
+             + ' DATE:' + twt['created_at'])
+        map_osm.add_children(marker)
+
     #folium.Marker(tweet).add_to(map_osm)
-map_osm.save(outfile='foliage/osm.html')
+folium.Map.save(map_osm, 'foliage/osm.html')
 print(not_geo)
 #add lines
 #folium.PolyLine(points, color="red", weight=2.5, opacity=1).add_to(map_osm)
